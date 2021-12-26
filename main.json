@@ -31,16 +31,6 @@
   "quickSearch": 0,
   "filterable": 1
 },
-    {
-      "key": "gdyy_spider",
-      "name": "孤单影视(FV0)",
-      "type": 3,
-      "api": "csp_Gdyy",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "00c8ce12-fece-5bd8-90d8-04ae99099644"
-    },
 {
   "key": "ikan_spider",
   "name": "爱看影视(SP)",
@@ -52,10 +42,10 @@
   "ext": "A9545C889B5D"
 },
     {
-      "key": "epang_spider",
-      "name": "阿房App(SP)",
+      "key": "gdyy_spider",
+      "name": "孤单影视(FV0)",
       "type": 3,
-      "api": "csp_EPangApp",
+      "api": "csp_Gdyy",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
@@ -85,7 +75,6 @@
   "quickSearch": 1,
   "filterable": 1
 },
-
 {
 	"key": "csp_N0ys",
 	"name": "九零影视(SP)",
@@ -96,7 +85,16 @@
 	"filterable": 0,
 	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
 },
-
+    {
+      "key": "buka_spider",
+      "name": "真不卡(SP)",
+      "type": 3,
+      "api": "csp_Buka",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/buka.json"
+    },
 {
     "key": "csp_YydsAli1",
     "name": "YYDS阿里(SP)",
