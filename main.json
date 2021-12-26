@@ -22,6 +22,15 @@
   "filterable": 1,
   "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"
 },
+{
+  "key": "csp_Ysgc",
+  "name": "影视工厂(SP)",
+  "type": 3,
+  "api": "csp_Ysgc",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
 
 {
   "key": "ikan_spider",
@@ -43,20 +52,12 @@
 	"filterable": 0,
 	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
 },
-{
-  "key": "csp_Ysgc",
-  "name": "影视工厂(SP)",
-  "type": 3,
-  "api": "csp_Ysgc",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1
-},
     {
       "key": "人人迷源(蓝光)",
       "name": "人人迷源(蓝光)",
       "type": 1,
       "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "",
       "categories": ["动漫","综艺","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","恐怖片","国产剧","港台剧","日韩剧","欧美剧","其他剧"]
     },
 //    {
@@ -76,7 +77,6 @@
   "quickSearch": 1,
   "filterable": 1
 },
-
     {
       "key": "buka_spider",
       "name": "真不卡(SP)",
@@ -96,6 +96,15 @@
     "quickSearch": 0,
     "filterable": 0
 },
+    {
+      "key": "enlienli_spider",
+      "name": "嗯哩嗯哩(SP)",
+      "type": 3,
+      "api": "csp_Enlienli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
   "key": "csp_xpath_subb",
   "name": "素白白影视(XP)",
@@ -963,32 +972,41 @@
       "i": "check at 2021-12-10 08:39:34"
     },
     {
+      "name": "琳琅影视",
+      "type": 1,
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=1846&my=opsuvwBEHIJKNQSW09&url=",
+      "t": 173,
+      "i": "check at 2021-12-20 18:43:31"
+    },
+{"name": "Json.rrm4","url": "https://kuba.renrenmi.cc:2266/api/?key=8ef5RkcJl8azYmypfw&url=","type": 1},
+    {
+      "name": "看剧吧1",
+      "type": 1,
+      "url": "https://svip.renrenmi.cc:2222/api/?key=fI3YQ3vxF5uREfNpDU&url=",
+      "t": 204,
+      "i": "check at 2021-12-20 18:43:35"
+    },
+    {
+      "name": "影阅阁3",
+      "type": 1,
+      "url": "https://svip.renrenmi.cc:2222/api/?key=82KErJogweliHPt7Yp&url=",
+      "t": 235,
+      "i": "check at 2021-12-20 18:44:00"
+    },
+    {
       "name": "久久追剧1",
       "type": 1,
       "url": "https://json.nbjx.vip:4399/?wap=1&url=",
       "t": 263,
       "i": "check at 2021-12-10 08:40:09"
     },
-    {
-      "name": "快云影音1",
-      "type": 1,
-      "url": "http://vip.mengx.vip/home/api?type=ys&uid=2494472&key=deglpquwxzDNQRV378&url=",
-      "t": 283,
-      "i": "check at 2021-12-10 08:41:20"
-    },
+
     {
       "name": "黄河影视",
       "type": 1,
       "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=",
       "t": 300,
       "i": "check at 2021-12-10 08:39:30"
-    },
-    {
-      "name": "南府影视3",
-      "type": 1,
-      "url": "http://play.szbodankyy.com/cnmb101/?url=",
-      "t": 300,
-      "i": "check at 2021-12-10 08:42:16"
     },
     {
       "name": "5060影院",
@@ -1005,34 +1023,6 @@
       "i": "check at 2021-12-10 08:40:10"
     },
     {
-      "name": "久久追剧",
-      "type": 1,
-      "url": "https://jx.iztyy.com/svip/json.php?url=",
-      "t": 344,
-      "i": "check at 2021-12-10 08:40:09"
-    },
-    {
-      "name": "南府影视2",
-      "type": 1,
-      "url": "http://ay5k.wchulian.com.cn/home/api?type=ys&uid=218311&key=bghituvyCDSUY01568&tm=1637161513062&url=",
-      "t": 351,
-      "i": "check at 2021-12-10 08:42:16"
-    },
-    {
-      "name": "疯狂看",
-      "type": 1,
-      "url": "https://a.zhuijula.top/yun_api.php?url=",
-      "t": 482,
-      "i": "check at 2021-12-10 08:42:05"
-    },
-    {
-      "name": "公主影视",
-      "type": 1,
-      "url": "http://jno.mshemvg.cn/?url=",
-      "t": 506,
-      "i": "check at 2021-12-10 08:41:22"
-    },
-    {
       "name": "益达影院",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url=",
@@ -1045,13 +1035,6 @@
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",
       "t": 523,
       "i": "check at 2021-12-10 08:41:26"
-    },
-    {
-      "name": "神马影院",
-      "type": 1,
-      "url": "https://jhpc.manduhu.com/j.php?url=",
-      "t": 565,
-      "i": "check at 2021-12-10 08:41:36"
     },
     {
       "name": "土豆TV",
@@ -1073,20 +1056,6 @@
       "url": "https://cs.024zs.com:4433/api/?key=VCDHl8VpAYYG8tpBCt&url=",
       "t": 623,
       "i": "check at 2021-12-10 08:41:20"
-    },
-    {
-      "name": "看剧吧1",
-      "type": 1,
-      "url": "https://svip.renrenmi.cc:2222/api/?key=fI3YQ3vxF5uREfNpDU&url=",
-      "t": 643,
-      "i": "check at 2021-12-10 08:40:58"
-    },
-    {
-      "name": "播放呀",
-      "type": 1,
-      "url": "https://svip.renrenmi.cc:2222/api/?key=x0VwYU871Aj4BA0NA7&url=",
-      "t": 647,
-      "i": "check at 2021-12-10 08:41:49"
     },
     {
       "name": "筋斗云",
@@ -1159,32 +1128,11 @@
       "i": "check at 2021-12-10 08:41:54"
     },
     {
-      "name": "雪人资源",
-      "type": 1,
-      "url": "https://json.qd234.cn/api/?key=G2NQr3B2XNfDQ4Lwmo&url=",
-      "t": 811,
-      "i": "check at 2021-12-10 08:39:36"
-    },
-    {
-      "name": "星空影视",
-      "type": 1,
-      "url": "http://jx.vipmv.co/json5/?url=",
-      "t": 835,
-      "i": "check at 2021-12-10 08:40:18"
-    },
-    {
       "name": "影阅阁1",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url=",
       "t": 859,
       "i": "check at 2021-12-10 08:42:20"
-    },
-    {
-      "name": "绿箭影视",
-      "type": 1,
-      "url": "https://json.qd234.cn/api/?key=ODVLeebHk0VsK0M2nG&url=",
-      "t": 864,
-      "i": "check at 2021-12-10 08:41:40"
     },
     {
       "name": "雨果影视",
@@ -1193,31 +1141,15 @@
       "t": 866,
       "i": "check at 2021-12-10 08:40:06"
     },
-    {
-      "name": "我爱电影",
-      "type": 1,
-      "url": "https://ysjx.jikezhuji.com/api/?key=Q4tfgmPEsD23t3TCTU&url=",
-      "t": 881,
-      "i": "check at 2021-12-10 08:41:27"
-    },
-    {
-      "name": "氢视频",
-      "type": 1,
-      "url": "https://json.qd234.cn/api/?key=CC99HRrrB0YgsSCPlS&url=",
-      "t": 922,
-      "i": "check at 2021-12-10 08:40:57"
-    },
+
 {"name": "Json.天空影视","url": "https://cache.tkys.tv/jh/?url=","type":1},
 {"name": "Json.jhjx","url": "https://jhjx.ptygx.com/tyjx.php/?url=","type":1},
-{"name": "Json.追剧","url": "http://jx.vipmv.co/json5/?url=","type": 1},
 {"name": "Json.fkkdya","url": "http://a.fkkdy.vip/?url=","type": 1},
 {"name": "Json.mengx","url": "http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url=","type": 1},
 {"name": "Json.m3u8","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=6493855&key=dghkqwxyBHIOX14568&url=","type": 1},
 {"name": "Json.yunhai","url": "http://jx.astv.vip/home/api?type=ys&uid=773933&key=ilmnwyBDHKRUVW3469&url=","type": 1},
 //{"name": "Json.qh","url": "https://jx.qinghuanzy.com:520/json.php?token=5ZK2MSnCQ0&url=","type": 1},
 {"name": "Json.盘古","url": "https://json.pangujiexi.com:12345/json.php?url=","type": 1},
-{"name": "Json.manduhu","url": "https://jhpc.manduhu.com/j.php?url=","type": 1},
-{"name": "Json.rrm3","url": "https://kuba.renrenmi.cc:2266/api/?key=uoZMc8HhA0cOKYzUxA&url=","type": 1},
 {"name": "Json.rrm4","url": "https://kuba.renrenmi.cc:2266/api/?key=8ef5RkcJl8azYmypfw&url=","type": 1},
   {"name": "parwix","url": "https://vip.parwix.com:4433/player/?url="},
   {"name": "影视工厂","url": "https://jx.ysgc.xyz/?url="},
