@@ -41,6 +41,16 @@
   "filterable": 0,
   "ext": "A9545C889B5D"
 },
+{
+	"key": "csp_N0ys",
+	"name": "九零影视(SP)",
+	"type": 3,
+	"api": "csp_N0ys",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
+},
 //    {
 //      "key": "人人迷源(蓝光)",
 //      "name": "人人迷源(蓝光)",
@@ -66,16 +76,7 @@
   "quickSearch": 1,
   "filterable": 1
 },
-{
-	"key": "csp_N0ys",
-	"name": "九零影视(SP)",
-	"type": 3,
-	"api": "csp_N0ys",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
-},
+
     {
       "key": "buka_spider",
       "name": "真不卡(SP)",
