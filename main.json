@@ -23,16 +23,6 @@
   "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"
 },
 {
-  "key": "csp_Ysgc",
-  "name": "影视工厂(SP)",
-  "type": 3,
-  "api": "csp_Ysgc",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1
-},
-
-{
   "key": "ikan_spider",
   "name": "爱看影视(SP)",
   "type": 3,
@@ -52,6 +42,16 @@
 	"filterable": 0,
 	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
 },
+{
+  "key": "csp_Ysgc",
+  "name": "影视工厂(SP)",
+  "type": 3,
+  "api": "csp_Ysgc",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
+
     {
       "key": "人人迷源(蓝光)",
       "name": "人人迷源(蓝光)",
