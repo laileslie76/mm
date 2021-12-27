@@ -58,7 +58,7 @@
       "type": 1,
      // "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
       "api": "http://l9s.xyz/api.php/provide/vod/?ac=list",
-      "playUrl": "https://kuba.renrenmi.cc/api/?key=Spn9skKQD3N4ZBRCKG&url=",
+     // "playUrl": "https://kuba.renrenmi.cc/api/?key=Spn9skKQD3N4ZBRCKG&url=",
       "categories": ["动漫","综艺","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","恐怖片","国产剧","港台剧","日韩剧","欧美剧","其他剧"]
     },
 //    {
@@ -921,7 +921,7 @@
       ]
     }
   ],
-  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
+  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
   "parses": [
 {"name": "Json并发","type": 2,"url": "Parallel"},
