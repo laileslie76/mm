@@ -79,6 +79,26 @@
   "filterable": 1
 },
     {
+      "key": "auete_spider",
+      "name": "Auete影视(SP)",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/auete.json"
+    },
+    {
+      "key": "adys_spider",
+      "name": "爱迪影视(SP)",
+      "type": 3,
+      "api": "csp_Aidi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/aidi.json"
+    },
+    {
       "key": "buka_spider",
       "name": "真不卡(SP)",
       "type": 3,
