@@ -223,6 +223,14 @@
 //      "api": "https://www.18mv.club/api.php/provide/vod/at/xml"
 //    },
 {
+  "key": "龙腾资源",
+  "name": "龙腾资源",
+  "type": 1,
+  "api": "http://longtengzy.fun/api.php/provide/vod/?ac=list",
+  "playUrl":"https://jifei.longtengzy.fun/video/?url="
+},
+
+{
   "key": "bilibili",
   "name": "bilibili",
   "type": 1,
