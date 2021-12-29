@@ -954,7 +954,7 @@
       ]
     }
   ],
-  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","duoduozy"],
 
   "parses": [
 {"name": "Json并发","type": 2,"url": "Parallel"},
