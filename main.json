@@ -229,6 +229,14 @@
   "api": "http://longtengzy.fun/api.php/provide/vod/?ac=list",
   "playUrl":"https://jifei.longtengzy.fun/video/?url="
 },
+{
+  "key": "libvio",
+  "name": "libvio",
+  "type": 1,
+  "api": "https://www.libvio.com/api.php/provide/vod/?ac=list",
+  "playUrl":""
+},
+
 
 {
   "key": "bilibili",
