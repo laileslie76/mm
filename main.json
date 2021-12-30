@@ -1295,7 +1295,7 @@
         {
           "category": 1,
           "name": "dns_cache_timeout",
-          "value": "36000000"
+          "value": "600000000"
         }
       ]
     },
@@ -1380,7 +1380,7 @@
         {
           "category": 1,
           "name": "dns_cache_timeout",
-          "value": "36000000"
+          "value": "600000000"
         }
       ]
     }
