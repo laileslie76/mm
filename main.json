@@ -51,25 +51,7 @@
   "quickSearch": 0,
   "filterable": 1
 },
-    {
-      "key": "gdyy_spider",
-      "name": "孤单影视(FV0)",
-      "type": 3,
-      "api": "csp_Gdyy",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "00c8ce12-fece-5bd8-90d8-04ae99099644"
-    },
-    {
-      "key": "epang_spider",
-      "name": "阿房App(SP)",
-      "type": 3,
-      "api": "csp_EPangApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
+
     {
       "key": "人人迷源(蓝光)",
       "name": "人人迷源(蓝光)",
