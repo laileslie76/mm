@@ -230,6 +230,13 @@
   "playUrl":"https://jifei.longtengzy.fun/video/?url="
 },
 {
+  "key": "天天看",
+  "name": "天天看",
+  "type": 1,
+  "api": "https://www.ttky8.com/api.php/provide/vod/?ac=list",
+  "playUrl":""
+},
+{
   "key": "libvio",
   "name": "libvio",
   "type": 1,
