@@ -252,7 +252,7 @@
   "api": "https://bilibili.rongxingvr.cc/api.php/provide/vod/?ac=list"
 }
 
-
+{"key":"csp_appys_xiaogui_LIBVIO", "name":"LIBVIO(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_LIBVIO"},
 //{"key":"csp_appys_xiaogui_段友影视", "name":"段友影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_段友影视"},
 
 //{"key":"csp_appys_v1_爱西西", "name":"爱西西(M)", "type":3, //"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_爱西西"},
