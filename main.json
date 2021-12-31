@@ -42,6 +42,7 @@
 	"filterable": 0,
 	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
 },
+{"key":"csp_appys_xiaogui_LIBVIO", "name":"LIBVIO(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_LIBVIO"},
 {
   "key": "csp_Ysgc",
   "name": "影视工厂(SP)",
@@ -230,7 +231,7 @@
   "api": "http://longtengzy.fun/api.php/provide/vod/?ac=list",
   "playUrl":"https://jifei.longtengzy.fun/video/?url="
 },
-{"key":"csp_appys_xiaogui_LIBVIO", "name":"LIBVIO(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_LIBVIO"},
+
 {
   "key": "bilibili",
   "name": "bilibili",
