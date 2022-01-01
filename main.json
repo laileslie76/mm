@@ -237,6 +237,7 @@
 },
 */
 {"key":"csp_appys_xiaogui_老韩综","name":"老韩综","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_老韩综"},
+/*
 {
   "key": "龙腾资源",
   "name": "龙腾资源",
@@ -244,6 +245,7 @@
   "api": "http://longtengzy.fun/api.php/provide/vod/?ac=list",
   "playUrl":"https://jifei.longtengzy.fun/video/?url="
 },
+*/
 {
   "key": "星一资源",
   "name": "星一资源",
@@ -260,8 +262,6 @@
 
 
 //{"key":"csp_appys_xiaogui_段友影视", "name":"段友影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_段友影视"},
-
-//{"key":"csp_appys_v1_爱西西", "name":"爱西西(M)", "type":3, //"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_爱西西"},
 
 //{"key":"csp_appys_xiaogui_抹茶猪", "name":"抹茶猪(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_抹茶猪"},
 
@@ -457,7 +457,6 @@
           "name": "CCTV-5+体育",
           "urls": [
             "http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8",
-            "http://117.148.179.37/PLTV/88888888/224/3221228822/index.m3u8",
             "http://39.135.138.58:18890/PLTV/88888910/224/3221225706/index.m3u8?",
             "http://223.110.245.139/PLTV/4/224/3221227480/index.m3u8"
           ]
@@ -466,7 +465,6 @@
           "name": "CCTV-6电影",
           "urls": [
             "http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8",
-            "http://117.148.179.37/PLTV/88888888/224/3221229870/index.m3u8",
             "http://117.148.179.37/PLTV/88888888/224/3221229873/index.m3u8"
           ]
         },
@@ -516,8 +514,8 @@
         {
           "name": "CCTV-13新闻",
           "urls": [
-            "http://117.148.179.167/PLTV/88888888/224/3221232623/index.m3u8",
-            "http://117.148.179.15/PLTV/88888888/224/3221229690/index.m3u8"
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228121/index.m3u8",
+            "http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/index.m3u8"
           ]
         },
         {
@@ -549,7 +547,7 @@
           "urls": [
             "http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8?",
             "http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8",
-            "http://117.148.179.17/PLTV/88888888/224/3221229765/index.m3u8"
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8"
           ]
         },
         {
@@ -566,6 +564,7 @@
         {
           "name": "湖南卫视",
           "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228227/index.m3u8",
             "http://39.135.138.57:18890/PLTV/88888910/224/3221225704/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv"
           ]
@@ -573,7 +572,7 @@
         {
           "name": "江苏卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225702/index.m3u8",
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228097/index.m3u8",
             "http://39.135.138.58:18890/PLTV/88888910/224/3221225702/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv"
           ]
@@ -581,27 +580,28 @@
         {
           "name": "浙江卫视",
           "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228147/index.m3u8",
             "http://39.135.138.57:18890/PLTV/88888910/224/3221225703/index.m3u8"
           ]
         },
         {
           "name": "安徽卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225691/index.m3u8",
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228153/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv"
           ]
         },
         {
           "name": "北京卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225673/index.m3u8",
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228115/index.m3u8",
             "http://39.135.138.57:18890/PLTV/88888910/224/3221225674/index.m3u8"
           ]
         },
         {
           "name": "东方卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225659/index.m3u8",
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228150/index.m3u8",
             "http://112.25.48.68/live/program/live/hddfws/4000000/mnf.m3u8",
             "http://183.207.248.71/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv"
           ]
@@ -609,20 +609,20 @@
         {
           "name": "广东卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225701/index.m3u8",
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228230/index.m3u8",
             "http://39.135.138.57:18890/PLTV/88888910/224/3221225742/index.m3u8"
           ]
         },
         {
           "name": "东南卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225657/index.m3u8"
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221227553/index.m3u8"
           ]
         },
         {
           "name": "深圳卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225700/index.m3u8",
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228236/index.m3u8",
             "http://39.135.138.57:18890/PLTV/88888910/224/3221225741/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv"
           ]
@@ -630,7 +630,7 @@
         {
           "name": "湖北卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225699/index.m3u8",
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228159/index.m3u8",
             "http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv"
           ]
@@ -638,6 +638,7 @@
         {
           "name": "天津卫视",
           "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228239/index.m3u8",
             "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv"
           ]
@@ -645,13 +646,32 @@
         {
           "name": "重庆卫视",
           "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221227729/index.m3u8",
             "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8"
           ]
         },
         {
           "name": "辽宁卫视",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225696/index.m3u8"
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228162/index.m3u8"
+          ]
+        },
+        {
+          "name": "山东卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228124/index.m3u8"
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228221/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑龙江卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228233/index.m3u8"
           ]
         }
       ]
@@ -698,33 +718,13 @@
         {
           "name": "咪咕体育七",
           "urls": [
-            "http://117.148.179.35/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230376/index.m3u8",
             "http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8"
           ]
         },
         {
           "name": "咪咕体育八",
           "urls": [
-            "http://117.148.179.35/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230361/index.m3u8",
             "http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u"
-          ]
-        },
-        {
-          "name": "咪咕体育九",
-          "urls": [
-            "http://117.148.179.35/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230341/index.m3u8"
-          ]
-        },
-        {
-          "name": "咪咕体育十",
-          "urls": [
-            "http://117.148.179.35/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230362/index.m3u8"
-          ]
-        },
-        {
-          "name": "咪咕体育十一",
-          "urls": [
-            "http://117.148.179.35/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230364/index.m3u8"
           ]
         }
       ]
