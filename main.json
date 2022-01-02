@@ -293,7 +293,7 @@
   "api": "http://longtengzy.fun/api.php/provide/vod/?ac=list",
   "playUrl":"https://jifei.longtengzy.fun/video/?url="
 },
-*/
+
 {
   "key": "星一资源",
   "name": "星一资源",
@@ -301,6 +301,7 @@
   "api": "https://qpku.suboyun.vip/api.php/provide/vod/?ac=list",
   "playUrl": "https://play.xing1.club/dm.php?url="
 },
+*/
 {
   "key": "bilibili",
   "name": "bilibili",
