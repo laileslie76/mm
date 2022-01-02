@@ -475,7 +475,7 @@
           "name": "CCTV-2财经",
           "urls": [
             "http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8",
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225619/index.m3u8"
+            "http://39.135.138.58:18890/PLTV/88888910/224/3221225619/index.m3u8"
           ]
         },
         {
@@ -613,7 +613,7 @@
           "name": "湖南卫视",
           "urls": [
             "http://ott.js.chinamobile.com/TVOD/3/224/3221228227/index.m3u8",
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225704/index.m3u8",
+            "http://39.135.138.58:18890/PLTV/88888910/224/3221225704/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv"
           ]
         },
@@ -643,7 +643,7 @@
           "name": "北京卫视",
           "urls": [
             "http://ott.js.chinamobile.com/TVOD/3/224/3221228115/index.m3u8",
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225674/index.m3u8"
+            "http://39.135.138.58:18890/PLTV/88888910/224/3221225674/index.m3u8"
           ]
         },
         {
@@ -658,7 +658,7 @@
           "name": "广东卫视",
           "urls": [
             "http://ott.js.chinamobile.com/TVOD/3/224/3221228230/index.m3u8",
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225742/index.m3u8"
+            "http://39.135.138.58:18890/PLTV/88888910/224/3221225742/index.m3u8"
           ]
         },
         {
@@ -671,7 +671,7 @@
           "name": "深圳卫视",
           "urls": [
             "http://ott.js.chinamobile.com/TVOD/3/224/3221228236/index.m3u8",
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225741/index.m3u8",
+            "http://39.135.138.58:18890/PLTV/88888910/224/3221225741/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv"
           ]
         },
@@ -952,7 +952,6 @@
         {
           "name": "CNC中文台",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225694/index.m3u8",
             "http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8",
             "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8"            
           ]
@@ -960,7 +959,6 @@
         {
           "name": "CNC英文台",
           "urls": [
-            "http://39.135.138.57:18890/PLTV/88888910/224/3221225693/index.m3u8",
             "http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8",
             "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8"           
           ]
