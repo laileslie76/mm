@@ -1065,7 +1065,28 @@
       "url": "http://103.40.246.5:6881/ijsonononxxt/?url=",
       "t": 124,
       "i": "check at 2021-12-20 18:43:03"
-    },    
+    },
+    {
+      "name": "蓝光视频",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",
+      "t": 156,
+      "i": "check at 2021-12-28 19:44:22"
+    },
+    {
+      "name": "绿箭影视",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url=",
+      "t": 166,
+      "i": "check at 2021-12-28 19:44:44"
+    },
+    {
+      "name": "麻瓜视频",
+      "type": 1,
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=egkqvxzBEHPQSUWX28&url=",
+      "t": 170,
+      "i": "check at 2021-12-28 19:44:04"
+    },        
     {
       "name": "快云影音",
       "type": 1,
@@ -1131,13 +1152,6 @@
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url=",
       "t": 518,
       "i": "check at 2021-12-10 08:40:43"
-    },
-    {
-      "name": "蓝光视频",
-      "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",
-      "t": 523,
-      "i": "check at 2021-12-10 08:41:26"
     },
     {
       "name": "土豆TV",
