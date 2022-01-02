@@ -1020,13 +1020,7 @@
 {"name": "瓜瓜优选","type": 2,"url": "Preference"},
 {"name": "Json轮询","type": 2,"url": "Sequence"},
 
-    {
-      "name": "雨果影视",
-      "type": 1,
-      "url": "http://103.40.246.5:6881/ijsonononxxt/?url=",
-      "t": 124,
-      "i": "check at 2021-12-20 18:43:03"
-    },
+
     {
       "name": "555TV",
       "type": 1,
@@ -1042,6 +1036,20 @@
       "i": "check at 2021-12-28 19:44:48"
     },
     {
+      "name": "看剧吧1",
+      "type": 1,
+      "url": "https://svip.renrenmi.cc:2222/api/?key=fI3YQ3vxF5uREfNpDU&url=",
+      "t": 204,
+      "i": "check at 2021-12-20 18:43:35"
+    },
+    {
+      "name": "影阅阁3",
+      "type": 1,
+      "url": "https://svip.renrenmi.cc:2222/api/?key=82KErJogweliHPt7Yp&url=",
+      "t": 235,
+      "i": "check at 2021-12-20 18:44:00"
+    },    
+    {
       "name": "大熊影视",
       "type": 1,
       "url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=bcefosxyACJKOWX678&url=",
@@ -1051,6 +1059,13 @@
     {"name": "rrm","url": "https://supervip.rongxingvr.cn:8866/api/?key=AngnmipM4u7BECCcjq&url=","type": 1},
     {"name": "RRM.mg","url": "https://kuba.renrenmi.cc:2266/api/?key=a2bSwx5iAGx1g2qn4h&url=","type": 1},  
     {"name": "RRM.jrys","url": "https://kuba.renrenmi.cc:2266/api/?key=Spn9skKQD3N4ZBRCKG&url=","type": 1},
+    {
+      "name": "雨果影视",
+      "type": 1,
+      "url": "http://103.40.246.5:6881/ijsonononxxt/?url=",
+      "t": 124,
+      "i": "check at 2021-12-20 18:43:03"
+    },    
     {
       "name": "快云影音",
       "type": 1,
@@ -1080,20 +1095,7 @@
       "i": "check at 2021-12-20 18:43:31"
     },
 {"name": "Json.rrm4","url": "https://kuba.renrenmi.cc:2266/api/?key=8ef5RkcJl8azYmypfw&url=","type": 1},
-    {
-      "name": "看剧吧1",
-      "type": 1,
-      "url": "https://svip.renrenmi.cc:2222/api/?key=fI3YQ3vxF5uREfNpDU&url=",
-      "t": 204,
-      "i": "check at 2021-12-20 18:43:35"
-    },
-    {
-      "name": "影阅阁3",
-      "type": 1,
-      "url": "https://svip.renrenmi.cc:2222/api/?key=82KErJogweliHPt7Yp&url=",
-      "t": 235,
-      "i": "check at 2021-12-20 18:44:00"
-    },
+
     {
       "name": "久久追剧1",
       "type": 1,
