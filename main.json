@@ -1,8 +1,6 @@
 {
 "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt",
   "sites": [
-
-/*
 {
 	"key":"2345_spider",
 	"name":"2345影视(官源)",
@@ -23,7 +21,7 @@
   "filterable": 1,
   "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"
 },
-*/
+
 {
   "key": "ikan_spider",
   "name": "爱看影视(SP)",
