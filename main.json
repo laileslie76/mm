@@ -717,9 +717,45 @@
           ]
         },
         {
+          "name": "广西卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/PLTV/3/224/3221228183/index.m3u8"
+          ]
+        },
+        {
           "name": "黑龙江卫视",
           "urls": [
             "http://ott.js.chinamobile.com/TVOD/3/224/3221228233/index.m3u8"
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/PLTV/3/224/3221228130/index.m3u8"
+          ]
+        },
+        {
+          "name": "甘肃卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/PLTV/3/224/3221228166/index.m3u8"
+          ]
+        },
+        {
+          "name": "云南卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/PLTV/3/224/3221228169/index.m3u8"
+          ]
+        },
+        {
+          "name": "海南卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/PLTV/3/224/3221228139/index.m3u8"
+          ]
+        },
+        {
+          "name": "新疆卫视",
+          "urls": [
+            "http://ott.js.chinamobile.com/PLTV/3/224/3221228290/index.m3u8"
           ]
         }
       ]
