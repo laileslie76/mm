@@ -400,6 +400,7 @@
         {
           "name": "全纪实",
           "urls": [
+            //"http://ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8",
             "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8"
           ]
         },
@@ -425,6 +426,7 @@
         {
           "name": "游戏风云",
           "urls": [
+            //"http://ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8",
             "http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8",
             "http://112.25.48.68/live/program/live/yxfyhd/4000000/mnf.m3u8"
           ]
@@ -854,6 +856,7 @@
         {
           "name": "黑莓电影",
           "urls": [
+            "http://ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
           ]
         },
