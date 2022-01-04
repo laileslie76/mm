@@ -248,16 +248,6 @@
 	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/9ekk.json"
 },
 {
-  "key": "360_spider",
-  "name": "360影视(官源)",
-  "type": 3,
-  "api": "csp_YS360",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/360.json"
-},
-{
   "key":"8090",
   "name":"8090资源",
   "type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
