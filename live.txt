@@ -195,8 +195,8 @@ CCTV-17农业,http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8
 凤凰资讯,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 凤凰香港,http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-香港卫视,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视HKS,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 CNC中文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC英文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
