@@ -314,19 +314,13 @@
     {
       "group": "上海频道",
       "channels": [
-        {
-          "name": "东方卫视",
-          "urls": [
-            "http://223.110.243.138/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8",
-            "http://39.135.32.29:6610/000000001000/1000000001000030202/1.m3u8?",
-            "http://183.207.248.71/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv"
-          ]
-        },
+
         {
           "name": "上海外语",
           "urls": [
-            "http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8", 
-            "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8"
+ 
+            "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8",
+            "http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8"            
           ]
         },
          {
