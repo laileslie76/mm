@@ -35,7 +35,7 @@
   "filterable": 0,
   "ext": "A9545C889B5D"
 },
-{
+/*{
 	"key": "csp_N0ys",
 	"name": "九零影视(SP)",
 	"type": 3,
@@ -45,6 +45,7 @@
 	"filterable": 0,
 	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
 },
+*/
 {"key":"csp_appys_xiaogui_LIBVIO", "name":"LIBVIO(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_LIBVIO"},
 {"key":"csp_appys_xiaogui_天空影视", "name":"天空影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_天空影视"},
 {"key":"csp_appys_xiaogui_饭团影院", "name":"饭团影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_饭团影院"},
@@ -53,6 +54,7 @@
 {"key":"csp_appys_v1_爱看美剧","name":"爱看美剧(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_爱看美剧"},
 {"key":"csp_appys_v1_大熊影视", "name":"大熊影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_大熊影视"},
 {"key":"csp_appys_v1_爱西西", "name":"爱西西(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_爱西西"},
+/*
 {
   "key": "csp_Ysgc",
   "name": "影视工厂(SP)",
@@ -62,7 +64,7 @@
   "quickSearch": 0,
   "filterable": 1
 },
-/*
+
 {
       "key": "gdyy_spider",
       "name": "孤单影视(FV0)",
@@ -131,6 +133,7 @@
       "categories": ["动漫","动作片","爱情片","科幻片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧"]
     },
 */
+/*
 {
   "key": "nfzjm_spider",
   "name": "南府追剧(AT)",
@@ -170,15 +173,6 @@
       "filterable": 1,
       "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/buka.json"
     },
-{
-    "key": "csp_YydsAli1",
-    "name": "YYDS阿里(SP)",
-    "type": 3,
-    "api": "csp_YydsAli1",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0
-},
     {
       "key": "enlienli_spider",
       "name": "嗯哩嗯哩(SP)",
@@ -248,6 +242,17 @@
 	"filterable":1,
 	"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/9ekk.json"
 },
+*/
+{
+    "key": "csp_YydsAli1",
+    "name": "YYDS阿里(SP)",
+    "type": 3,
+    "api": "csp_YydsAli1",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
+},
+
 {
   "key":"8090",
   "name":"8090资源",
@@ -294,10 +299,10 @@
 },
 */
 {
-  "key": "bilibili",
-  "name": "bilibili",
+  "key": "星一官源",
+  "name": "星一官源",
   "type": 1,
-  "api": "https://bilibili.rongxingvr.cc/api.php/provide/vod/?ac=list"
+  "api": "https://gcku.suboyun.vip/api.php/provide/vod/?ac=list"
 }
 
 
