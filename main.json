@@ -824,18 +824,20 @@
 {"name": "Json并发","type": 2,"url": "Parallel"},
 {"name": "瓜瓜免嗅","type": 2,"url": "Cucumber"},
 //{"name": "瓜瓜优选","type": 2,"url": "Preference"},
-{"name": "Json轮询","type": 2,"url": "Sequence"},
+//{"name": "Json轮询","type": 2,"url": "Sequence"},
 
     {"name": "dbk","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url=","type": 1},
     {"name": "RRM","url": "https://supervip.rongxingvr.cn:8866/api/?key=AngnmipM4u7BECCcjq&url=","type": 1},
-    {"name": "土豆TV","url": "https://cs.024zs.com:4433/api/?key=mqGHkqM4qxhV5ddEzg&url=","type": 1},
+    {"name": "td","url": "https://cs.024zs.com:4433/api/?key=mqGHkqM4qxhV5ddEzg&url=","type": 1},
     {"name": "pg","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url="},
     {"name": "axx","url": "https://api.aixixi.vip/home/api?type=ys&uid=23187&key=cdfnptBFGIKRVWZ269&url=","type": 1},
     {"name": "RRM.mg","url": "https://kuba.renrenmi.cc:2266/api/?key=a2bSwx5iAGx1g2qn4h&url=","type": 1},  
     {"name": "RRM.jrys","url": "https://kuba.renrenmi.cc:2266/api/?key=Spn9skKQD3N4ZBRCKG&url=","type": 1},
     {"name": "m3u8","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=6493855&key=dghkqwxyBHIOX14568&url=","type": 1},
-    {"name": "皮皮影视","type": 1,"url": "https://fast.rongxingvr.cn:8866/api/?key=2YP5jFSwnsDRCjX5pt&url="},
+    {"name": "黄河影视","type": 1,"url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
+  //  {"name": "皮皮影视","type": 1,"url": "https://fast.rongxingvr.cn:8866/api/?key=2YP5jFSwnsDRCjX5pt&url="},
     {"name": "DC","url": "https://jf.jisutuku.top/api/?key=RHjXcjUTkyZnfWx9u4&url=","type": 1},
+    /*
     {
       "name": "萌蛋蛋",
       "type": 1,
@@ -856,7 +858,8 @@
       "url": "https://svip.renrenmi.cc:2222/api/?key=82KErJogweliHPt7Yp&url=",
       "t": 235,
       "i": "check at 2021-12-20 18:44:00"
-    },    
+    }, 
+    */   
     {
       "name": "蓝光视频",
       "type": 1,
@@ -874,13 +877,7 @@
 
 {"name": "Json.rrm4","url": "https://kuba.renrenmi.cc:2266/api/?key=8ef5RkcJl8azYmypfw&url=","type": 1},
 
-    {
-      "name": "黄河影视",
-      "type": 1,
-      "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url=",
-      "t": 300,
-      "i": "check at 2021-12-10 08:39:30"
-    },
+
     {
       "name": "益达影院",
       "type": 1,
