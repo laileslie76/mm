@@ -28,7 +28,7 @@
 {
   "key":"8090",
   "name":"8090资源(官源)",
-  "type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
+  "type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/?ac=list",
   "playUrl":"",
   "categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他片"]
 },
