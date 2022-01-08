@@ -1,6 +1,6 @@
 上海频道,#genre#
-上海外语,http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+上海外语,http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 法制天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 浦东财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
@@ -22,6 +22,7 @@
 五星体育,http://39.134.134.89/000000001000/5000000010000017540/index.m3u8
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
+魅力足球,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
 哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 
@@ -197,12 +198,29 @@ CNC英文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 iPanda,http://117.148.179.167/PLTV/88888888/224/3221231651/index.m3u8
 
 NewTV频道,#genre#
+金牌综艺,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+军旅剧场,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
+动作电影,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
+古装剧场,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
+家庭剧场,http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
+惊悚悬疑,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
+武搏世界,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
+爱情喜剧,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
+精品体育,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
+精品大剧,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
+精品纪录,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
+潮妈辣婆,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
+中国功夫,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
+农业致富,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
+怡伴健康,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
+黑莓动画,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+黑莓电影,http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221227520/index.m3u8
 爱情喜剧,http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
 潮妈辣婆,http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
 动作电影,http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
 古装剧场,http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
 黑莓电竞,http://183.207.248.71:80/cntv/live1/wmyx/wmyx
-黑莓电影,http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221227520/index.m3u8
 黑莓电影,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
 黑莓动画,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
 家庭剧场,http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
@@ -258,3 +276,6 @@ MIGU古龙作品集,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3
 MIGU经典贺岁片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 MIGU每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 MIGU武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+
+海外频道,#genre#
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
