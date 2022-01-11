@@ -112,6 +112,10 @@
           "url": "http://www.dijiaxia.com/xgapp.php/v1/"
         },
         {
+          "title": "大师兄",
+          "url": "https://hou.lu/xgapp.php/v1/"
+        },        
+        {
           "title": "海胆影视",
           "url": "http://xf123.cc/api.php/app/"
         },
@@ -752,10 +756,6 @@
         {
           "title": "动力影视",
           "url": "http://www.love9989.com/api.php/iptv/vod/"
-        },
-        {
-          "title": "大师兄",
-          "url": "http://dsxtv.tv.ci/api.php/dsx/vod/"
         },
         {
           "title": "二货影视",
