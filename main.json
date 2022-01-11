@@ -63,6 +63,14 @@
    "filterable": 1
 },
 {
+  "key": "龙腾资源",
+  "name": "龙腾资源",
+  "type": 1,
+  "api": "http://zycj.cygc.xyz/api.php/provide/vod/from/ltnb/?ac=list",
+ // "playUrl": "https://jifei.longtengzy.fun/video/?url="
+  "categories": ["动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他片"]
+},
+{
   "key": "星一资源",
   "name": "星一资源(qp)",
   "type": 1,
@@ -817,7 +825,7 @@
       ]
     }
   ],
-  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+  "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","ltnb"],
 
   "parses": [
 {"name": "Json并发","type": 2,"url": "Parallel"},
@@ -825,7 +833,6 @@
 //{"name": "瓜瓜优选","type": 2,"url": "Preference"},
 //{"name": "Json轮询","type": 2,"url": "Sequence"},
 
-    {"name": "kup","type": 1,"url": "https://jx.kupu.cc/json/jxbanyung.php/?url="},
     {"name": "dbk","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url=","type": 1},
     {"name": "RRM","url": "https://supervip.rongxingvr.cn:8866/api/?key=AngnmipM4u7BECCcjq&url=","type": 1},
     {"name": "RRM.mg","url": "https://kuba.renrenmi.cc:2266/api/?key=a2bSwx5iAGx1g2qn4h&url=","type": 1}, 
@@ -835,6 +842,7 @@
     {"name": "pg","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url="},
     {"name": "kupu","type": 1,"url": "https://jx.kupu.cc/json/jxbanyung.php/?url="},
     {"name":"TV酷","type":1,"url":"https://fast.rongxingvr.cn/api/?key=1dFwim2GbdhPA4qFmn&url="},
+    {"name":"lt","type":1,"url":"https://jx.kupu.cc/jxltzy.php/?url="},
     {"name": "萌蛋蛋","url": "https://api.m3u8.tv/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url=","type": 1}, 
     {"name": "axx","url": "https://api.aixixi.vip/home/api?type=ys&uid=23187&key=cdfnptBFGIKRVWZ269&url=","type": 1}, 
     {"name": "RRM.jrys","url": "https://kuba.renrenmi.cc:2266/api/?key=Spn9skKQD3N4ZBRCKG&url=","type": 1},
