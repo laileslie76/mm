@@ -112,9 +112,9 @@
       "type": "AppV0",
       "sourceName": "大师兄",
       "baseUrl": "https://hou.lu",
-      "apiUrl": "https://hou.lu/api.php/app/",
-      "searchUrl": "https://hou.lu/api.php/app/search?text=%s&pg=1",
-      "detailUrl": "https://hou.lu/api.php/app/video_detail?id=%s",
+      "apiUrl": "https://hou.lu/xgapp.php/v1/",
+      "searchUrl": "https://hou.lu/xgapp.php/v1/search?pg=1&text=%s",
+      "detailUrl": "https://hou.lu/xgapp.php/v1/video_detail?id=%s",
       "parserUrl": ""
     },
     {
