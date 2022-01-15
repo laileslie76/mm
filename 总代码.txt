@@ -427,7 +427,7 @@ eval(script);JSON.stringify({url:now,head:{"User-Agent":UA,"Referer":"https://ww
 var playurl=uu.split("wd=")[1];
 if(playurl.indexOf("duoduozy.com")!=-1||playurl.indexOf("m3u8.cache.suoyo.cc")!=-1){
 var uuu="https://bo.movie06.com/xmplayer?url="+playurl;
-var resp=getHttp(JSON.stringify({url:uuu,head:{"referer":"https://m3u8.cache.suoyo.cc/"}}));
+var resp=getHttp(JSON.stringify({url:uuu,head:{"referer":"https://www.libvio.com/"}}));
 var uuuu=resp.match(/var urls.+?"(.+?)"/)[1];
 JSON.stringify({url:uuuu});
 }else if(playurl.indexOf("api.iopenyun.com:88")!=-1){
