@@ -48,13 +48,14 @@
 {"key":"csp_appys_xiaogui_星空影视","name":"星空影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_星空影视"},
 {"key":"csp_appys_xiaogui_灵狐影视","name":"灵狐影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_灵狐影视"},
 {"key":"csp_appys_v1_爱看美剧","name":"爱看美剧(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_爱看美剧"},
+/*
 {"key":"csp_appys_v1_全能影视", "name":"全能影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_全能影视"},
 {"key":"csp_appys_xiaogui_天空影视", "name":"天空影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_天空影视"},
 {"key":"csp_appys_xiaogui_饭团影院", "name":"饭团影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_饭团影院"},
 {"key":"csp_appys_xiaogui_抹茶猪", "name":"抹茶猪(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_抹茶猪"},
 {"key":"csp_appys_xiaogui_快云影音","name":"快云影音(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_快云影音"},
 
-/*
+
 {"key":"csp_appys_v1_初心影视","name":"初心影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_初心影视"},
 
 {"key":"csp_appys_v1_大熊影视", "name":"大熊影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_大熊影视"},
@@ -842,23 +843,26 @@
 //{"name": "瓜瓜优选","type": 2,"url": "Preference"},
 //{"name": "Json轮询","type": 2,"url": "Sequence"},
 
+    {"name":"mgsp","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url="},
+    {"name":"遗忘影视","type":1,"url":"http://gq.bywdtk.cn/?url="},
+    {"name": "kupu","type": 1,"url": "https://jx.kupu.cc/json/jxbanyung.php/?url="},
     {"name": "dbk","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url=","type": 1},
     {"name": "RRM","url": "https://supervip.rongxingvr.cn:8866/api/?key=AngnmipM4u7BECCcjq&url=","type": 1},
     {"name": "RRM.mg","url": "https://kuba.renrenmi.cc:2266/api/?key=a2bSwx5iAGx1g2qn4h&url=","type": 1}, 
-    {"name": "td","url": "https://cs.024zs.com:4433/api/?key=mqGHkqM4qxhV5ddEzg&url=","type": 1},
-    {"name":"麻瓜视频","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url="},
+    {"name": "RRM.xr","url": "https://kuba.renrenmi.cc:2266/api/?key=Y6UYLYtjImTCKe98JD&url=","type": 1},
+
     {"name":"麻瓜视频1","type":1,"url":"https://jhjx.ptygx.com/xttyjx.php/?url="},
+    {"name":"lt","type":1,"url":"https://jx.kupu.cc/jxltzy.php/?url="}, 
     {"name": "pg","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url="},
-    {"name": "kupu","type": 1,"url": "https://jx.kupu.cc/json/jxbanyung.php/?url="},
+
     {"name":"TV酷","type":1,"url":"https://fast.rongxingvr.cn/api/?key=1dFwim2GbdhPA4qFmn&url="},
-    {"name":"lt","type":1,"url":"https://jx.kupu.cc/jxltzy.php/?url="},
-    {"name": "萌蛋蛋","url": "https://api.m3u8.tv/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url=","type": 1}, 
-    {"name": "axx","url": "https://api.aixixi.vip/home/api?type=ys&uid=23187&key=cdfnptBFGIKRVWZ269&url=","type": 1}, 
-    {"name": "RRM.jrys","url": "https://kuba.renrenmi.cc:2266/api/?key=Spn9skKQD3N4ZBRCKG&url=","type": 1},
+    {"name": "萌蛋蛋","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url=","type": 1}, 
+    {"name": "axx","url": "https://api.aixixi.vip/home/api?type=ys&uid=23187&key=cdfnptBFGIKRVWZ269&url=","type": 1},
     {"name": "m3u8","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=6493855&key=dghkqwxyBHIOX14568&url=","type": 1},
     {"name": "大熊影视","type": 1,"url": "http://a.dxzj88.com/jhjson/?url="},
     {"name": "xing1","type": 1,"url": "https://m3u8-cache-1.xing1.vip/x1/x1player.php?url="},
     {"name": "黄河影视","type": 1,"url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
+    {"name": "星空影视","type": 1,"url": "http://api.vip123kan.vip/?url="},
   //  {"name": "皮皮影视","type": 1,"url": "https://fast.rongxingvr.cn:8866/api/?key=2YP5jFSwnsDRCjX5pt&url="},
     {"name": "DC","url": "https://jf.jisutuku.top/api/?key=RHjXcjUTkyZnfWx9u4&url=","type": 1},
     /*
