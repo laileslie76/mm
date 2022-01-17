@@ -985,10 +985,12 @@
     {"name": "线路5","url": "https://kuba.renrenmi.cc:2266/api/?key=a2bSwx5iAGx1g2qn4h&url=","type": 1,"i": "麻瓜人人迷"}, 
     {"name": "线路6","url": "https://kuba.renrenmi.cc:2266/api/?key=Y6UYLYtjImTCKe98JD&url=","type": 1,"i": "雪人人人迷"},
     {"name": "线路7","type":1,"url":"https://jhjx.ptygx.com/xttyjx.php/?url=","i": "麻瓜1"},
-    {"name": "线路8","type":1,"url":"https://jx.kupu.cc/jxltzy.php/?url=","i": "酷扑LT"}, 
-    {"name": "线路9","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url=","i": "盘古"},
-    {"name": "线路10","url": "https://api.aixixi.vip/home/api?type=ys&uid=23187&key=cdfnptBFGIKRVWZ269&url=","type": 1,"i": "爱茜茜"},
-    {"name": "线路11","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url=","type": 1,"i": "萌蛋蛋"}
+    {"name": "线路8","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=433450&key=hlnpruzBDFKPY12368&url=","i": "独播库LT"},
+    {"name": "线路9","type":1,"url":"https://jx.kupu.cc/jxltzy.php/?url=","i": "酷扑LT"}, 
+    {"name": "线路10","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url=","i": "盘古"},
+    {"name": "线路11","url": "https://api.aixixi.vip/home/api?type=ys&uid=23187&key=cdfnptBFGIKRVWZ269&url=","type": 1,"i": "爱茜茜"},
+    {"name": "线路12","url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url=","type": 1,"i": "萌蛋蛋"},
+    {"name":"线路13","type":1,"url":"https://lt.feikuai.vip/home/api?type=ys&uid=1136443&key=dhjqszCDELQUVZ1567&url=","type": 1,"i": "抹茶猪LT"}
 
 /*
     {"name": "RRM","url": "https://supervip.rongxingvr.cn:8866/api/?key=AngnmipM4u7BECCcjq&url=","type": 1},
@@ -1002,6 +1004,7 @@
 
     {"name":"麻瓜视频1","type":1,"url":"https://jhjx.ptygx.com/xttyjx.php/?url="},
     {"name":"lt","type":1,"url":"https://jx.kupu.cc/jxltzy.php/?url="}, 
+    {"name":"抹茶猪lt","type":1,"url":"https://lt.feikuai.vip/home/api?type=ys&uid=1136443&key=dhjqszCDELQUVZ1567&url="},
     {"name": "pg","type": 1,"url": "https://json.pangujiexi.com:12345/json.php?url="},
 
     {"name":"TV酷","type":1,"url":"https://fast.rongxingvr.cn/api/?key=1dFwim2GbdhPA4qFmn&url="},
