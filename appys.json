@@ -22,7 +22,11 @@
         {
           "title": "爱看影视",
           "url": "https://ikan6.vip/api.php/app/"
-        },        
+        },
+        {
+          "title": "爱西西",
+          "url": "https://myaixixi.com/api.php/app/"
+        },                
         {
           "title": "913e影视",
           "url": "http://www.913e.net/xgapp.php/v1/"
@@ -347,7 +351,7 @@
           "url": "https://www.uumjw.com/api.php/v1.vod"
         },
         {
-          "title": "爱西西",
+          "title": "爱西西v1",
           "url": "http://app.aixixi.vip/mogai_api.php/v1.vod"
         },
         {
