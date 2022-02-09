@@ -92,6 +92,10 @@
           "url": "http://beimotv.com/api.php/app/"
         },
         {
+          "title": "北川影视",
+          "url": "https://www.bcwzg.com/api.php/app/"
+        },        
+        {
           "title": "苍蓝资源",
           "url": "https://vip.ruifenglb.com:4433/api.php/app/"
         },
