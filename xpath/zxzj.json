@@ -71,7 +71,7 @@
 	"dtDesc": "/div[@class='stui-content__detail']/p[5]/span[@class='detail-content']/text()",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[@class='stui-pannel__bd']/div[@class='stui-vodlist__head']",
+	"dtFromNode": "//div[@class='stui-vodlist__head']",
     // 播放源名称
 	"dtFromName": "/h3/text()",
     // 二次处理正则
@@ -81,7 +81,7 @@
     // 播放地址节点
 	"dtUrlSubNode": "/li/a",
     // 播放地址
-	"dtUrlId": "@href",
+	"dtUrlId": "/@href",
     // 二次处理正则
 	"dtUrlIdR": "/video/(\\S+).html",
     // 剧集名称
