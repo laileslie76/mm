@@ -50,10 +50,10 @@
     // 详情节点
 	"dtNode": "//div[@class='stui-pannel__bd']",
     // 视频名
-	"dtName": "//div[@class='stui-content__thumb']/a[@class='pic']/@title",
+	"dtName": "//div[@class='stui-content__thumb']/a/@title",
 	"dtNameR": "",
     // 视频图片
-	"dtImg": "//div[@class='stui-content__thumb']/a[@class='pic']/img/@data-original",
+	"dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
 	"dtImgR": "",
     // 视频分类
 	"dtCate": "//div[@class='stui-content__detail']/p[1]/text()",
@@ -86,13 +86,13 @@
     // 播放列表节点
 	"dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
     // 播放地址节点
-	"dtUrlSubNode": "/li/a",
+	"dtUrlSubNode": "/li",
     // 播放地址
-	"dtUrlId": "@href",
+	"dtUrlId": "/a/@href",
     // 二次处理正则
 	"dtUrlIdR": "/video/(\\S+).html",
     // 剧集名称
-	"dtUrlName": "/text()",
+	"dtUrlName": "/a/text()",
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
