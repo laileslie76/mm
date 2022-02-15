@@ -89,7 +89,7 @@
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://www.zxzj.fun/video/3625-1-1.html",
+	"playUrl": "https://www.zxzj.fun/video/{playUrl}.html",
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
