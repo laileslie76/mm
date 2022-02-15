@@ -19,7 +19,7 @@
   "homeVodImgR": "",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://fantuan.tv/vodtype/{cateId}-{catePg}.html",
-  "cateVodNode": "//div[@class='myui-panel_bd'][2]//div[@class='myui-vodlist__box']/a",
+  "cateVodNode": "//div[@class='myui-panel_bd'  and position()>500]//div[@class='myui-vodlist__box']/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/vodtype/(\\w+).html",
