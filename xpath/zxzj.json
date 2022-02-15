@@ -13,21 +13,21 @@
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
 	"cateManual": {},
     // 首页推荐视频的节点
-	"homeVodNode": "//div[@class='stui-vodlist__box']/a",
+	"homeVodNode": "//div[@class='stui-vodlist__box']",
     // 首页推荐视频的名称
-	"homeVodName": "/@title",
+	"homeVodName": "//div[@class='stui-vodlist__box']/div[@class='stui-vodlist__detail']/h4/a/text()",
     // 二次处理正则
     "homeVodNameR": "",
     // 首页推荐视频的id
-	"homeVodId": "/@href",
+	"homeVodId": "//div[@class='stui-vodlist__box']/div[@class='stui-vodlist__detail']/h4/a/@herf",
     // 二次处理正则
 	"homeVodIdR": "/detail/(\\w+).html",
     // 首页推荐视频的图片
-	"homeVodImg": "/@data-original",
+	"homeVodImg": "/a/@data-original",
     // 二次处理正则
     "homeVodImgR": "",
     // 首页推荐视频的简介
-	"homeVodMark": "/span[contains(@class,'pic-text')]/text()",
+	"homeVodMark": "/a/span[contains(@class,'pic-text')]/text()",
     // 二次处理正则
     "homeVodMarkR": "",
     // 分类页地址 {cateId} 分类id {catePg} 当前页  
