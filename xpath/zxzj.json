@@ -3,7 +3,7 @@
     // 首页地址 用于获取 分类和首页推荐
 	"homeUrl": "https://www.zxzj.fun/",
     // 分类节点
-	"cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, 'topic'))]",
+	"cateNode": "//ul[contains(@class,'stui-header__menu')]/li/a[contains(@href, '.html') and not(contains(@href, 'topic'))]",
     // 分类名
 	"cateName": "/text()",
     // 分类id
@@ -27,7 +27,7 @@
     // 二次处理正则
     "homeVodImgR": "",
     // 首页推荐视频的简介
-	"homeVodMark": "/@title",
+	"homeVodMark": "/span[contains(@class,'pic-text')]",
     // 二次处理正则
     "homeVodMarkR": "",
     // 分类页地址 {cateId} 分类id {catePg} 当前页  
