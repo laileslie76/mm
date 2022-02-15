@@ -41,6 +41,7 @@
 	"cateVodMark": "/span[contains(@class,'pic-text')]/text()",
     // 详情页地址 用于获取详情页信息 及 播放列表和地址
 	"dtUrl": "https://www.zxzj.fun/detail/{vid}.html",
+    /*
     // 详情节点
 	"dtNode": "//div[@class='stui-content']",
     // 视频名
@@ -76,6 +77,7 @@
 	"dtFromName": "/h3/text()",
     // 二次处理正则
 	"dtFromNameR": "",
+    */
     // 播放列表节点
 	"dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
     // 播放地址节点
