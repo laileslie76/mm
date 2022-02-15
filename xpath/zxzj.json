@@ -27,7 +27,7 @@
     // 二次处理正则
     "homeVodImgR": "",
     // 首页推荐视频的简介
-	"homeVodMark": "/a/span[contains(@class,'pic-text')]/text()",
+	"homeVodMark": "/span[contains(@class,'pic-text')]/text()",
     // 二次处理正则
     "homeVodMarkR": "",
     // 分类页地址 {cateId} 分类id {catePg} 当前页  
