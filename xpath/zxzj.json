@@ -42,33 +42,33 @@
     // 详情页地址 用于获取详情页信息 及 播放列表和地址
 	"dtUrl": "https://www.zxzj.fun/detail/{vid}.html",
     // 详情节点
-	"dtNode": "//div[@class='stui-pannel__bd']",
+	"dtNode": "//div[@class='stui-content']",
     // 视频名
-	"dtName": "//div[@class='stui-content__detail']/h1/text()",
+	"dtName": "/div[@class='stui-content__thumb']/a/@title",
 	"dtNameR": "",
     // 视频图片
-	"dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
+	"dtImg": "/div[@class='stui-content__thumb']/a/img/@src",
 	"dtImgR": "",
     // 视频分类
-	"dtCate": "//div[@class='stui-content__detail']/p[1]/parent::*/following-sibling::*/text()",
-	"dtCateR": "",
+	"dtCate": "/div[@class='stui-content__detail']/p[1]/text()",
+	"dtCateR": "\\类型:(\\S+)\\ ",
     // 视频年份
-	"dtYear": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '日期')]/parent::*/following-sibling::*/text()",
-	"dtYearR": "",
+	"dtYear": "/div[@class='stui-content__detail']/p[1]/text()",
+	"dtYearR": "\\年份：(\\S+)",
     // 视频地区
-	"dtArea": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '国家')]/parent::*/following-sibling::*/text()",
-	"dtAreaR": "",
+	"dtArea": "/div[@class='stui-content__detail']/p[1]/text()",
+	"dtAreaR": "\\地区:(\\S+)\\ ",
     // 视频状态
-	"dtMark": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '状态')]/parent::*/following-sibling::*/text()",
+	"dtMark": "/div[@class='stui-content__detail']/p[4]/text()",
 	"dtMarkR": "",
     // 主演
-	"dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
+	"dtActor": "/div[@class='stui-content__detail']/p[2]/text()",
 	"dtActorR": "",
     // 导演
-	"dtDirector": "//div[@class='stui-content__detail']/p[3]/text()",
+	"dtDirector": "/div[@class='stui-content__detail']/p[3]/text()",
 	"dtDirectorR": "",
     // 视频简介
-	"dtDesc": "//p[contains(@class,'detail')]/span[@class='detail-content']/text()",
+	"dtDesc": "/div[@class='stui-content__detail']/p[5]/span[@class='detail-content']/text()",
 	"dtDescR": "",
     // 播放源节点
 	"dtFromNode": "//div[@class='stui-pannel__bd']/div[@class='stui-vodlist__head']",
