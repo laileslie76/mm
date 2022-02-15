@@ -52,7 +52,7 @@
   "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
   "dtUrlSubNode": "//li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/p/(\\S+).html",
+  "dtUrlIdR": "/vodplay/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://fantuan.tv/vodplay/{playUrl}.html",
