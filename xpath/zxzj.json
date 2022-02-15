@@ -1,0 +1,104 @@
+{
+	"ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.zxzj.fun/",
+    // 分类节点
+	"cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, 'topic'))]",
+    // 分类名
+	"cateName": "/text()",
+    // 分类id
+	"cateId": "/@href",
+    // 分类id二次处理正则
+	"cateIdR": "/type/(\\d+).html",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {},
+    // 首页推荐视频的节点
+	"homeVodNode": "//div[@class='stui-pannel__bd']//div[@class='stui-vodlist__box']/",
+    // 首页推荐视频的名称
+	"homeVodName": "/a/text()",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+	"homeVodId": "/@href",
+    // 二次处理正则
+	"homeVodIdR": "/detail/(\\w+).html",
+    // 首页推荐视频的图片
+	"homeVodImg": "/@data-original",
+    // 二次处理正则
+    "homeVodImgR": "",
+    // 首页推荐视频的简介
+	"homeVodMark": "/@title",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页  
+	"cateUrl": "https://zxzj.fun/list/{cateId}-{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='stui-vodlist__box']/a",
+	"cateVodName": "/@title",
+	"cateVodId": "/@href",
+	"cateVodIdR": "/detail/(\\w+).html",
+	"cateVodImg": "/@data-original",
+	"cateVodMark": "/@title",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://zxzj.fun/{vid}.html",
+    // 详情节点
+	"dtNode": "//div[@class='stui-pannel__bd']",
+    // 视频名
+	"dtName": "//div[@class='stui-content__detail']/h1/text()",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "//div[@class='stui-content__detail']/p[1]/parent::*/following-sibling::*/text()",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '日期')]/parent::*/following-sibling::*/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '国家')]/parent::*/following-sibling::*/text()",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '状态')]/parent::*/following-sibling::*/text()",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "//div[@class='stui-content__detail']/p[3]/text()",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "//p[contains(@class,'detail')]/span[@class='detail-content']/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//div[@class='stui-pannel__bd']/div[@class='stui-vodlist__head']",
+    // 播放源名称
+	"dtFromName": "/h3/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点
+	"dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
+    // 播放地址节点
+	"dtUrlSubNode": "/li/a",
+    // 播放地址
+	"dtUrlId": "@href",
+    // 二次处理正则
+	"dtUrlIdR": "/video/(\\S+).html",
+    // 剧集名称
+	"dtUrlName": "/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://www.zxzj.fun/video/{playUrl}.html",
+    // 解析webview的user-agent
+	"playUa": "",
+    // 搜索地址
+	"searchUrl": "https://www.zxzj.fun/vodsearch/-------------.html?wd={wd}&submit=",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='stui-vodlist__box']/a",
+	"scVodName": "/@title",
+	"scVodId": "/@href",
+	"scVodIdR": "/detail/(\\w+).html",
+	"scVodImg": "/@data-original",
+	"scVodMark": "/span[contains(@class, 'pic-text')]/text()"
+}      
