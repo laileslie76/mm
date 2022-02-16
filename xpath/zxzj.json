@@ -74,7 +74,7 @@
     // 播放源节点
 	"dtFromNode": "//div[contains(@class,'stui-vodlist__head')]",
     // 播放源名称
-	"dtFromName": "/span/following-sibling::*/text()",
+	"dtFromName": "/h3/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     
