@@ -3,6 +3,8 @@
   "homeUrl": "https://fantuan.tv",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
+  "pCfgJs": "https://fantuan.tv/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "cateNode": "//ul[contains(@class, 'nav-menu')]/li/a[contains(@href, '.html')]",
   "cateName": "/text()",
   "cateId": "/@href",
