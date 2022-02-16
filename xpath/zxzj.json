@@ -31,7 +31,7 @@
     // 二次处理正则
     "homeVodMarkR": "",
     // 分类页地址 {cateId} 分类id {catePg} 当前页  
-	"cateUrl": "https://zxzj.fun/list/{cateId}-{catePg}.html",
+	"cateUrl": "https://www.zxzj.fun/list/{cateId}-{catePg}.html",
     // 同上面的homeVod字段 分类列表中的视频信息
 	"cateVodNode": "//div[@class='stui-vodlist__box']/a",
 	"cateVodName": "/@title",
