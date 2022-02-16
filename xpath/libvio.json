@@ -69,7 +69,7 @@
 	"dtDirector": "//div[@class='stui-content__detail']/p[3]/text()",
 	"dtDirectorR": "\\导演:(\\S+)",
     // 视频简介
-	"dtDesc": "//div[@class='stui-content__detail']/p[5]/span[@class='detail-content']/text()",
+	"dtDesc": "//div[@class='stui-content__detail']//span[@class='detail-content']/text()",
 	"dtDescR": "",
     // 播放源节点
 	"dtFromNode": "//div[contains(@class,'vodlist')]/h3",
