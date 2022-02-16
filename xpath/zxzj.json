@@ -1,7 +1,7 @@
 {
 	"ua": "",
     // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "https://www.libvio.com/",
+	"homeUrl": "https://www.zxzj.fun/",
     // 分类节点
 	"cateNode": "//ul[contains(@class,'stui-header__menu')]/li/a[contains(@href, '.html') and not(contains(@href, 'topic'))]",
     // 分类名
@@ -40,16 +40,16 @@
 	"cateVodImg": "/@data-original",
 	"cateVodMark": "/span[contains(@class,'pic-text')]/text()",
     // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "https://www.libvio.com/detail/{vid}.html",
+	"dtUrl": "https://www.zxzj.fun/detail/{vid}.html",
   
     // 详情节点
-	"dtNode": "//div[@class='stui-pannel__bd']",
+	"dtNode": "//div[@class='stui-content']",
     // 视频名
 	"dtName": "//div[@class='stui-content__detail']/h1/text()",
 	"dtNameR": "",
     // 视频图片
 	"dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
-	"dtImgR": "",
+	"dtImgR": "\\S+(http\\S+)",
     // 视频分类
 	"dtCate": "//div[@class='stui-content__detail']/p[1]/text()",
 	"dtCateR": "\\类型:(\\S+)\\ ",
@@ -72,16 +72,16 @@
 	"dtDesc": "//div[@class='stui-content__detail']/p[5]/span[@class='detail-content']/text()",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[contains(@class,'vodlist')]/h3",
+	"dtFromNode": "//div[contains(@class,'stui-vodlist__head')]",
     // 播放源名称
-	"dtFromName": "/text()",
+	"dtFromName": "/span/following-sibling::*/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     
     // 播放列表节点
-	"dtUrlNode": "//ul[contains(@class,'playlist')]",
+	"dtUrlNode": "//ul[contains(@class,'playlist')]/li",
     // 播放地址节点
-	"dtUrlSubNode": "/li/a",
+	"dtUrlSubNode": "/a",
     // 播放地址
 	"dtUrlId": "/@href",
     // 二次处理正则
@@ -91,11 +91,11 @@
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://www.libvio.com/video/{playUrl}.html",
+	"playUrl": "https://www.zxzj.fun/video/{playUrl}.html",
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
-	"searchUrl": "https://www.libvio.com/vodsearch/-------------.html?wd={wd}&submit=",
+	"searchUrl": "https://www.zxzj.fun/vodsearch/-------------.html?wd={wd}&submit=",
     // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
 	"scVodNode": "//div[@class='stui-vodlist__box']/a",
 	"scVodName": "/@title",
