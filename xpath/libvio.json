@@ -40,8 +40,6 @@
 	"dtActorR": "\\主演：(\\S+)",
 	"dtDirector": "//div[@class='stui-content__detail']/p[2]/text()",
 	"dtDirectorR": "\\导演：(\\S+)",
-  "dtActor": "",
-  "dtActorR": "",
   "dtDesc": "",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class,'stui-vodlist__head')]/div[contains(@class,'stui-pannel__head')]",
