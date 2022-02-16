@@ -51,37 +51,37 @@
 	"dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
 	"dtImgR": "\\S+(http\\S+)",
     // 视频分类
-	"dtCate": "//div[@class='stui-content__detail']/p[1]/text()",
+	"dtCate": "//div[@class='stui-content__detail']/h1/following-sibling::*[1]/text()",
 	"dtCateR": "\\类型:(\\S+)\\ ",
     // 视频年份
-	"dtYear": "//div[@class='stui-content__detail']/p[1]/text()",
+	"dtYear": "//div[@class='stui-content__detail']/h1/following-sibling::*[1]/text()",
 	"dtYearR": "\\年份：(\\S+)",
     // 视频地区
-	"dtArea": "//div[@class='stui-content__detail']/p[1]/text()",
+	"dtArea": "//div[@class='stui-content__detail']/h1/following-sibling::*[1]/text()",
 	"dtAreaR": "\\地区:(\\S+)\\ ",
     // 视频状态
 	"dtMark": "",
 	"dtMarkR": "",
     // 主演
-	"dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
+	"dtActor": "//div[@class='stui-content__detail']/h1/following-sibling::*[2]/text()",
 	"dtActorR": "",
     // 导演
-	"dtDirector": "//div[@class='stui-content__detail']/p[3]/text()",
+	"dtDirector": "//div[@class='stui-content__detail']/h1/following-sibling::*[3]/text()",
 	"dtDirectorR": "",
     // 视频简介
-	"dtDesc": "//div[@class='stui-content__detail']/p[5]/span[@class='detail-content']/text()",
+	"dtDesc": "",
 	"dtDescR": "",
     // 播放源节点
 	"dtFromNode": "//div[contains(@class,'stui-vodlist__head')]",
     // 播放源名称
-	"dtFromName": "/span/following-sibling::*/text()",
+	"dtFromName": "/span/following-sibling::*[1]/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     
     // 播放列表节点
-	"dtUrlNode": "//ul[contains(@class,'playlist')]/li",
+	"dtUrlNode": "//div[contains(@class,'stui-vodlist__head')]/following-sibling::ul[1]",
     // 播放地址节点
-	"dtUrlSubNode": "/a",
+	"dtUrlSubNode": "/li/a",
     // 播放地址
 	"dtUrlId": "/@href",
     // 二次处理正则
