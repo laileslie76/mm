@@ -43,7 +43,7 @@
 	"dtUrl": "https://www.libvio.com/detail/{vid}.html",
   
     // 详情节点
-	"dtNode": "//div[@class='stui-pannel__bd']",
+	"dtNode": "//div[@class='stui-pannel-box']",
     // 视频名
 	"dtName": "//div[@class='stui-content__detail']/h1/text()",
 	"dtNameR": "",
@@ -64,10 +64,10 @@
 	"dtMarkR": "",
     // 主演
 	"dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
-	"dtActorR": "",
+	"dtActorR": "\\主演:(\\S+)",
     // 导演
 	"dtDirector": "//div[@class='stui-content__detail']/p[3]/text()",
-	"dtDirectorR": "",
+	"dtDirectorR": "\\导演:(\\S+)",
     // 视频简介
 	"dtDesc": "//div[@class='stui-content__detail']/p[5]/span[@class='detail-content']/text()",
 	"dtDescR": "",
@@ -85,13 +85,13 @@
     // 播放地址
 	"dtUrlId": "/@href",
     // 二次处理正则
-	"dtUrlIdR": "/video/(\\S+).html",
+	"dtUrlIdR": "/play/(\\S+).html",
     // 剧集名称
 	"dtUrlName": "/text()",
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://www.libvio.com/video/{playUrl}.html",
+	"playUrl": "https://www.libvio.com/play/{playUrl}.html",
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
