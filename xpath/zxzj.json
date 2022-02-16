@@ -65,7 +65,7 @@
 	"dtArea": "//div[@class='stui-content__detail']/p[1]/text()",
 	"dtAreaR": "\\地区:(\\S+)\\ ",
     // 视频状态
-	"dtMark": "//div[@class='stui-content__detail']/p[4]/text()",
+	"dtMark": "",
 	"dtMarkR": "",
     // 主演
 	"dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
