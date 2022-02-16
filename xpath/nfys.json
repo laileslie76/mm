@@ -4,7 +4,7 @@
     "cateNode": "//ul[@class='nav-menu-items']/li/a[contains(@href, 'vodtype')]",
     "cateName": "/span/text()",
     "cateId": "/@href",
-    "cateIdR": "/vodtype/(\\w+).html",
+    "cateIdR": "/vodtype/(\\d+)/",
     "cateManual": {},
     "homeVodNode": "//div[@class='module-item']",
     "homeVodName": "//div[@class='module-item-pic']/a/@title",
