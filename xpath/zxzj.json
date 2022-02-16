@@ -45,7 +45,7 @@
     // 详情节点
 	"dtNode": "//div[@class='stui-pannel__bd']",
     // 视频名
-	"dtName": "//div[@class='stui-content__thumb']/a/@title",
+	"dtName": "//div[@class='stui-content__detail']/h1/text()",
 	"dtNameR": "",
     // 视频图片
 	"dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
