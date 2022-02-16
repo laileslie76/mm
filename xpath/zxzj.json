@@ -2,11 +2,6 @@
 	"ua": "",
     // 首页地址 用于获取 分类和首页推荐
 	"homeUrl": "https://www.zxzj.fun/",
-    "dcVipFlag": "true",
-    "pCfgJs": "https://www.zxzj.fun/static/js/playerconfig.js",
-    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
-    "dcShow2Vip": {},
-    "dcPlayUrl": "true",
     // 分类节点
 	"cateNode": "//ul[contains(@class,'stui-header__menu')]/li/a[contains(@href, '.html') and not(contains(@href, 'topic'))]",
     // 分类名
@@ -77,22 +72,22 @@
 	"dtDesc": "//div[@class='stui-content__detail']/p[5]/span[@class='detail-content']/text()",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[@class='stui-vodlist__head']",
+	"dtFromNode": "//div[contains(@class,'vodlist')]/h3",
     // 播放源名称
-	"dtFromName": "/h3/text()",
+	"dtFromName": "/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     
     // 播放列表节点
-	"dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
+	"dtUrlNode": "//ul[contains(@class,'playlist')]",
     // 播放地址节点
-	"dtUrlSubNode": "/li",
+	"dtUrlSubNode": "/li/a",
     // 播放地址
-	"dtUrlId": "/a/@href",
+	"dtUrlId": "/@href",
     // 二次处理正则
 	"dtUrlIdR": "/video/(\\S+).html",
     // 剧集名称
-	"dtUrlName": "/a/text()",
+	"dtUrlName": "/text()",
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
