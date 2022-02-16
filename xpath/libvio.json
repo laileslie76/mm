@@ -44,7 +44,7 @@
   "dtActorR": "",
   "dtDesc": "",
   "dtDescR": "",
-  "dtFromNode": "//div[contains(@class,'stui-vodlist__head')]",
+  "dtFromNode": "//div[contains(@class,'stui-vodlist__head')]/div[contains(@class,'stui-pannel__head')]",
   "dtFromName": "/h3/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
