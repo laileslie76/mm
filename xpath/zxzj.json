@@ -52,24 +52,24 @@
 	"dtImgR": "\\S+(http\\S+)",
     // 视频分类
 	"dtCate": "//div[@class='stui-content__detail']/p[1]/text()",
-	"dtCateR": "\\类型:(\\S+)\\ ",
+	"dtCateR": "\\类型：(\\S+)",
     // 视频年份
 	"dtYear": "//div[@class='stui-content__detail']/p[1]/text()",
 	"dtYearR": "\\年份：(\\S+)",
     // 视频地区
 	"dtArea": "//div[@class='stui-content__detail']/p[1]/text()",
-	"dtAreaR": "\\地区:(\\S+)\\ ",
+	"dtAreaR": "\\地区：(\\S+)",
     // 视频状态
 	"dtMark": "",
 	"dtMarkR": "",
     // 主演
 	"dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
-	"dtActorR": "",
+	"dtActorR": "\\主演：(\\S+)",
     // 导演
 	"dtDirector": "//div[@class='stui-content__detail']/p[3]/text()",
-	"dtDirectorR": "",
+	"dtDirectorR": "\\导演：(\\S+)",
     // 视频简介
-	"dtDesc": "",
+	"dtDesc": "//div[@class='stui-content__detail']/p[5]/span[@class='detail-sketch']/text()",
 	"dtDescR": "",
     // 播放源节点
 	"dtFromNode": "//div[@class='stui-pannel__bd']/div[@class='stui-vodlist__head']",
