@@ -71,7 +71,7 @@
 	"dtDesc": "//div[contains(@class,'content_min')]//span[contains(@class,'text_muted') and contains(text(), '简介')]/following-sibling::*/text()",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[contains(@class,'pannel') and @id='bofy']//div[contains(@class,'play_source_tab') and @id='NumTab']/a",
+	"dtFromNode": "//div[contains(@class,'play_source_tab') and @id='NumTab']/a",
     // 播放源名称
 	"dtFromName": "/@alt",
     // 二次处理正则
