@@ -1,7 +1,7 @@
 {
 	"ua": "",
     // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "https://aidi.tv/map.html",
+	"homeUrl": "https://aidi.tv/",
     // 分类节点
 	"cateNode": "//ul[contains(@class,'top_nav')]/li/a[contains(@href, '.html') and not(contains(text(), '资讯'))]",
     // 分类名
@@ -13,21 +13,21 @@
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
 	"cateManual": {},
     // 首页推荐视频的节点
-	"homeVodNode": "//div[contains(@class,'vodlist_smt')]//li[@class='ranklist_item']",
+	"homeVodNode": "//div[contains(@class,'vodlist')]/li/a",
     // 首页推荐视频的名称
-	"homeVodName": "/a/@title",
+	"homeVodName": "/@title",
     // 二次处理正则
     "homeVodNameR": "",
     // 首页推荐视频的id
-	"homeVodId": "/a/@href",
+	"homeVodId": "/@href",
     // 二次处理正则
 	"homeVodIdR": "/movie/(\\w+).html",
     // 首页推荐视频的图片
-	"homeVodImg": "//div[contains(@class,'ranklist_thumb')]/@data-original",
+	"homeVodImg": "/@data-original",
     // 二次处理正则
     "homeVodImgR": "",
     // 首页推荐视频的简介
-	"homeVodMark": "//span[contains(@class,'text_muted')]/em/text()",
+	"homeVodMark": "//span[contains(@class,'pic_text')]/text()",
     // 二次处理正则
     "homeVodMarkR": "",
     // 分类页地址 {cateId} 分类id {catePg} 当前页
