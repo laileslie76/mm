@@ -100,7 +100,7 @@
 	"scVodNode": "//div[contains(@class,'search_list')/ul/li/a",
 	"scVodName": "/img/@alt",
 	"scVodId": "/@href",
-	"scVodIdR": "https://qianoo.cn/movie/(\\w+).html",
+	"scVodIdR": "",
 	"scVodImg": "/img/@src",
 	"scVodMark": ""
 }      
