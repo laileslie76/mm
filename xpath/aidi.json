@@ -77,7 +77,7 @@
     // 二次处理正则
 	"dtFromNameR": "",
     // 播放列表节点
-	"dtUrlNode": "//div[contains(@class, 'play_list_box')]/div[@class='playlist_full']/ul",
+	"dtUrlNode": "//div[@class='playlist_full']/ul",
     // 播放地址节点
 	"dtUrlSubNode": "/li/a",
     // 播放地址
