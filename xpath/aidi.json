@@ -13,7 +13,7 @@
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
 	"cateManual": {},
     // 首页推荐视频的节点
-	"homeVodNode": "//div[contains(@class,'vodlist')]/li/a[contains(@class,'vodlist_thumb')]",
+	"homeVodNode": "//div[@class='cbox_list']/li[contains(@class,'vodlist_item')]/a",
     // 首页推荐视频的名称
 	"homeVodName": "/@title",
     // 二次处理正则
