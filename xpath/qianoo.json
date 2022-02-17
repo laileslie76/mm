@@ -81,7 +81,7 @@
     // 播放列表节点
 	"dtUrlNode": "//div[@classs='paly_list_btn']",
     // 播放地址节点
-	"dtUrlSubNode": "/a",
+	"dtUrlSubNode": "//a",
     // 播放地址
 	"dtUrlId": "/@href",
     // 二次处理正则
