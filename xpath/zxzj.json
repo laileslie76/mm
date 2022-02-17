@@ -72,7 +72,7 @@
 	"dtDesc": "//div[@class='stui-content__detail']/p[5]/span[@class='detail-sketch']/text()",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[@class='stui-pannel__bd']//span[@class='pull-right']",
+	"dtFromNode": "//div[@class='stui-pannel-box']//h3",
     // 播放源名称
 	"dtFromName": "/text()",
     // 二次处理正则
