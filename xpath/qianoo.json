@@ -72,9 +72,9 @@
 	"dtDesc": "//div[@class='yp_context']/p/text()",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[@class='ypxingq_t']",
+	"dtFromNode": "//div[@class='mi_paly_box']",
     // 播放源名称
-	"dtFromName": "/span/text()",
+	"dtFromName": "//span/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     
