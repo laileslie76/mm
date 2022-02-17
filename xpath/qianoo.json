@@ -1,7 +1,7 @@
 {
 	"ua": "",
     // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "https://qianoo.cn/",
+	"homeUrl": "https://qianoo.cn/movie_bt",
     // 分类节点
 	"cateNode": "//ul[contains(@class,'navlist')]/li/a[contains(@href, '/') and not(contains(text(), '首页'))]",
     // 分类名
@@ -13,7 +13,7 @@
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
 	"cateManual": {},
     // 首页推荐视频的节点
-	"homeVodNode": "//div[@class='mi_cont']//ul/li/a",
+	"homeVodNode": "//div[contains(@class,'mrb')]/ul/li/a",
     // 首页推荐视频的名称
 	"homeVodName": "/img/@alt",
     // 二次处理正则
@@ -33,7 +33,7 @@
     // 分类页地址 {cateId} 分类id {catePg} 当前页  
 	"cateUrl": "https://qianoo.cn/{cateId}/page/{catePg}",
     // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//div[@class='mi_cont']//ul/li/a",
+	"cateVodNode": "//div[contains(@class,'mrb')]/ul/li/a",
 	"cateVodName": "/img/@alt",
 	"cateVodId": "/@href",
 	"cateVodIdR": "",
