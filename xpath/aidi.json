@@ -1,0 +1,104 @@
+{
+	"ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://aidi.tv/map.html",
+    // 分类节点
+	"cateNode": "//ul[contains(@class,'top_nav')]/li/a[contains(@href, '.html') and not(contains(text(), '资讯'))]",
+    // 分类名
+	"cateName": "/text()",
+    // 分类id
+	"cateId": "/@href",
+    // 分类id二次处理正则
+	"cateIdR": "/v/(\\S+).html",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {},
+    // 首页推荐视频的节点
+	"homeVodNode": "//div[contains(@class,'vodlist_smt')]//li[@class='ranklist_item']",
+    // 首页推荐视频的名称
+	"homeVodName": "/a/@title",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+	"homeVodId": "/a/@href",
+    // 二次处理正则
+	"homeVodIdR": "/movie/(\\w+).html",
+    // 首页推荐视频的图片
+	"homeVodImg": "//div[contains(@class,'ranklist_thumb')]/@data-original",
+    // 二次处理正则
+    "homeVodImgR": "",
+    // 首页推荐视频的简介
+	"homeVodMark": "//span[contains(@class,'text_muted')]/em/text()",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://aidi.tv/show/{cateId}--------{catePg}---.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[contains(@class,'vodlist')]/li/a",
+	"cateVodName": "/@title",
+	"cateVodId": "/@href",
+	"cateVodIdR": "/movie/(\\w+).html",
+	"cateVodImg": "/@data-original",
+	"cateVodMark": "//span[contains(@class,'pic_text')]/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://aidi.tv/movie/{vid}.html",
+    // 详情节点
+	"dtNode": "//div[@class='content_box']",
+    // 视频名
+	"dtName": "//div[contains(@class,'content_thumb')]/a/@title",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//div[contains(@class,'content_thumb')]/a/@data-original",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "//div[contains(@class,'content_min')]//span[contains(@class,'text_muted') and contains(text(), '类型')]/following-sibling::*/text()",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//div[contains(@class,'content_min')]//span[contains(@class,'text_muted') and contains(text(), '年份')]/following-sibling::*/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "//div[contains(@class,'content_min')]//span[contains(@class,'text_muted') and contains(text(), '地区')]/following-sibling::*/text()",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "//div[contains(@class,'content_min')]//span[contains(text(), '状态')]/following-sibling::*/text()",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//div[contains(@class,'content_min')]//span[contains(text(), '主演')]/following-sibling::*/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "//div[contains(@class,'content_min')]//span[contains(text(), '导演')]/following-sibling::*/text()",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "//div[contains(@class,'content_min')]//span[contains(@class,'text_muted') and contains(text(), '简介')]/following-sibling::*/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//div[@class='play_source']/div[contains(@class,'play_source_tab')]/a",
+    // 播放源名称
+	"dtFromName": "/@alt",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点
+	"dtUrlNode": "//ul[contains(@class,'content_playlist')]",
+    // 播放地址节点
+	"dtUrlSubNode": "/li/a",
+    // 播放地址
+	"dtUrlId": "@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "{playUrl}",
+    // 解析webview的user-agent
+	"playUa": "",
+    // 搜索地址
+	"searchUrl": "https://aidi.tv/index.php/vsearch/{wd}-------------.html",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='searchlist_img']/a",
+	"scVodName": "/@title",
+	"scVodId": "/@href",
+	"scVodIdR": "/index.php/movie/(\\w+).html",
+	"scVodImg": "/@data-original",
+	"scVodMark": "//span[contains(@class,'pic_text')]/text()"
+}
