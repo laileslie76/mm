@@ -3,15 +3,15 @@
     // 首页地址 用于获取 分类和首页推荐
 	"homeUrl": "https://www.4kcz.com/",
     // 分类节点
-	"cateNode": "",
+	"cateNode": "//div[@class='homepage_homepage_channelnav']//div/a[contains(@href,'vodshow') and not contains(@href,'.html')]",
     // 分类名
-	"cateName": "",
+	"cateName": "/text()",
     // 分类id
-	"cateId": "",
+	"cateId": "/@href",
     // 分类id二次处理正则
-	"cateIdR": "",
+	"cateIdR": "/vodshow/(\\d+)/",
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
-	"cateManual": {"电影":"1","电视剧","2","动漫","4"},
+	"cateManual": {},
     // 首页推荐视频的节点
 	"homeVodNode": "//div[contains(@class,'vodlist')]//a[contains(@class,'aplus-exp')]",
     // 首页推荐视频的名称
