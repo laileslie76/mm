@@ -33,7 +33,7 @@
     // 分类页地址 {cateId} 分类id {catePg} 当前页
 	"cateUrl": "https://aidi.tv/show/{cateId}--------{catePg}---.html",
     // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//div[contains(@class,'vodlist')]/li/a",
+	"cateVodNode": "//ul[contains(@class,'vodlist')]/li/a",
 	"cateVodName": "/@title",
 	"cateVodId": "/@href",
 	"cateVodIdR": "/movie/(\\w+).html",
