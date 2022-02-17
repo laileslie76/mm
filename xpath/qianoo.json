@@ -69,17 +69,17 @@
 	"dtDirector": "//ul[@class='moviedteail_list']/li[contains(text(), '导演')]/following-sibling::*/text()",
 	"dtDirectorR": "",
     // 视频简介
-	"dtDesc": "//div[@class='yp_context']/p/text()",
+	"dtDesc": "",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[@class='mi_paly_box']",
+	"dtFromNode": "//div[contains(@class,'mi_paly_box')]",
     // 播放源名称
 	"dtFromName": "//span/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     
     // 播放列表节点
-	"dtUrlNode": "//div[@classs='paly_list_btn']",
+	"dtUrlNode": "//div[contains(@class,'paly_list_btn')",
     // 播放地址节点
 	"dtUrlSubNode": "//a",
     // 播放地址
