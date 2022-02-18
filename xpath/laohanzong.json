@@ -10,7 +10,7 @@
  "cateId": "", 
  "cateIdR": "", 
  "cateManual": {"电影":"1", "综艺":"3", "动漫":"4","韩剧":"13","港剧":"14","美剧":"16","日剧":"15","泰剧":"20"}, 
- "homeVodNode": "//div[contains(@class,'myui-panel-box')]//li[contains(@class,'col-lg-6')]/div/a", 
+ "homeVodNode": "//li[contains(@class,'col-lg-6')]/div/a", 
  "homeVodName": "/@title", 
  "homeVodId": "/@href", 
  "homeVodIdR": "/hj/(\\w+).html", 
