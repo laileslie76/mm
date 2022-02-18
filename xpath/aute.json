@@ -3,7 +3,7 @@
     // 首页地址 用于获取 分类和首页推荐
 	"homeUrl": "https://auete.com/",
     // 分类节点
-	"cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, 'index.html') and not(cotains(@href,'Music'))]",
+	"cateNode": "//ul[@class='navbar-nav mr-auto']/li/a[contains(@href, 'index.html') and not(cotains(@href,'Music'))]",
     // 分类名
 	"cateName": "/text()",
     // 分类id
@@ -27,7 +27,7 @@
     // 二次处理正则
     "homeVodImgR": "",
     // 首页推荐视频的简介
-	"homeVodMark": "//button[class='hdtag']/text()",
+	"homeVodMark": "/a/button[class='hdtag']/text()",
     // 二次处理正则
     "homeVodMarkR": "",
     // 分类页地址 {cateId} 分类id {catePg} 当前页  
