@@ -46,11 +46,11 @@
     "playUrl": "https://netflix.mom/index.php/vod/play/id/{playUrl}.html",
     "playUa": "",
     "searchUrl": "https://netflix.mom/index.php/vod/search/wd/{wd}.html",
-    "scVodNode": "json:list",
-    "scVodName": "name",
-    "scVodId": "id",
-    "scVodIdR": "",
-    "scVodImg": "pic",
+    "scVodNode": "//div[@class='module-item']",
+    "scVodName": "//div[@class='video-info']/h3/a/@title",
+    "scVodId": "//div[@class='video-info']/h3/a/@href",
+    "scVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+    "scVodImg": "",
     "scVodMark": "",
     "filter": {
       "1": [
