@@ -52,7 +52,7 @@
     "dtUrlNameR": "",
     "playUrl": "https://bidiys.cc/vodplay/{playUrl}/",
     "playUa": "",
-    "searchUrl": "https://bidiys.cc/vodsearch-{wd}-------------.html",
+    "searchUrl": "https://bidiys.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
