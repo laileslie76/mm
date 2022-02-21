@@ -54,7 +54,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.jpysvip.net/vodplay/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.jpysvip.net/vodsearch/{wd}-------------.html",
+  "searchUrl": "https://www.jpysvip.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
