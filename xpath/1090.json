@@ -42,7 +42,7 @@
 	"dtDirectorR": "",
   "dtDesc": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(text(),'简介')]/following-sibling::*/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[@class='stui-pannel_hd']/div/span",
+  "dtFromNode": "//div[@class='stui-pannel_hd']/div/span[@class='more text-muted']",
   "dtFromName": "/h3/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
