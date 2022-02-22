@@ -32,7 +32,7 @@
   "cateVodMark": "/span[@class='pack-prb hidden']/text()",
   "dtUrl": "https://vipmv.co/Moviedetail/{vid}/",
   "dtNode": "//body",
-  "dtName": "//div[@class='s-top-info-title cf wow fadeInDownBig animated']/h1/text()",
+  "dtName": "//div[contains(@class,'s-top-info-title cf wow fadeInDownBig')]/h1/text()",
   "dtNameR": "",
   "dtImg": "//div[@class='s-cover box']/a/img/@src",
   "dtImgR": "\\S+(http\\S+)",
