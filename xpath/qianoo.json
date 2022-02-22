@@ -43,7 +43,7 @@
 	"dtUrl": "{vid}",
   
     // 详情节点
-	"dtNode": "//div[contains(@class,'mi_ne_kd dypre')]",
+	"dtNode": "//body",
     // 视频名
 	"dtName": "//div[@class='moviedteail_tt']/h1/text()",
 	"dtNameR": "",
