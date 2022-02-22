@@ -50,7 +50,7 @@
   "dtDirectorR": "",
   "dtDesc": "//span[contains(@id, 'cText')]/text()",
   "dtDescR": "",
-    "dtFromNode": "//a[contains(@class, 'channelname swiper-slide')]",
+    "dtFromNode": "//a[contains(@class, 'channelname')]",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//div[contains(@id, 'playsx')]//ul[contains(@class,'content_playlist')]",
