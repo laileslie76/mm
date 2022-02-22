@@ -56,7 +56,7 @@
   "dtUrlNode": "//div[contains(@id, 'playsx')]//ul[contains(@class,'content_playlist')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/vodplay/(\\S+)/",
+  "dtUrlIdR": "/okplay/(\\S+)/",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://vipmv.co/okplay/{playUrl}/",
