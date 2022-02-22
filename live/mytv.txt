@@ -284,12 +284,13 @@ CGTN西班牙,http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 
 港澳其他,#genre#
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://27.47.68.248:808/hls/33/index.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰中文,http://27.47.68.248:808/hls/32/index.m3u8
 凤凰香港,http://iptv.tvfix.org/hls/fhxg.m3u8
 凤凰香港,http://27.47.68.248:808/hls/34/index.m3u8
-凤凰中文,http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
@@ -301,6 +302,8 @@ CGTN西班牙,http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 香港卫视,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 CNC中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC中文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
