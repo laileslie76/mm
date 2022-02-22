@@ -43,7 +43,7 @@
 	"dtUrl": "https://www.zxzj.fun/detail/{vid}.html",
   
     // 详情节点
-	"dtNode": "//div[@class='stui-content']",
+	"dtNode": "//body",
     // 视频名
 	"dtName": "//div[@class='stui-content__detail']/h1/text()",
 	"dtNameR": "",
