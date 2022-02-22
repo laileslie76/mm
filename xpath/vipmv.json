@@ -31,7 +31,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/span[@class='pack-prb hidden']/text()",
   "dtUrl": "https://vipmv.co/Moviedetail/{vid}/",
-  "dtNode": "//div[contains(@class,'playlist')]",
+  "dtNode": "//div[@class='vod-detail style-detail']",
   "dtName": "//div[@class='s-top-info-title cf wow fadeInDownBig']/h1/text()",
   "dtNameR": "",
   "dtImg": "//div[@class='s-cover box']/a/img/@src",
