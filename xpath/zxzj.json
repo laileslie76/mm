@@ -79,7 +79,7 @@
 	"dtFromNameR": "",
     
     // 播放列表节点
-	"dtUrlNode": "//ul[contains(@class,'stui-content__playlist']",
+	"dtUrlNode": "//div[@class='stui-pannel__bd']/ul[contains(@class,'stui-content__playlist']",
     // 播放地址节点
 	"dtUrlSubNode": "/li/a",
     // 播放地址
