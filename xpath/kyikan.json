@@ -11,8 +11,11 @@
     // 分类id二次处理正则
 	"cateIdR": "/vodtypehtml/(\\w+)/",
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
-	"cateManual": {"动作片": "dongzuopian", "喜剧片": "xijupian","爱情片": "aiqingpian", "科幻片": "kehuanpian","恐怖片": "kongbupian", 
-                  "剧情片": "juqingpian","记录片": "jilupian", "战争片": "zhanzhengpian","微电影": "weidianying", "惊悚片": "jingsong","悬疑片": "xuanyi"
+	"cateManual": {
+        "综艺": "daluzongyi","国产剧": "guochanju", "港台剧": "gangtaiju","欧美剧": "oumeiju","日韩剧": "rihanju", "泰剧": "taiguoju","海外剧": "haiwaiju",  
+        "动作片": "dongzuopian", "喜剧片": "xijupian","爱情片": "aiqingpian", "科幻片": "kehuanpian","恐怖片": "kongbupian", 
+        "剧情片": "juqingpian","纪录片": "jlup", "战争片": "zhanzhengpian","微电影": "weidianying", "惊悚片": "jingsong","悬疑片": "xuanyi",
+        "动漫-TV版": "tvban", "动漫-电影": "dyban","动漫-剧场版": "juchang","动漫-国语": "jingdianguoyu"
                   },
     // 首页推荐视频的节点
 	"homeVodNode": "//div[@class='index-tj-l']/ul/li/a[@class='link-hover']",
@@ -97,12 +100,11 @@
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
-	"searchUrl": "https://www.kyikan.cc/vodsearch/-------------.html?wd={wd}&submit=",
-    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
-	"scVodNode": "//div[@class='stui-vodlist__box']/a",
-	"scVodName": "/@title",
-	"scVodId": "/@href",
-	"scVodIdR": "/detail/(\\w+).html",
-	"scVodImg": "/@data-original",
-	"scVodMark": "/span[contains(@class, 'pic-text')]/text()"
+    "searchUrl": "https://www.kyikan.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "scVodNode": "json:list",
+    "scVodName": "name",
+    "scVodId": "id",
+    "scVodIdR": "",
+    "scVodImg": "pic",
+    "scVodMark": ""
 }      
