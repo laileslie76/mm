@@ -47,28 +47,28 @@
     // 详情节点
 	"dtNode": "//div[@class='main']",
     // 视频名
-	"dtName": "//dt[@class='name']",
+	"dtName": "//dt[@class='name']/text()",
 	"dtNameR": "",
     // 视频图片
 	"dtImg": "//div[@class='ct-l']/img[@class='lazy']/@data-original",
 	"dtImgR": "",
     // 视频分类
-	"dtCate": "//span[contains(text(),'类型')]",
+	"dtCate": "//span[contains(text(),'类型')]/following-sibling::*/text()",
 	"dtCateR": "",
     // 视频年份
-	"dtYear": "//span[contains(text(),'年份')]",
+	"dtYear": "//span[contains(text(),'年份')]/following-sibling::*/text()",
 	"dtYearR": "",
     // 视频地区
-	"dtArea": "//span[contains(text(),'地区')]",
+	"dtArea": "//span[contains(text(),'地区')]/following-sibling::*/text()",
 	"dtAreaR": "",
     // 视频状态
 	"dtMark": "",
 	"dtMarkR": "",
     // 主演
-	"dtActor": "//span[contains(text(),'主演')]",
+	"dtActor": "//span[contains(text(),'主演')]/following-sibling::*/text()",
 	"dtActorR": "",
     // 导演
-	"dtDirector": "//span[contains(text(),'导演')]",
+	"dtDirector": "//span[contains(text(),'导演')]/following-sibling::*/text()",
 	"dtDirectorR": "",
     // 视频简介
 	"dtDesc": "//span[@class='js']/text()",
