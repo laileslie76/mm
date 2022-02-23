@@ -15,7 +15,7 @@
         "综艺": "daluzongyi","国产剧": "guochanju", "港台剧": "gangtaiju","欧美剧": "oumeiju","日韩剧": "rihanju", "泰剧": "taiguoju","海外剧": "haiwaiju",  
         "动作片": "dongzuopian", "喜剧片": "xijupian","爱情片": "aiqingpian", "科幻片": "kehuanpian","恐怖片": "kongbupian", 
         "剧情片": "juqingpian","纪录片": "jlup", "战争片": "zhanzhengpian","微电影": "weidianying", "惊悚片": "jingsong","悬疑片": "xuanyi",
-        "动漫-TV版": "tvban", "动漫-电影": "dyban","动漫-剧场版": "juchang","动漫-国语": "jingdianguoyu"
+        "TV动漫": "tvban", "电影动漫": "dyban","剧场动漫": "juchang","国语动漫": "jingdianguoyu"
                   },
     // 首页推荐视频的节点
 	"homeVodNode": "//div[@class='index-tj-l']/ul/li/a[@class='link-hover']",
