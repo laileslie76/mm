@@ -87,13 +87,13 @@
     // 播放地址
 	"dtUrlId": "/@href",
     // 二次处理正则
-	"dtUrlIdR": "/index.php?m=vod-play-id-(\\S+).html",
+	"dtUrlIdR": "/(\\S+)",
     // 剧集名称
 	"dtUrlName": "/text()",
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://www.kyikan.cc/index.php?m=vod-play-id-{playUrl}.html",
+	"playUrl": "https://www.kyikan.cc/{playUrl}",
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
