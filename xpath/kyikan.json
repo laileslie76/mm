@@ -15,7 +15,7 @@
                   "剧情片": "juqingpian","记录片": "jilupian", "战争片": "zhanzhengpian","微电影": "weidianying", "惊悚片": "jingsong","悬疑片": "xuanyi"
                   },
     // 首页推荐视频的节点
-	"homeVodNode": "//div[@class='Tag_item_list']//a[@class='link-hover']",
+	"homeVodNode": "//div[@class='index-tj-l']/ul/li/a[@class='link-hover']",
     // 首页推荐视频的名称
 	"homeVodName": "/@title",
     // 二次处理正则
@@ -35,7 +35,7 @@
     // 分类页地址 {cateId} 分类id {catePg} 当前页  
 	"cateUrl": "https://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html",
     // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//div[@class='Tag_item_list']//a[@class='link-hover']",
+	"cateVodNode": "//div[contains(@class,'index-area')]/ul/li/a[@class='link-hover']",
 	"cateVodName": "/@title",
 	"cateVodId": "/@href",
 	"cateVodIdR": "/vodhtml/(\\w+)/",
