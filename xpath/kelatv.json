@@ -13,7 +13,7 @@
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
 	"cateManual": {"剧集": "dianshiju", "影视": "dianying","动漫": "dongman"},
     // 首页推荐视频的节点
-	"homeVodNode": "//ul[contanis(@class,'ty-top-video')]/li/a",
+	"homeVodNode": "//ul[contanis(@class,'ty-top-video')]/li/a[@class='video-pic']",
     // 首页推荐视频的名称
 	"homeVodName": "/img/@alt",
     // 二次处理正则
