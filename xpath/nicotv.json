@@ -1,0 +1,108 @@
+{
+	"ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.nicotv.club/",
+    // 分类节点
+	"cateNode": "",
+    // 分类名
+	"cateName": "",
+    // 分类id
+	"cateId": "",
+    // 分类id二次处理正则
+	"cateIdR": "",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"日本": "日本-----addtime",
+                   "大陆": "大陆-----addtime",
+                   "欧美": "欧美-----addtime"},
+    // 首页推荐视频的节点
+	"homeVodNode": "//div[contains(@class,'col-md-8')]/ul/li/p/a",
+    // 首页推荐视频的名称
+	"homeVodName": "/img/@alt",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+	"homeVodId": "/@href",
+    // 二次处理正则
+	"homeVodIdR": "/video/detail/(\\w+).html",
+    // 首页推荐视频的图片
+	"homeVodImg": "/img/@data-original",
+    // 二次处理正则
+    "homeVodImgR": "",
+    // 首页推荐视频的简介
+	"homeVodMark": "/span[@class='continu']/text()",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页  
+	"cateUrl": "http://www.nicotv.club/video/type3/-{cateId}-----addtime-{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//ul[contains(@class,'list-unstyled')]/li/p/a",
+	"cateVodName": "/img/@alt",
+	"cateVodId": "/@href",
+	"cateVodIdR": "/video/detail/(\\w+).html",
+	"cateVodImg": "/img/@data-original",
+	"cateVodMark": "/span[@class='continu']/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.nicotv.club/video/detail/{vid}.html",
+  
+    // 详情节点
+	"dtNode": "//body",
+    // 视频名
+	"dtName": "//div[@class='media-body']/h2/a/text()",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//div[@class='media-left']/a/img/@data-original",
+	"dtImgR": "\\S+(http\\S+)",
+    // 视频分类
+	"dtCate": "",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//div[@class='dl-horizontal']/dt[contains(text(),'年份')]/following-sibling::*/a/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "//div[@class='dl-horizontal']/dt[contains(text(),'地区')]/following-sibling::*/a/text()",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//div[@class='dl-horizontal']/dt[contains(text(),'主演')]/following-sibling::*/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "//div[@class='dl-horizontal']/dt[contains(text(),'导演')]/following-sibling::*/text()",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "//span[@class='vod-content-default text-justify']/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//a[@data-toggle='tab']",
+    // 播放源名称
+	"dtFromName": "/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    
+    // 播放列表节点
+	"dtUrlNode": "//div[@class='tab-content ff-playurl-tab']/ul",
+    // 播放地址节点
+	"dtUrlSubNode": "/li/a",
+    // 播放地址
+	"dtUrlId": "/@href",
+    // 二次处理正则
+	"dtUrlIdR": "/video/play/(\\S+).html",
+    // 剧集名称
+	"dtUrlName": "/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://www.nicotv.club/video/play/{playUrl}.html",
+    // 解析webview的user-agent
+	"playUa": "",
+    // 搜索地址
+	"searchUrl": "https://www.nicotv.club/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": ""
+}
