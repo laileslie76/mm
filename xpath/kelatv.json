@@ -13,7 +13,7 @@
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
 	"cateManual": {"剧集": "dianshiju", "影视": "dianying","动漫": "dongman"},
     // 首页推荐视频的节点
-	"homeVodNode": "//div[@class='layui-row']/ul/li/a[@class='video-pic']",
+	"homeVodNode": "//li[contains(@class,'layui-col-md2')]/a[@class='video-pic']",
     // 首页推荐视频的名称
 	"homeVodName": "/img/@alt",
     // 二次处理正则
@@ -72,7 +72,7 @@
 	"dtDesc": "",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[@class='js-bt']//ui[@class='layui-tab-title']/li",
+	"dtFromNode": "//div[@class='layui-tab bt-playcho']/ui/li",
     // 播放源名称
 	"dtFromName": "/text()",
     // 二次处理正则
