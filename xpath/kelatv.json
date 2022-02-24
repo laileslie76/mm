@@ -72,7 +72,7 @@
 	"dtDesc": "",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[@class='layui-tab bt-playcho']/ui/li",
+	"dtFromNode": "//ui[@class='layui-tab-title']/li",
     // 播放源名称
 	"dtFromName": "/text()",
     // 二次处理正则
