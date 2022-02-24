@@ -15,7 +15,7 @@
                    "大陆": "大陆-----addtime",
                    "欧美": "欧美-----addtime"},
     // 首页推荐视频的节点
-	"homeVodNode": "//div[contains(@class,'col-md-8')]/ul/li/p/a",
+	"homeVodNode": "//ul[@class='list-unstyled vod-item-img ff-img-215']/li/p/a",
     // 首页推荐视频的名称
 	"homeVodName": "/img/@alt",
     // 二次处理正则
@@ -35,7 +35,7 @@
     // 分类页地址 {cateId} 分类id {catePg} 当前页  
 	"cateUrl": "http://www.nicotv.club/video/type3/-{cateId}-----addtime-{catePg}.html",
     // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//ul[contains(@class,'list-unstyled')]/li/p/a",
+	"cateVodNode": "//ul[@class='list-unstyled vod-item-img ff-img-215']/li/p/a",
 	"cateVodName": "/img/@alt",
 	"cateVodId": "/@href",
 	"cateVodIdR": "/video/detail/(\\w+).html",
