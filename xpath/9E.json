@@ -1,13 +1,13 @@
 {
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://www.9e03.com",
-  /*
+ 
   "dcVipFlag": "true",
   "pCfgJs": "https://www.9e03.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  */
+  
   "cateNode": "//ul[contains(@class, 'nav-menu')]/li/a[contains(@href, '.html')]",
   "cateName": "/text()",
   "cateId": "/@href",
