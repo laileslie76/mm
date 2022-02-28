@@ -1,4 +1,4 @@
-"zidingyi": {"name": "自定义乐猪接口资源",
+{"name": "自定义乐猪接口资源",
 "url": "http://www.lezhutv.com",//填网站链接
 "tihuan": "cnzz.com",//这个不用动，是个别网站嗅探时过滤地址用的
 "fenlei": "电影$/type/1-1.html#国产剧$/type/12-1.html#港剧$/type/13-1.html#韩剧$/type/14-1.html#美剧$/type/15-1.html#综艺$/type/3-1.html#动漫$/type/4-1.html",//列表的分类
