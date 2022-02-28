@@ -12,7 +12,7 @@
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/vodshow/(\\w+).html",
-  "cateManual": {},
+  "cateManual": {"国配电影":"gypy","国配外剧":"guoyupeiyinhanju","电影":"/zuijinrebodianying","电视剧":"zuijinrebodianshiju","美剧":"rebomeiju"},
   "homeVodNode": "//div[@class='myui-vodlist__box']/a[contains(@class,'myui-vodlist__thumb')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
