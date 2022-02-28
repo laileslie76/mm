@@ -288,7 +288,7 @@
 "daoyanhou": "</p>",//导演态后关键词
 "zhuyanqian": "主演：</span>",//主演前关键词
 "zhuyanhou": "</p>",//主演后关键词
-"juqingqian": "class=\"tbox_js\"",//剧情前关键词
+"juqingqian": "class=\"tbox_js\">",//剧情前关键词
 "juqinghou": "</div>",//剧情后关键词
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
