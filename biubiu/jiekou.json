@@ -254,7 +254,7 @@
 "jiequshuzuhou": "</h4>",//截取的列表数组的后关键词
 "tupianqian": "original=\"",
 "tupianhou": "\"",
-"biaotiqian": "title=\"">",
+"biaotiqian": "title=\>",
 "biaotihou": "\"",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
