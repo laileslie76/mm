@@ -57,7 +57,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://fantuan.tv/vodplay/{playUrl}.html",
-  "playUa": "Lavf/58.12.100",
+  "playUa": " Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
   "searchUrl": "https://fantuan.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
