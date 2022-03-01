@@ -242,22 +242,18 @@
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 }
 },
-"zidingyi": {"name": "自定义LIBVIO接口",
+"zidingyi": {"name": "自定义爱迪资源",
 "tihuan": "cnzz.com",
-"url": "https://www.libvio.com",
-"fenlei": "电视剧$/show/2--------#电影$/show/1--------#综艺$/show/3--------#动漫$/show/4--------#动作片$/show/1---动作-----#喜剧片$/show/1---喜剧-----#爱情片$/show/1---爱
+"url": "https://aidi.tv",
+"fenlei": "电影$/show/dianying--------#国产剧$/show/guochanju--------#港台剧$/show/gangtaiju--------#美剧$/show/meiju--------#日剧$/show/riju--------#英剧
 
-情-----#科幻片$/show/1---科幻-----#奇幻片$/show/1---奇幻-----#恐怖片$/show/1---恐怖-----#剧情片$/show/1---剧情-----#战争片$/show/1---战争-----#冒险片$/show/1---冒险-----#国产
-
-剧$/show/2-中国大陆-------#台剧$/show/2-中国台湾-------#港剧$/show/2-中国香港-------#韩剧$/show/2-韩国-------#日剧$/show/2-日本-------#美剧$/show/2-美国-------#英剧$/show/2-
-
-英国-------",
+$/show/yingju--------#韩剧$/show/hanju--------#泰剧$/show/taiju--------##综艺$/show/zongyi--------#动漫$/show/dongman--------",
 "houzhui": "---.html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "data",
-"jiequshuzuhou": "</h4>",
+"jiequshuzuqian": "class=\"vodlist_thumb",
+"jiequshuzuhou": "</span>",
 "tupianqian": "original=\"",
 "tupianhou": "\"",
 "biaotiqian": "title=\"",
@@ -266,7 +262,7 @@
 "lianjiehou": "\"",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
-"sousuohouzhui": "/detail/",
+"sousuohouzhui": "/movie/",
 "ssmoshi": "0",
 "sousuoshifouercijiequ": "0",
 "jspic": "pic",
@@ -285,16 +281,16 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"stui-content__playlist",
+"bfjiequshuzuqian": "class=\"content_playlist",
 "bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"data\">总集数：",
-"zhuangtaihou": "</p>",
-"daoyanqian": "class=\"data\">类型：",
+"zhuangtaiqian": "状态：</span>",
+"zhuangtaihou": "</li>",
+"daoyanqian": "导演：</span>",
 "daoyanhou": "</p>",
-"zhuyanqian": "class=\"data\">主演：",
-"zhuyanhou": "</p>",
-"juqingqian": "style=\"display: none;\">",
-"juqinghou": "</span>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</li>",
+"juqingqian": "简介：</span>",
+"juqinghou": "<a",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
