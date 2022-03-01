@@ -279,7 +279,7 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"content_playlist",
+"bfjiequshuzuqian": "id=\"playlist",
 "bfjiequshuzuhou": "</ul>",
 "zhuangtaiqian": "状态：</span>",
 "zhuangtaihou": "</li>",
