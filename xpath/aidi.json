@@ -71,13 +71,13 @@
 	"dtDesc": "//div[contains(@class,'content_min')]//span[contains(@class,'text_muted') and contains(text(), '简介')]/following-sibling::*/text()",
 	"dtDescR": "",
     // 播放源节点
-	"dtFromNode": "//div[@id='NumTab']/a",
+	"dtFromNode": "//div[@class='play_source_tab list_scroll clearfix']/a",
     // 播放源名称
 	"dtFromName": "/text()",
     // 二次处理正则
 	"dtFromNameR": "",
     // 播放列表节点
-	"dtUrlNode": "//ul[@class='content_playlist clearfix']",
+	"dtUrlNode": "//ul[@class='content_playlist list_scroll clearfix']",
     // 播放地址节点
 	"dtUrlSubNode": "/li/a",
     // 播放地址
