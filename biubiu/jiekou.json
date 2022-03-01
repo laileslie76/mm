@@ -242,25 +242,26 @@
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 }
 },
-"zidingyi": {"name": "自定义爱迪资源",
-"tihuan": "cnzz.com",
-"url": "https://aidi.tv",
-"fenlei": "电影$/show/dianying--------#国产剧$/show/guochanju--------#港台剧$/show/gangtaiju--------#美剧$/show/meiju--------#日剧$/show/riju--------#英剧$/show/yingju--------#韩剧$/show/hanju--------#泰剧$/show/taiju--------#综艺$/show/zongyi--------#动漫$/show/dongman--------",
-"houzhui": "---.html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"vodlist_thumb",
-"jiequshuzuhou": "</span>",
+"zidingyi": {"name": "自定义乐猪接口资源",
+"url": "http://www.lezhutv.com",//填网站链接
+"tihuan": "cnzz.com",//这个不用动，是个别网站嗅探时过滤地址用的
+"fenlei": "电影$/type/1-#国产剧$/type/12-#港剧$/type/13-#韩剧$/type/14-#美剧$/type/15-#综艺$/type/3-#动漫$/type/4-",//列表的分类
+"houzhui": ".html",//网站翻页链接的后缀
+"shifouercijiequ": "0",//截取的列表数组是否需要二次截取，0不需要，1需要
+"jiequqian": "空",//不需要二次截取就填空
+"jiequhou": "空",//不需要二次截取就填空
+"jiequshuzuqian": "data",//截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+"jiequshuzuhou": "</h4>",//截取的列表数组的后关键词
 "tupianqian": "original=\"",
 "tupianhou": "\"",
 "biaotiqian": "title=\"",
 "biaotihou": "\"",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
+//搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
-"sousuohouzhui": "/movie/",
+"sousuohouzhui": "空",
 "ssmoshi": "0",
 "sousuoshifouercijiequ": "0",
 "jspic": "pic",
@@ -279,23 +280,23 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"playlist",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "状态：</span>",
-"zhuangtaihou": "</li>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</li>",
-"juqingqian": "",
-"juqinghou": "",
+"bfjiequshuzuqian": "class=\"list_block",//播放截取的列表数组的前关键词
+"bfjiequshuzuhou": "</ul>",//播放截取的列表数组的后关键词
+"zhuangtaiqian": "更新：</span>",//状态前关键词
+"zhuangtaihou": "</p>",//状态后关键词
+"daoyanqian": "导演：</span>",//导演前关键词
+"daoyanhou": "</p>",//导演态后关键词
+"zhuyanqian": "主演：</span>",//主演前关键词
+"zhuyanhou": "</p>",//主演后关键词
+"juqingqian": "class=\"tbox_js\">",//剧情前关键词
+"juqinghou": "</div>",//剧情后关键词
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"https:\/\/aidi.tv",
-"bflianjiehou": "\""}
+"bfyjiequshuzuqian": "<a",//播放剧集数组前关键词
+"bfyjiequshuzuhou": "/a>",//播放剧集数组后关键词
+"bfbiaotiqian": ">",//播放剧集标题前关键词
+"bfbiaotihou": "<",//状播放剧集标题后关键词
+"bflianjieqian": "href=\"",//播放剧集链接前关键词
+"bflianjiehou": "\""}//播放剧集链接后关键词
 }
