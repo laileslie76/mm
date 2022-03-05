@@ -53,18 +53,7 @@
     "filterable": 0,
     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/kelatv.json"
 },
-/*
- {
-    "key": "csp_xpath_tkys",
-    "name": "天空影视",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/tkys.json"
-},
-*/
+
 {
   "key": "龙腾资源",
   "name": "龙腾资源",
@@ -164,7 +153,7 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
+     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/dm84.json"
 },
 //{"key":"csp_appys_v1_独播社", "name":"独播社", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://35ys.cc/api.php/v1.vod"},
 //{"key":"csp_appys_xiaogui_U23C", "name":"U23c影院", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.u23c.com/api.php/app/"},
@@ -175,6 +164,7 @@
    "type": 1,
       "api": "https://maoyingshi-api.tvan.xyz/api.php/provide/vod/?ac=list"
 },
+*/
 {
   "key": "csp_N0ys",
   "name": "90影视(爬虫)",
@@ -184,17 +174,17 @@
   "quickSearch": 0,
   "filterable": 0
 },
-*/
- {
-    "key": "csp_xpath_1090",
-    "name": "90影视",
-    "type": 3,
-    "api": "csp_XPathMac",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/1090.json"
-},
+{"key":"csp_Nekk","name":"9E看看(爬虫)","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
+//  {
+//     "key": "csp_xpath_1090",
+//     "name": "90影视",
+//     "type": 3,
+//     "api": "csp_XPathMac",
+//     "searchable": 1,
+//     "quickSearch": 1,
+//     "filterable": 0,
+//     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/1090.json"
+// },
 {"key":"csp_appys_v1_DC影视", "name":"DC影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
  {
     "key": "csp_xpath_Jumi",
