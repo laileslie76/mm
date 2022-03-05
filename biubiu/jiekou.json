@@ -1,5 +1,6 @@
 {"zhuyejiekou": [
 {"name":"饭团影视","url": "http://television.wkfile.com/api.php/app/"},
+{"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"粉象视界","url":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
 {"name":"快云影音","url":"https://www.kuaiyunyy.com/api.php/app/"},
 {"name":"天空影视","url":"https://tkys.tv/xgapp.php/v1/"},
@@ -31,7 +32,7 @@
 {"name":"渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"}],
 "zhujiexi": "http://api.vip123kan.vip/?url=",
 "beiyongjiexi": "https://nbjx.vip/?url=",
-"renrenjiexi": "https://jx.blbo.cc:4433/?url=",
+"renrenjiexi": "https://ku.renrenmi.cc/api/?key=ZTSkid2ROth73IfIIR&url",
 "LTjiexi": "https://vip.aiaine.com/api/?key=pJiKdUKoatLiVha0el&url=",
 "wuduyunjiexi": "https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=",
 "dianshizhibo": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/biubiu/live.html",
