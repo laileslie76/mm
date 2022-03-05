@@ -81,10 +81,10 @@
   "playUrl":"https://ys.ling00.cn/CL4K/?url=",//零刻影院解析
   "categories": []
 },
-{"key":"csp_appysv2_饭后电影","name":"饭后电影(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭后电影###https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/appysv2.json"},
+{"key":"csp_appysv2_饭后电影","name":"饭后电影(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://baicai.summ.vip/api.php/v1.vod"},
 //{"key":"csp_appysv2_瑞丰资源","name":"瑞丰资源(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"瑞丰资源###https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/appysv2.json"},
 //{"key":"csp_appys_v2_1080P", "name":"1080P(优)", "type":3, "api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"1080p###https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/appysv2.json"},
-{"key":"csp_appys_v1_无名影视", "name":"无名影视(优)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ccxg.xazhutu.com/xgapp.php/v1/"},
+{"key":"csp_appys_v1_无名影视", "name":"无名影视(优)", "type":3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ccxg.xazhutu.com/xgapp.php/v1/"},
 {
    "key": "人人迷",
    "name": "人人迷",
@@ -104,9 +104,9 @@
     "filterable": 0,
     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/subaibai.json"
 },
-{"key":"csp_appysv2_天空影视V2","name":"天空影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视V2###https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/appysv2.json"},
-{"key":"csp_appysv2_追剧达人","name":"追剧达人(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"追剧达人###https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/appysv2.json"},
-{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"粉象视界###https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/appysv2.json"},
+{"key":"csp_appysv2_天空影视V2","name":"天空影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
+{"key":"csp_appysv2_追剧达人","name":"追剧达人(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipmv.co/xgapp.php/v1/"},
+{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
  {
     "key": "csp_xpath_saohuotv",
     "name": "骚火电影",
