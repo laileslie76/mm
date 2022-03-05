@@ -449,7 +449,19 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 
-咪咕赛事,#genre#
+体育赛事,#genre#
+NBA Live1,http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
+NBA Live2,http://pullhls3948069e.live.126.net/live/n2/playlist.m3u8
+NBA Live3,http://pullhls3948069e.live.126.net/live/n3/playlist.m3u8
+NBA Live4,http://pullhls3948069e.live.126.net/live/n4/playlist.m3u8
+NBA Live5,http://pullhls3948069e.live.126.net/live/n5/playlist.m3u8
+NBA Live6,http://pullhls3948069e.live.126.net/live/n6/playlist.m3u8
+NBA Live7,http://pullhls3948069e.live.126.net/live/n7/playlist.m3u8
+NBA Live8,http://pullhls3948069e.live.126.net/live/n8/playlist.m3u8
+NBA Live9,http://pullhls3948069e.live.126.net/live/n9/playlist.m3u8
+NBA Live10,http://pullhls3948069e.live.126.net/live/n10/playlist.m3u8
+NBA Live11,http://pullhls3948069e.live.126.net/live/n11/playlist.m3u8
+NBA Live12,http://pullhls3948069e.live.126.net/live/n12/playlist.m3u8
 MG1,http://39.135.46.102:6610/PLTV/77777777/224/3221225935/index.m3u8?hls
 MG2,http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8?hls
 0MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225851/index.m3u8?hls
