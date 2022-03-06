@@ -43,7 +43,8 @@
   "api": "csp_Cokemv",
   "searchable": 1,
   "quickSearch": 0,
-  "filterable": 1
+  "filterable": 1,
+  "ext": "https://flying-guys.coding.net/p/mao/d/config/git/raw/master/pub/ext/cokemv.json"  
 },
  {
     "key": "csp_xpath_kelatv",
@@ -116,8 +117,6 @@
 },
 {"key":"csp_appys_饭团影视", "name":"饭团影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
 {"key":"csp_appysv2_康耀影视","name":"康耀影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.126.23:999/mogai_api.php/v1.vod"},
-//{"key":"csp_appysv2_饭后电影","name":"饭后电影(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://baicai.summ.vip/api.php/v1.vod"},
-//{"key":"csp_appysv2_瑞丰资源","name":"瑞丰资源(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"瑞丰资源###https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/appysv2.json"},
 {"key":"csp_appys_v1_无名影视", "name":"无名影视(优)", "type":3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ccxg.xazhutu.com/xgapp.php/v1/"},
 {
    "key": "人人迷",
@@ -186,7 +185,7 @@
  },
 
 
-/*
+
 {
   "key": "csp_N0ys",
   "name": "90影视(爬虫)",
@@ -196,7 +195,7 @@
   "quickSearch": 0,
   "filterable": 0
 },
-*/
+/*
  {
     "key": "csp_xpath_1090",
     "name": "90影视",
@@ -207,19 +206,9 @@
     "filterable": 0,
     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/1090.json"
 },
-{"key":"csp_appys_v1_DC影视", "name":"DC影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
-/*
- {
-    "key": "csp_xpath_94sm",
-    "name": "94神马(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
-},
 */
+{"key":"csp_appys_v1_DC影视", "name":"DC影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
+
  {
     "key": "csp_xpath_Jumi",
     "name": "剧迷TV",
@@ -239,17 +228,6 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/yanetflix.json"
-},
-
- {
-    "key": "csp_xpath_1080kan",
-    "name": "看世界",
-    "type": 3,
-    "api": "csp_XPathMac",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/1080kan.json"
 },
  {
     "key": "csp_xpath_9EKK",
