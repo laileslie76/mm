@@ -11,8 +11,8 @@
 //  "api": "https://www.qilinzyz.com/api.php/provide/vod/?ac=list",  /* 麒麟资源 */
   //"api": "http://360.tgzy.cc:1005/api.php/provide/vod/?ac=list",  /* 360资源 */
 //  "api": "http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list",  /* M3U8资源 */
-  //"api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */
- "api":"https://www.bajiezy.xyz/api.php/provide/vod/?ac=list",  /* 八戒资源 */
+  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */
+// "api":"https://www.bajiezy.xyz/api.php/provide/vod/?ac=list",  /* 八戒资源 */
   //"playUrl":"https://vip.legendwhb.cn/m3u8.php?url=",
   "categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","其他片"]
 },
@@ -354,7 +354,7 @@
 {"name": "线路Gj2","url": "http://42.157.128.85:880/analysis/json/?uid=2245&my=ejnpuxzKLOPSWZ2568&url=","type": 1,"i": "无名",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
-{"name": "线路Q1","url": "http://120.77.94.20/jx?url=","type": 1,"i": "293","ext": {"flag": ["qq","腾讯",]}},
+{"name": "线路Q1","url": "http://120.77.94.20/jx?url=","type": 1,"i": "293","ext": {"flag": ["qq","腾讯","youku","优酷","qiyi","爱奇艺","奇艺"]}},
 {"name": "线路gj3","type":1,"url":"http://api.vip123kan.vip/?url=","i": "追剧",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","mgtv","芒果"]}
 },
