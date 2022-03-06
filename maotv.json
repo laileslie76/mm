@@ -111,7 +111,7 @@
   "name": "苍蓝资源",
   "type": 1,
   "api": "https://shangjihuoke.com/api.php/provide/vod/from/CL4K/vod/?ac=list",
-  //"playUrl":"https://ys.ling00.cn/CL4K/?url=",//零刻影院解析
+  "playUrl":"https://ys.ling00.cn/CL4K/?url=",//零刻影院解析
   "categories": []
 },
 {"key":"csp_appys_饭团影视", "name":"饭团影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
