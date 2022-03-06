@@ -8,10 +8,10 @@
   "name":"官采资源",
   "type":1,
 //  "api":"http://zy.1920i.com/api.php/provide/vod/?ac=list",  /* 1920资源 */
-//  "api": "https://www.qilinzyz.com/api.php/provide/vod/?ac=list",  /* 麒麟资源 */
+  "api": "https://www.qilinzyz.com/api.php/provide/vod/?ac=list",  /* 麒麟资源 */
   //"api": "http://360.tgzy.cc:1005/api.php/provide/vod/?ac=list",  /* 360资源 */
 //  "api": "http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list",  /* M3U8资源 */
-  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */
+//  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */
 // "api":"https://www.bajiezy.xyz/api.php/provide/vod/?ac=list",  /* 八戒资源 */
   //"playUrl":"https://vip.legendwhb.cn/m3u8.php?url=",
   "categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","其他片"]
