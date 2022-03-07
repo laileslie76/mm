@@ -45,31 +45,31 @@
     // 详情节点
 	"dtNode": "//body",
     // 视频名
-	"dtName": "//div[@class='stui-content__detail']/h1/text()",
+	"dtName": "//div[@class='stui-content__thumb']/a[contains(@class,'pic')]/@title",
 	"dtNameR": "",
     // 视频图片
-	"dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
+	"dtImg": "//div[@class='stui-content__thumb']/a[contains(@class,'pic')]/img/@data-original",
 	"dtImgR": "\\S+(http\\S+)",
     // 视频分类
-	"dtCate": "//div[@class='stui-content__detail']/p[1]/text()",
-	"dtCateR": "\\类型：(\\S+)",
+	"dtCate": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '类型')]/following-sibling::*/text()",
+	"dtCateR": "",
     // 视频年份
-	"dtYear": "//div[@class='stui-content__detail']/p[1]/text()",
-	"dtYearR": "\\年份：(\\S+)",
+	"dtYear": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '年份')]/following-sibling::*/text()",
+	"dtYearR": "",
     // 视频地区
-	"dtArea": "//div[@class='stui-content__detail']/p[1]/text()",
-	"dtAreaR": "\\地区：(\\S+)",
+	"dtArea": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '地区')]/following-sibling::*/text()",
+	"dtAreaR": "",
     // 视频状态
-	"dtMark": "",
+	"dtMark": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '更新')]/following-sibling::*/text()",
 	"dtMarkR": "",
     // 主演
-	"dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
-	"dtActorR": "\\主演：(\\S+)",
+	"dtActor": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '主演')]/following-sibling::*/text()",
+	"dtActorR": "",
     // 导演
-	"dtDirector": "//div[@class='stui-content__detail']/p[3]/text()",
-	"dtDirectorR": "\\导演：(\\S+)",
+	"dtDirector": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '导演')]/following-sibling::*/text()",
+	"dtDirectorR": "",
     // 视频简介
-	"dtDesc": "//div[@class='stui-content__detail']/p[5]/span[@class='detail-sketch']/text()",
+	"dtDesc": "//span[@class='detail-sketch']/text()",
 	"dtDescR": "",
     // 播放源节点
 	"dtFromNode": "//h3",
