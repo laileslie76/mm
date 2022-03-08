@@ -16,7 +16,7 @@
   "homeVodId": "/@href",
   "homeVodIdR": "/detail/(\\w+).html",
   "homeVodImg": "/@data-original",
-  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodImgR": "https://www.zxzjtv.com{homeVodImg}",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://www.zxzjtv.com/list/{cateId}-{catePg}.html",
   "cateVodNode": "//a[contains(@class,'stui-vodlist__thumb')]",
