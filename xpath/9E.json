@@ -20,7 +20,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "https://www.9e03.com/vodshow/{cateId}/{catePg}.html",
+  "cateUrl": "https://www.9e03.com/vodshow/{cateId}/page/{catePg}.html",
   "cateVodNode": "//div[@class='myui-vodlist__box']/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
