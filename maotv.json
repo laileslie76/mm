@@ -358,7 +358,7 @@
 {"name":"自动解析","type":3,"url":"Demo"},
 {"name": "自动线路","type": 2,"url": "Parallel"},
 //{"name": "Json轮询","type": 2,"url": "Sequence"},
-{"name": "线路Gj","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=bcdgkmpvxADJLNUYZ8&url=","type": 1,"i": "大熊",
+{"name": "线路Gj","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=biklorsyzAEKOUY157&url=","type": 1,"i": "大熊",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
 {"name": "线路Gj2","url": "http://42.157.128.85:880/analysis/json/?uid=2245&my=fimopszGKMNSUVWYZ5&url=","type": 1,"i": "无名",
@@ -370,6 +370,9 @@
 },
 {"name":"线路dx","type":1,"url":"https://a.dxzj88.com/jianghujx/?url=",
 "ext":{"flag":["qq","腾讯","youku","优酷","qiyi","爱奇艺","奇艺","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
+},
+{"name":"线路4K","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=",
+"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}
 },
 {"name": "线路Ysgc","type":1,"url":"https://jiexi.ysgc.xyz/duoduo/?url=","ext":{"flag":["duoduozy"],"header":{"User-Agent":"Mozilla/5.0 (Linux; Android 7.1.1; ONEPLUS A5000 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.185 Mobile Safari/537.36","Origin":"https://jiexi.ysgc.xyz","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Accept-Encoding":"gzip, deflate","Accept-Language":"en-US,en;q=0.9","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"application/json, text/javascript, */*; q=0.01"}}},
 {"name": "线路RR","url": "https://svip.rongxingvr.top/api/?key=AngnmipM4u7BECCcjq&url=","type": 1,"ext":{"flag":["rx","renrenmi"]}},
