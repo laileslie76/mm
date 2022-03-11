@@ -361,7 +361,7 @@
 {"name": "线路Gj","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=bcdgkmpvxADJLNUYZ8&url=","type": 1,"i": "大熊",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
-{"name": "线路Gj2","url": "http://42.157.128.85:880/analysis/json/?uid=2245&my=ejnpuxzKLOPSWZ2568&url=","type": 1,"i": "无名",
+{"name": "线路Gj2","url": "http://42.157.128.85:880/analysis/json/?uid=2245&my=fimopszGKMNSUVWYZ5&url=","type": 1,"i": "无名",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
 {"name": "线路Q1","url": "http://120.77.94.20/jx?url=","type": 1,"i": "293","ext": {"flag": ["qq","腾讯","youku","优酷","qiyi","爱奇艺","奇艺"]}},
@@ -375,7 +375,7 @@
 {"name": "线路RR","url": "https://svip.rongxingvr.top/api/?key=AngnmipM4u7BECCcjq&url=","type": 1,"ext":{"flag":["rx","renrenmi"]}},
 {"name": "线路Dm","url": "https://app.omofun.net/m3u8/omofun.php?id=","type": 1,"ext":{"flag":["dmplay"]}},
 {"name":"线路Rx1","type":1,"url":"https://jx.xmau.cn/home/api?type=ys&uid=117834&key=abdehjstwxIJLOPU59&url=","ext":{"flag":["rx"]}},
-{"name":"线路miaop1","type":1,"url":"http://175.178.109.153:615//api/?key=6OCzkXnrNlxhVxrM8G&url=",
+{"name":"线路miaop1","type":1,"url":"http://175.178.109.153:615//api/?key=lqnCJ3OxBDcJu0Dyil&url=",
 "ext":{"flag":["miaoparty","qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","miaoparty3"]}
 },
 {"name":"线路LT1","type":1,"url":"http://121.62.60.222:1314/lt.php?url=","i":"粉象视界",
