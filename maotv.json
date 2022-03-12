@@ -358,7 +358,7 @@
 {"name":"自动解析","type":3,"url":"Demo"},
 {"name": "自动线路","type": 2,"url": "Parallel"},
 //{"name": "Json轮询","type": 2,"url": "Sequence"},
-{"name": "线路Gj","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=biklorsyzAEKOUY157&url=","type": 1,"i": "大熊",
+{"name": "线路Gj","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=bdfmqsvyCDOPX04789&url=","type": 1,"i": "大熊",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
 {"name": "线路Gj2","url": "http://42.157.128.85:880/analysis/json/?uid=2245&my=fimopszGKMNSUVWYZ5&url=","type": 1,"i": "无名",
