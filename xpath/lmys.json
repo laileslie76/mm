@@ -51,7 +51,7 @@
   "dtUrlIdR": "/index.php/vod/play/id(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://lanmeiguojiang.com/index.php/vod/play/id/{playurl}.html",
+  "playUrl": "https://lanmeiguojiang.com/index.php/vod/play/id/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://lanmeiguojiang.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
