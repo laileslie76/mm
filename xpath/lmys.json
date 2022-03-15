@@ -48,7 +48,7 @@
   "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
   "dtUrlSubNode": "//li/a",
   "dtUrlId": "/@href",
-  "dtUrlIdR": "/index.php/vod/play/id(\\S+).html",
+  "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://lanmeiguojiang.com/index.php/vod/play/id/{playUrl}.html",
