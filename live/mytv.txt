@@ -1,4 +1,5 @@
 停课不停学,#genre#
+眼保健操,https://i3.vzan.cc/m3u8/20200217/a888ff6d3be649ddb025b7480fe3548f/v.f24306.m3u8
 3月16日语文,https://i3.vzan.cc/m3u8/20200320/4991dacceee74607bc3ee43990915b46/v.f24306.m3u8
 3月16日数学,https://i3.vzan.cc/m3u8/20200318/ed7d3978bdee4522ab5e29f26b45955c/v.f24306.m3u8
 3月16日体育,https://i3.vzan.cc/m3u8/20200417/21bae4551d994d13a505efc7d0500628/v.f24306.m3u8
