@@ -1,3 +1,7 @@
+停课不停学,#genre#
+我的奇思妙想,
+https://i3.vzan.cc/m3u8/20200320/4991dacceee74607bc3ee43990915b46/v.f24306.m3u8?zbid=400758&tpid=415161426&t=637830193427769087&zbid=400758&tpid=415161426
+
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海外语,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
