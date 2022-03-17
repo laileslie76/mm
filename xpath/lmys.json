@@ -10,7 +10,7 @@
   "cateName": "",
   "cateId": "",
   "cateIdR": "",
-  "cateManual": {"电影":"1","剧集":"2","综艺":"3","动漫":"4"},
+  "cateManual": {"电影":"1","剧集":"2","综艺":"3","动漫":"4","4K":"23"},
   "homeVodNode": "//div[contains(@class, 'stui-pannel__bd')]//ul[contains(@class,'stui-vodlist')]/li//a[contains(@class,'stui-vodlist__thumb')]",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
