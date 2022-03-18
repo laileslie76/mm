@@ -384,7 +384,7 @@
 {"name":"线路miaop1","type":1,"url":"http://175.178.109.153:615//api/?key=lqnCJ3OxBDcJu0Dyil&url=",
 "ext":{"flag":["miaoparty","qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","miaoparty3"]}
 },
-{"name":"线路LT1","type":1,"url":"http://121.62.60.222:1314/lt.php?url=","i":"粉象视界",
+{"name":"线路LTfx","type":1,"url":"http://121.62.60.222:1314/lt.php?url=","i":"粉象视界",
 "ext":{"flag":["ltnb"]}
 },
 {"name": "多多①","type": 1,"url": "https://a.dxzj88.com/ddzy/dd.php?url=","ext":{"flag": ["duoduozy"]}},
