@@ -9,8 +9,6 @@
 3月17日体育,https://i3.vzan.cc/m3u8/20200312/251a7d742bf74ea8a71151d00153431c/v.f24306.m3u8
 3月17日道法,https://i3.vzan.cc/m3u8/20200212/9b1ba7564f154f7a811a2545a399d560/v.f24306.m3u8
 3月18日语文,https://i3.vzan.cc/m3u8/20200326/c6b072ad88fa406e992e54a157633055/v.f24306.m3u8
-3月18日数学,
-3月18日体育,
 3月18日科学,https://i3.vzan.cc/mps/20220318/ad6098f7222d457cb226c1bc4d228238/875a61bbaed8408fbf8a4ba9f3bf76b1_transcode_100230.m3u8
 
 上海频道,#genre#
