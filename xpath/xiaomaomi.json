@@ -55,7 +55,7 @@
   "dtUrlIdR": "/v_(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://xmaomi.net/vo_{playUrl}.html",
+  "playUrl": "https://xmaomi.net/v_{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://xmaomi.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
