@@ -1,7 +1,7 @@
 {
 //"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/gh2_spider.jar",
 //"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/custom_spider1.jar",
-"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/mo-xiao_spider.jar",
+"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/mo-xiao_spider.jar;md5;e9b45aaca137c83a784e05fbde87b2cc",
   "sites": [
 {
   "key":"guancai",
