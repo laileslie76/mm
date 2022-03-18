@@ -372,6 +372,9 @@
 {"name":"线路Rx1","type":1,"url":"https://jx.xmau.cn/home/api?type=ys&uid=117834&key=abdehjstwxIJLOPU59&url=","ext":{"flag":["rx"]}},
 {"name":"线路LT1","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=","i":"琅琊","ext":{"flag":["ltnb"]}},
 {"name":"线路LT2","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=568259&key=bkmqvwxzJLNVXY0238&url=","ext":{"flag":["ltnb"]}},
+{"name":"龙腾4","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=1161020&key=afklnotvwFMPSUX356&url=","ext": {"flag": ["ltnb"]}},
+{"name":"龙腾5","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=803828&key=cdefimpzDQTUW23679&url=","ext": {"flag": ["ltnb"]}},
+{"name":"龙腾6","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=1284948&key=gjpqrtwzCJLUV13679&url=","ext": {"flag": ["ltnb"]}},
 {"name":"线路miaop1","type":1,"url":"http://175.178.109.153:615//api/?key=lqnCJ3OxBDcJu0Dyil&url=",
 "ext":{"flag":["miaoparty","qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","miaoparty3"]}
 },
