@@ -1,7 +1,7 @@
 {
 //"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/gh2_spider.jar",
 //"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/custom_spider1.jar",
-"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/mo-xiao_spider.txt",
+"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/mo-xiao_spider.jar",
   "sites": [
 {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
