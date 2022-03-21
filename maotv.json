@@ -125,6 +125,7 @@
   "quickSearch": 0,
   "filterable": 0
 },
+/*
 {
     "key": "csp_Nekk",
     "name": "9亿看看(爬虫)",
@@ -135,7 +136,7 @@
     "filterable": 0
 },
 
-/*
+
 {
   "key": "苍蓝资源",
   "name": "苍蓝资源",
@@ -359,6 +360,9 @@
 {"name":"线路ff","type":1,"url":"https://vip.byteamone.cn/api/?key=0nca5Ltu48ziJtcFu1&url=",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}
 },
+{"name": "线路ly","url": "http://jf.96ym.cn/api/?key=c9bUhQL7YsuL7y8oFz&url=","type": 1,"i": "琅琊","ext":{"flag":["ltnb"]}
+},
+{"name":"线路lm","type":1,"url":"https://lanmeiguojiang.com/altjx/musen.php/?url=","i": "蓝莓","ext":{"flag":["ltnb"]}},
 {"name":"线路LT4","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=711773&key=ekpsvwBCDFNOPRW056&url=","i":"4kLT","ext":{"flag":["ltnb"]}},
 {"name": "线路Ysgc","type":1,"url":"https://jiexi.ysgc.xyz/duoduo/?url=","ext":{"flag":["duoduozy"],"header":{"User-Agent":"Mozilla/5.0 (Linux; Android 7.1.1; ONEPLUS A5000 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.185 Mobile Safari/537.36","Origin":"https://jiexi.ysgc.xyz","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Accept-Encoding":"gzip, deflate","Accept-Language":"en-US,en;q=0.9","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"application/json, text/javascript, */*; q=0.01"}}},
 {"name": "线路RR","url": "https://svip.rongxingvr.top/api/?key=AngnmipM4u7BECCcjq&url=","type": 1,"ext":{"flag":["rx","renrenmi"]}},
@@ -375,9 +379,9 @@
 {"name":"线路LTfx","type":1,"url":"http://121.62.60.222:1314/lt.php?url=","i":"粉象视界",
 "ext":{"flag":["ltnb"]}
 },
-{"name": "多多①","type": 1,"url": "https://a.dxzj88.com/ddzy/dd.php?url=","ext":{"flag": ["duoduozy"]}},
-{"name":"线路LT5","type":1,"url":"http://121.62.60.222:1314/lt.php?url=","ext":{"flag":["ltnb","longteng"]}},
-{"name":"线路LT6","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=2602374&key=abmquzBDHIJKLTY268&url=","ext":{"flag":["ltnb"]}},
+// {"name": "多多①","type": 1,"url": "https://a.dxzj88.com/ddzy/dd.php?url=","ext":{"flag": ["duoduozy"]}},
+// {"name":"线路LT5","type":1,"url":"http://121.62.60.222:1314/lt.php?url=","ext":{"flag":["ltnb","longteng"]}},
+// {"name":"线路LT6","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=2602374&key=abmquzBDHIJKLTY268&url=","ext":{"flag":["ltnb"]}},
 {"name": "线路Xfy","type": 1,"url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=aefiklotwzCEFHJO48&url=","ext": {"flag": ["xfyun"]}},
 {"name":"线路Ayt","type":1,"url":"https://ysjx.jikezhuji.com/api/?key=mQ0OOQdZgaYq4qKv1S&url=","ext": {"flag": ["qiyi","iqiyi","qq","爱奇艺","奇艺","腾讯"]}},
 {"name":"线路Gj4","type":1,"url":"https://cs.024zs.com:4433/api/?key=5JQOabvSfe3bRuRcg6&url=",
