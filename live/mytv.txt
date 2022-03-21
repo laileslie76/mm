@@ -14,16 +14,16 @@
 3月18日科学,https://i3.vzan.cc/mps/20220318/2cfe773082f14c748c05a61e8338a4d5/ff132d1b1c13470386c2a0b1bc53b34d_transcode_100230.m3u8
 3月21日语文,https://i3.vzan.cc/mps/20220319/bf446ee3076441adbe181d9f1c6a74b5/de1df2db72434d95a3a0d0fa72f3aaac_transcode_100230.m3u8
 3月21日英语,https://i3.vzan.cc/mps/20220319/5834ce9611c04302bf8b4aaad4e72b80/fdf3290dbed64b7883c5af5a4a3920c7_transcode_100230.m3u8
-3月21日体育,https://i3.vzan.cc/mps/20220319/5290fdf10ac04139817ae3b74693ad4a/d929eea41e5c42938ec6d9d9a6b0f510_transcode_100230.m3u8
+3月21日健康,https://i3.vzan.cc/mps/20220319/5290fdf10ac04139817ae3b74693ad4a/d929eea41e5c42938ec6d9d9a6b0f510_transcode_100230.m3u8
 3月21日音乐,https://i3.vzan.cc/m3u8/20200404/cd027e77c0274897aa18e9606bc40003/v.f24306.m3u8
-3月21日体育2,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220321tiyu.mp4
+3月21日体育,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220321tiyu.mp4
 
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-上海外语,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+上海外语,http://180.163.152.145/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海外语,http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-上海纪实,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+上海纪实,http://180.163.152.145/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
 法制天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 浦东财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 七彩戏曲,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
@@ -48,8 +48,8 @@
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
+魅力足球,http://180.163.152.145/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,hhttp://121.51.74.85/keonline.shanghai.liveplay.qq.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 
