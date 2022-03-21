@@ -12,7 +12,7 @@
 3月18日数学,https://i3.vzan.cc/mps/20220318/734277072ed144f7ba71884be47a3487/c8667aad6a3246caac6dc553b6c08616_transcode_100230.m3u8
 3月18日体育,https://i3.vzan.cc/mps/20220318/ad6098f7222d457cb226c1bc4d228238/875a61bbaed8408fbf8a4ba9f3bf76b1_transcode_100230.m3u8
 3月18日科学,https://i3.vzan.cc/mps/20220318/2cfe773082f14c748c05a61e8338a4d5/ff132d1b1c13470386c2a0b1bc53b34d_transcode_100230.m3u8
-3月21日语文,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220321yuwen.mp4
+3月21日语文,https://i3.vzan.cc/mps/20220319/bf446ee3076441adbe181d9f1c6a74b5/de1df2db72434d95a3a0d0fa72f3aaac_transcode_100230.m3u8
 3月21日英语,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220321yingyu.mp4
 3月21日体育,https://i3.vzan.cc/mps/20220319/5290fdf10ac04139817ae3b74693ad4a/d929eea41e5c42938ec6d9d9a6b0f510_transcode_100230.m3u8
 3月21日音乐,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220321yinyue.mp4
