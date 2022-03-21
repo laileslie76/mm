@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="07903ab8e1f19355beb96c7111f61a90" tvg-chno="100",CCTV-1综合高清
+http://171.107.61.168:3081/stream/channelid/943362055?profile=pass
+#EXTINF:-1 tvg-id="1886e2056f5af5f6f0b6bacad2fa0807" tvg-chno="101",CCTV-2财经高清
+http://171.107.61.168:3081/stream/channelid/98731544?profile=pass
+#EXTINF:-1 tvg-id="6e647297342bded008622846773b7908" tvg-chno="102",CCTV-3综艺高清
+http://171.107.61.168:3081/stream/channelid/393372782?profile=pass
+#EXTINF:-1 tvg-id="a11674fdea735716d6608167f25d0c80" tvg-chno="103",CCTV-4中文国际高清
+http://171.107.61.168:3081/stream/channelid/2104759969?profile=pass
+#EXTINF:-1 tvg-id="77e3286d2b6aa663bb51e82d48b77484" tvg-chno="104",CCTV-5体育高清
+http://171.107.61.168:3081/stream/channelid/1831396215?profile=pass
+#EXTINF:-1 tvg-id="5d929c8222fdf97ca704d1d16774aaea" tvg-chno="105",CCTV-5+体育赛事高清
+http://171.107.61.168:3081/stream/channelid/43815517?profile=pass
+#EXTINF:-1 tvg-id="71b42150c0da9835ee9469a59b95f329" tvg-chno="106",CCTV-6电影高清
+http://171.107.61.168:3081/stream/channelid/1344386161?profile=pass
+#EXTINF:-1 tvg-id="efd69f573ab97ea33090f2d2646ccbf0" tvg-chno="107",CCTV-7国防军事高清
+http://171.107.61.168:3081/stream/channelid/1470093039?profile=pass
+#EXTINF:-1 tvg-id="6f7447174e5e883fd559313d7ccdef6d" tvg-chno="108",CCTV-8电视剧高清
+http://171.107.61.168:3081/stream/channelid/390558831?profile=pass
+#EXTINF:-1 tvg-id="800421969be6f2b5792e7fdc2c35e9ad" tvg-chno="109",CCTV-9纪录高清
+http://171.107.61.168:3081/stream/channelid/371262592?profile=pass
+#EXTINF:-1 tvg-id="08ff1cc7355415434d03ead212e46c3d" tvg-chno="110",CCTV-10科教高清
+http://171.107.61.168:3081/stream/channelid/1193082632?profile=pass
+#EXTINF:-1 tvg-id="bfaa360cc70aeb889f62624603d558d1" tvg-chno="111",CCTV-11戏曲高清
+http://171.107.61.168:3081/stream/channelid/204909247?profile=pass
+#EXTINF:-1 tvg-id="bdd4568312260f5bd8bb29c99aece3b6" tvg-chno="112",CCTV-12社会与法高清
+http://171.107.61.168:3081/stream/channelid/56022205?profile=pass
+#EXTINF:-1 tvg-id="14dc3926b8bc3c13273fcad95160537e" tvg-chno="113",CCTV-13新闻高清
+http://171.107.61.168:3081/stream/channelid/641326100?profile=pass
+#EXTINF:-1 tvg-id="6e37d76a1033b87b0869b6558e05b86f" tvg-chno="114",CCTV-14少儿高清
+http://171.107.61.168:3081/stream/channelid/1792489326?profile=pass
+#EXTINF:-1 tvg-id="a23ac84c9db63e788e6577829162667a" tvg-chno="115",CCTV-15音乐高清
+http://171.107.61.168:3081/stream/channelid/1288190626?profile=pass
+#EXTINF:-1 tvg-id="a4b0b11d42d02e7a61702a198afabde8" tvg-chno="116",CCTV-16奥林匹克高清
+http://171.107.61.168:3081/stream/channelid/498184356?profile=pass
+#EXTINF:-1 tvg-id="bcca389cf87d7fb74c1b667cf0000fef" tvg-chno="117",CCTV-16奥林匹克超高清
+http://171.107.61.168:3081/stream/channelid/473483964?profile=pass
+#EXTINF:-1 tvg-id="c6aeb953034f00cca9c93bbd89846cf4" tvg-chno="117",CCTV-4K-超高清
+http://171.107.61.168:3081/stream/channelid/1404677830?profile=pass
+#EXTINF:-1 tvg-id="a45fbf57969de81c06b5b61213450144" tvg-chno="118",CCTV-17农业农村高清
+http://171.107.61.168:3081/stream/channelid/1472159652?profile=pass
+#EXTINF:-1 tvg-id="479093aa42ba0951a9144ff6f0d16d90" tvg-chno="120",CCTV-4K超高清
+http://171.107.61.168:3081/stream/channelid/714313799?profile=pass
+#EXTINF:-1 tvg-id="ebbb3cb2c41a1610c52c01113f408227" tvg-chno="121",CHC高清电影
+http://171.107.61.168:3081/stream/channelid/842841067?profile=pass
+#EXTINF:-1 tvg-id="ffcb4eb932d49da3c86a20309342b7eb" tvg-chno="122",CHC家庭影院高清
+http://171.107.61.168:3081/stream/channelid/961465343?profile=pass
+#EXTINF:-1 tvg-id="4f6702d60109ec9e32ef3a7716c621ec" tvg-chno="123",CHC动作电影高清
+http://171.107.61.168:3081/stream/channelid/1442998095?profile=pass
+#EXTINF:-1 tvg-id="845d5f6828a94f4b7498287fc178910d" tvg-chno="125",广西卫视高清
+http://171.107.61.168:3081/stream/channelid/1751080324?profile=pass
+#EXTINF:-1 tvg-id="c650cf75ae4dd5e195d7c818d0c8dbd9" tvg-chno="126",广西影视高清
+http://171.107.61.168:3081/stream/channelid/1976520902?profile=pass
+#EXTINF:-1 tvg-id="7fead3b695781f310f40e1caa28f6b31" tvg-chno="127",广西都市高清
+http://171.107.61.168:3081/stream/channelid/919857791?profile=pass
+#EXTINF:-1 tvg-id="508073e6e0be6366073c628eb4fb080b" tvg-chno="128",广西新闻高清
+http://171.107.61.168:3081/stream/channelid/1718845520?profile=pass
+#EXTINF:-1 tvg-id="54e7314cf20921ace6be9e8edd31c449" tvg-chno="129",广西综艺高清
+http://171.107.61.168:3081/stream/channelid/1278338900?profile=pass
+#EXTINF:-1 tvg-id="8de54da520070d8bd1489d130d8c1146" tvg-chno="131",南宁综合高清
+http://171.107.61.168:3081/stream/channelid/625862029?profile=pass
+#EXTINF:-1 tvg-id="64c652f089317c73acc7d8cac34b4da4" tvg-chno="132",南宁影视高清
+http://171.107.61.168:3081/stream/channelid/1884472932?profile=pass
+#EXTINF:-1 tvg-id="d1815ee668b33d6336c39e6de6908ad5" tvg-chno="133",南宁都市高清
+http://171.107.61.168:3081/stream/channelid/1717469649?profile=pass
+#EXTINF:-1 tvg-id="7e936c4c75d2e4dfaf23978184b9ae66" tvg-chno="134",南宁公共高清
+http://171.107.61.168:3081/stream/channelid/1282184062?profile=pass
+#EXTINF:-1 tvg-id="94080441039d919ca17eae262431e8db" tvg-chno="136",广东卫视高清
+http://171.107.61.168:3081/stream/channelid/1090783380?profile=pass
+#EXTINF:-1 tvg-id="f4fa87b7cf799a8ca4867d4d345e280f" tvg-chno="137",深圳卫视高清
+http://171.107.61.168:3081/stream/channelid/931658484?profile=pass
+#EXTINF:-1 tvg-id="fbffe01c552178bc57e070cf8445fc2e" tvg-chno="138",东方卫视高清
+http://171.107.61.168:3081/stream/channelid/484507643?profile=pass
+#EXTINF:-1 tvg-id="425c112b0e144ac053e79fbace18109a" tvg-chno="139",北京卫视高清
+http://171.107.61.168:3081/stream/channelid/722558018?profile=pass
+#EXTINF:-1 tvg-id="266bf28a9601d5deb3e6f17d23abafea" tvg-chno="140",浙江卫视高清
+http://171.107.61.168:3081/stream/channelid/183659302?profile=pass
+#EXTINF:-1 tvg-id="3ec126ce39bfe93b2b84f6d98f261d0a" tvg-chno="141",江苏卫视高清
+http://171.107.61.168:3081/stream/channelid/1311162686?profile=pass
+#EXTINF:-1 tvg-id="75506aefc695da210b8dda6371e0f4cc" tvg-chno="142",湖南卫视高清
+http://171.107.61.168:3081/stream/channelid/1869238389?profile=pass
+#EXTINF:-1 tvg-id="e9e12abaf3780aede5051c56de8148e1" tvg-chno="143",湖北卫视高清
+http://171.107.61.168:3081/stream/channelid/975888873?profile=pass
+#EXTINF:-1 tvg-id="20d346112b081a6f4745e2a020c15dd3" tvg-chno="144",东南卫视高清
+http://171.107.61.168:3081/stream/channelid/289854240?profile=pass
+#EXTINF:-1 tvg-id="085505fe573e163960b48999c72c666c" tvg-chno="145",江西卫视高清
+http://171.107.61.168:3081/stream/channelid/2114278664?profile=pass
+#EXTINF:-1 tvg-id="2cfce826282b503e35c9db4f984d0fcd" tvg-chno="146",山东卫视高清
+http://171.107.61.168:3081/stream/channelid/652803116?profile=pass
+#EXTINF:-1 tvg-id="57c21b9f201429d805614bc4d1e65ba0" tvg-chno="147",天津卫视高清
+http://171.107.61.168:3081/stream/channelid/521912919?profile=pass
+#EXTINF:-1 tvg-id="d88eb3025d7e05fda894f5f904cff109" tvg-chno="148",河北卫视高清
+http://171.107.61.168:3081/stream/channelid/45321944?profile=pass
+#EXTINF:-1 tvg-id="103f94b48a20ef83c1aa647d4e3d319b" tvg-chno="149",四川卫视高清
+http://171.107.61.168:3081/stream/channelid/882130704?profile=pass
+#EXTINF:-1 tvg-id="746bc2b492f3c49cd364212462c86cf1" tvg-chno="150",甘肃卫视高清
+http://171.107.61.168:3081/stream/channelid/885156724?profile=pass
+#EXTINF:-1 tvg-id="d2de5dc4b4c5a976dbfb99bafffb6d64" tvg-chno="151",贵州卫视高清
+http://171.107.61.168:3081/stream/channelid/1147002578?profile=pass
+#EXTINF:-1 tvg-id="2a6ce1f7de2e16372df14cbaec57ba8d" tvg-chno="152",辽宁卫视高清
+http://171.107.61.168:3081/stream/channelid/2011261994?profile=pass
+#EXTINF:-1 tvg-id="8014ebc5ac48c55a1c1046eb9548a400" tvg-chno="153",黑龙江台高清
+http://171.107.61.168:3081/stream/channelid/1173034112?profile=pass
+#EXTINF:-1 tvg-id="271ea8e049d96c5fb40f848628439a0c" tvg-chno="156",爱上4K测试
+http://171.107.61.168:3081/stream/channelid/1621630503?profile=pass
+#EXTINF:-1 tvg-id="4e0a1c258b9a01d2d4a091b04da9f2fb" tvg-chno="159",体育赛事高清
+http://171.107.61.168:3081/stream/channelid/622594638?profile=pass
+#EXTINF:-1 tvg-id="66756e42fdf24190a94831083db8dc91" tvg-chno="160",金鹰纪实
+http://171.107.61.168:3081/stream/channelid/1114535270?profile=pass
+#EXTINF:-1 tvg-id="7dcabbf420643c0008dab9f61bcabf08" tvg-chno="161",金鹰卡通
+http://171.107.61.168:3081/stream/channelid/1958464125?profile=pass
