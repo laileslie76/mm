@@ -342,8 +342,8 @@
 {"name": "线路NX","url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=","type": 1,"i": "77",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
-{"name": "线路DX","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=cdinpqsACDEJPRXY26&url=","type": 1,"i": "大熊",
-"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
+{"name": "线路DX","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=bdmuyzABDJKPRVYZ12&url=","type": 1,"i": "大熊",
+"ext":{"flag":["qiyi","爱奇艺","奇艺","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
 {"name": "线路77","url": "http://42.157.128.85:880/analysis/json/?uid=2100&my=gjkmqsuBLMNOWY0347&url=","type": 1,"i": "77",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
