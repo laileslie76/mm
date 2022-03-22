@@ -19,6 +19,7 @@
 3月21日体育,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220321tiyu.mp4
 3月22日语文,https://i3.vzan.cc/mps/20220319/887a0b1743a94f52b1d890fbb415746e/731e7eb4f80140c3a23bb4a0b627a54c_transcode_100230.m3u8
 3月22日健康,https://i3.vzan.cc/m3u8/20200312/45f69a30e58240359e0c1126eae0a8b0/v.f24306.m3u8
+3月22日美术,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220322meishu.mp4
 
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
