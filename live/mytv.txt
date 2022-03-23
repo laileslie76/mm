@@ -23,6 +23,7 @@
 3月22日美术,https://i3.vzan.cc/mps/20220319/48aca7199981403b9261720ea5f06fac/af420ced903e4edf8a7d1809940f7736_transcode_100230.m3u8
 3月22日科学,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220322%E7%A7%91%E5%AD%A6.MP4
 3月23日数学,https://mpvideo.qpic.cn/0bc3auacqaaasiagsuikwrrfabodfacqakaa.f10002.mp4?dis_k=77fc2c5400583e6062a1099fa3f7bafa&dis_t=1647996237&vid=wxv_2269068943044820993&format_id=10002&support_redirect=0&mmversion=false
+3月23日英语,https://i3.vzan.cc/mps/20220319/4c4eacceeb5d4811b584303e75421fa5/bee0b21fdde849b2a6651e18670a4165_transcode_100230.m3u8
 
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
