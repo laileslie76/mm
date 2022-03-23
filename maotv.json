@@ -315,7 +315,7 @@
   "type": 1,
   "api": "https://video.yingworld.vip/api.php/provide/vod/from/ltnb/?ac=list",
 //  "api": "http://zycj.cygc.xyz/api.php/provide/vod/from/ltnb/?ac=list",  
-  //"playUrl":"https://analysis.yikan.one/analysis/player/?uid=8&my=fjkmoqFJLORTVZ1359&url=",
+  "playUrl":"https://analysis.yikan.one/analysis/player/?uid=8&my=fjkmoqFJLORTVZ1359&url=",
   "categories": ["动漫","电影","连续剧","综艺","其他"]
 }
 ],
