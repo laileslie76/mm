@@ -22,6 +22,7 @@
 3月22日健康,https://i3.vzan.cc/m3u8/20200312/45f69a30e58240359e0c1126eae0a8b0/v.f24306.m3u8
 3月22日美术,https://i3.vzan.cc/mps/20220319/48aca7199981403b9261720ea5f06fac/af420ced903e4edf8a7d1809940f7736_transcode_100230.m3u8
 3月22日科学,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220322%E7%A7%91%E5%AD%A6.MP4
+3月23日数学,https://mpvideo.qpic.cn/0bc3auacqaaasiagsuikwrrfabodfacqakaa.f10002.mp4?dis_k=77fc2c5400583e6062a1099fa3f7bafa&dis_t=1647996237&vid=wxv_2269068943044820993&format_id=10002&support_redirect=0&mmversion=false
 
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -124,6 +125,23 @@ CGTN法语,https://tlivectfree-cdn.ysp.cctv.cn/*/2010153503.m3u8
 CGTN俄语,https://tlivectfree-cdn.ysp.cctv.cn/*/2010152603.m3u8
 CGTN阿拉伯语,https://tlivectfree-cdn.ysp.cctv.cn/*/2010155203.m3u8
 CGTN西班牙语,https://tlivectfree-cdn.ysp.cctv.cn/*/2010152503.m3u8
+CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV-4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-6,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+CCTV-7,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-9,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-10,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+CCTV-11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+CCTV-15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-16 4K,http://liveop.CCTV-.cn/hls/CCTV-16HD/playlist.m3u8
+CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 卫视频道,#genre#
 湖南卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?
@@ -171,6 +189,23 @@ CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/enco
 安徽卫视,https://tlivectfree-cdn.ysp.cctv.cn/*/2000298003.m3u8
 河北卫视,https://tlivectfree-cdn.ysp.cctv.cn/*/2000293403.m3u8
 山东卫视,https://tlivectfree-cdn.ysp.cctv.cn/*/2000294803.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+
 
 地方频道,#genre#
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?
