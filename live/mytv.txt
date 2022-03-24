@@ -25,8 +25,9 @@
 3月23日数学,https://mpvideo.qpic.cn/0bc3auacqaaasiagsuikwrrfabodfacqakaa.f10002.mp4?dis_k=77fc2c5400583e6062a1099fa3f7bafa&dis_t=1647996237&vid=wxv_2269068943044820993&format_id=10002&support_redirect=0&mmversion=false
 3月23日英语,https://i3.vzan.cc/mps/20220319/4c4eacceeb5d4811b584303e75421fa5/bee0b21fdde849b2a6651e18670a4165_transcode_100230.m3u8
 3月23日体育,https://i3.vzan.cc/m3u8/20200430/d0dff35916134b0e8d6ce31e74a7d021/v.f24306.m3u8
-天宫课堂,https://live-play.cctvnews.cctv.com/cctv/merge9_mud.m3u8?
 3月23日信息,https://i3.vzan.cc/mps/20220319/689cc19eea8c4654a12459a42264232a/e761b9be1bf84742a7b9291101ad8b82_transcode_100230.m3u8
+3月24日语文,https://i3.vzan.cc/mps/20220319/91ebf1aefba64feca11ccdd1d029cde0/8e6e4dcb5b0443ada6a44383ed86802d_transcode_100230.m3u8
+3月24日体育,https://i3.vzan.cc/mps/20220319/3612c88a7bb44b338bdd3b4a84d4560c/d506dcd98fda40d192a2e48946d6cddb_transcode_100230.m3u8
 
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
