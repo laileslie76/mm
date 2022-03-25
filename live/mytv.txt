@@ -32,6 +32,7 @@
 3月24日科学,https://i3.vzan.cc/mps/20220319/1051b510ef1c413f8390a48013517317/f2b8282676cd46b9b452e265a1ad512a_transcode_100230.m3u8
 3月24日信息,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220324xinxi.mp4
 3月25日数学,https://mpvideo.qpic.cn/0b2efyaamaaayeaepjikujrfalwdayxaabqa.f10002.mp4?dis_k=32198788312e37054c71500c60d9998c&dis_t=1648171405&vid=wxv_2269070414842871814&format_id=10002&support_redirect=0&mmversion=false
+3月25日道法,https://i3.vzan.cc/mps/20220319/0c1002723f114d0388f0bc66efe323f6/68f039d428c344908c5462d83cb2485a_transcode_100230.m3u8
 
 
 上海频道,#genre#
