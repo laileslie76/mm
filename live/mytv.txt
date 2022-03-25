@@ -30,6 +30,8 @@
 3月24日体育,https://i3.vzan.cc/mps/20220319/3612c88a7bb44b338bdd3b4a84d4560c/d506dcd98fda40d192a2e48946d6cddb_transcode_100230.m3u8
 3月24日音乐,https://i3.vzan.cc/m3u8/20200215/77fc7ccdd3dc4ca48e7d615cd02fce81/v.f24306.m3u8
 3月24日科学,https://i3.vzan.cc/mps/20220319/1051b510ef1c413f8390a48013517317/f2b8282676cd46b9b452e265a1ad512a_transcode_100230.m3u8
+3月25日数学,https://i3.vzan.cc/mps/20220319/855357efba154ecfab3d881f342de29d/686b8d850222453d842cae24ce3a35bd_transcode_100230.m3u8
+
 
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
