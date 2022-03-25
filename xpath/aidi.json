@@ -83,22 +83,22 @@
     // 播放地址
 	"dtUrlId": "@href",
     // 二次处理正则
-	"dtUrlIdR": "",
+	"dtUrlIdR": "https://aidi.tv/play/(\\S+).html",
     // 剧集名称
 	"dtUrlName": "/text()",
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "{playUrl}",
+	"playUrl": "https://aidi.tv/play/{playUrl}.html",
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
-	"searchUrl": "https://aidi.tv/index.php/vsearch/{wd}-------------.html",
+	"searchUrl": "https://aidi.tv/index.php/ajax/suggest?mid=1&wd={wd}",
     // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
-	"scVodNode": "//div[@class='searchlist_img']/a",
-	"scVodName": "/@title",
-	"scVodId": "/@href",
-	"scVodIdR": "/index.php/movie/(\\w+).html",
-	"scVodImg": "/@data-original",
-	"scVodMark": "//span[contains(@class,'pic_text')]/text()"
+    "scVodNode": "json:list",
+    "scVodName": "name",
+    "scVodId": "id",
+    "scVodIdR": "",
+    "scVodImg": "pic",
+    "scVodMark": ""
 }
