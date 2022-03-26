@@ -16,6 +16,11 @@
   //"playUrl":"https://lanmeiguojiang.com/ssvip/?url=",
   "categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]
 },
+
+{"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_appys_kan365", "name":"看365", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
+
 {
   "key": "app",
   "name": "app影视",
@@ -23,9 +28,7 @@
   "api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp/at/xml,",
   "categories": []
 },
-{"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_appys_kan365", "name":"看365", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
+
   {
     "key": "csp_xpath_lezhutv",
     "name": "乐猪TV(无法搜)",
