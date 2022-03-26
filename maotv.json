@@ -25,7 +25,7 @@
   "key": "app",
   "name": "app影视",
   "type": 1,
-  "api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp/at/xml,",
+  "api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp/at/xml",
   "categories": []
 },
 
