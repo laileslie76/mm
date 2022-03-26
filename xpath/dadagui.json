@@ -15,7 +15,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "http://www.dadagui.com/vodshow/{cateId}-{area}-{by}-{abc}-{lang}----{catePg}---{year}.html",
+  "cateUrl": "http://www.dadagui.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
   "cateVodNode": "//ul[contains(@class,'stui-vodlist')]/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
