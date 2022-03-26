@@ -20,7 +20,13 @@
 {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_kan365", "name":"看365", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
-
+{
+  "key": "ppayun",
+  "name": "ppayun影视",
+  "type": 1,
+  "api": "https://43.129.90.38/api.php/provide/vod/from/ppayun/?ac=list",
+  "categories": []
+},
 {
   "key": "app",
   "name": "app影视",
