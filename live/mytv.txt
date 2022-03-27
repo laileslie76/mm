@@ -34,7 +34,10 @@
 3月25日数学,https://mpvideo.qpic.cn/0b2efyaamaaayeaepjikujrfalwdayxaabqa.f10002.mp4?dis_k=32198788312e37054c71500c60d9998c&dis_t=1648171405&vid=wxv_2269070414842871814&format_id=10002&support_redirect=0&mmversion=false
 3月25日道法,https://i3.vzan.cc/mps/20220319/0c1002723f114d0388f0bc66efe323f6/68f039d428c344908c5462d83cb2485a_transcode_100230.m3u8
 3月25日综合,https://i3.vzan.cc/mps/20220322/b32a1e613caa4399ba1b1a09d558ce40/941472cf848f444e9da1a7aa603a0255_transcode_100230.m3u8
-
+3月28日语文,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220328yuwen.mp4
+3月28日数学,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220328shuxue.mp4
+3月28日体育,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220328tiyu.mp4
+3月28日美术,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220328meishu.mp4
 
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
