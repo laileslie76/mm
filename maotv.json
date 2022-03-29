@@ -184,7 +184,7 @@
   "api": "https://shangjihuoke.com/api.php/provide/vod/from/CL4K/vod/?ac=list",
 //  "playUrl":"https://ys.ling00.cn/CL4K/?url=",//零刻影院解析
 //  "playUrl":"https://lanmeiguojiang.com/lmjx26/?url=",
-  "playUrl":"http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=",
+//  "playUrl":"http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=",
   "categories": ["电影","连续剧","欧美剧","日韩剧","综艺","动漫","4K"]
 },
 /*
@@ -411,7 +411,7 @@
 "ext":{"flag":["ltnb"]}
 },
  {"name": "多多①","type": 1,"url": "https://a.dxzj88.com/ddzy/dd.php?url=","ext":{"flag": ["duoduozy"]}},
-// {"name":"线路LT5","type":1,"url":"http://121.62.60.222:1314/lt.php?url=","ext":{"flag":["ltnb","longteng"]}},
+ {"name":"线路CL4","type":1,"url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=","ext":{"flag":["CL4K"]}},
 // {"name":"线路LT6","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=2602374&key=abmquzBDHIJKLTY268&url=","ext":{"flag":["ltnb"]}},
 {"name": "线路Xfy","type": 1,"url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=aefiklotwzCEFHJO48&url=","ext": {"flag": ["xfyun"]}},
 {"name":"线路Ayt","type":1,"url":"https://ysjx.jikezhuji.com/api/?key=mQ0OOQdZgaYq4qKv1S&url=","ext": {"flag": ["qiyi","iqiyi","qq","爱奇艺","奇艺","腾讯"]}},
