@@ -171,7 +171,8 @@
   "type": 1,
   "api": "https://shangjihuoke.com/api.php/provide/vod/from/CL4K/vod/?ac=list",
 //  "playUrl":"https://ys.ling00.cn/CL4K/?url=",//零刻影院解析
-  "playUrl":"https://lanmeiguojiang.com/lmjx26/?url=",
+//  "playUrl":"https://lanmeiguojiang.com/lmjx26/?url=",
+  "playUrl":"http://ts.yjhan.com:8090/api/?key=43yVlZDaJg7dYH3DZi&url=",
   "categories": ["电影","连续剧","欧美剧","日韩剧","综艺","动漫","4K"]
 },
 /*
