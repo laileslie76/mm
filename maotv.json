@@ -370,7 +370,7 @@
 {"name":"线路ff2","type":1,"url":"https://json.csjcdn.cn/byte/?key=CAzffab5SGcymwxdfQ&url=",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}
 },
-{"name": "线路DX","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=abcekovwACGJKLQTY5&url=","type": 1,"i": "大熊",
+{"name": "线路DX","url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=behmoswBCFMPQRXZ67&url=","type": 1,"i": "大熊",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
 {"name": "线路DX2","url": "http://api.parwix.com/analysis/json/?uid=1735&my=adkmtvyzAGLMOVWZ35&url=","type": 1,"i": "大熊",
