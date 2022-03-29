@@ -39,6 +39,14 @@
 3月28日体育,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220328tiyu.mp4
 3月28日美术,https://pan.flypotato.xyz/02-%E5%AD%A6%E4%B9%A0/%E5%81%9C%E8%AF%BE%E4%B8%8D%E5%81%9C%E5%AD%A6/20220328meishu.mp4
 3月29日数学,https://i3.vzan.cc/mps/20220325/b7f109c8dbca466e8e6e298ff64dbda7/e276873373514d8bb26bf9de5f53d86e_transcode_100230.m3u8
+3月29日英语,https://i3.vzan.cc/mps/20220325/df1d5716888e498685c0c7bc014d43a7/515f2c00cc5d412481d0f6c186c23665_transcode_100230.m3u8
+3月29日体育,https://i3.vzan.cc/m3u8/20200326/36d61819ba064285a67bee97e2d1ab26/v.f24306.m3u8
+3月29日道法,https://i3.vzan.cc/mps/20220325/f41dc56bfad240c5beb4e2d03e422b9f/a2c80db63c5b45a8942363668c0466f2_transcode_100230.m3u8
+3月30日语文,https://i3.vzan.cc/mps/20220325/a7a60fa0e3944c4b8ed20a7fbec8c1e6/55f91405d82a4f3489bd8818d50f09cf_transcode_100230.m3u8
+3月30日数学,https://i3.vzan.cc/mps/20220325/d25f41cbc9424ad1a903c7f711ae0b09/922b0067287644579e2e457583958ed9_transcode_100230.m3u8
+3月30日体育,https://i3.vzan.cc/upload/video/mp4/20200326/fe338ffa5cff4346bf51d838335eaac2.mp4
+3月30日科学,https://i3.vzan.cc/mps/20220325/cfe5825867a747f2b0120e6059152482/6bcb73db24fc447c9e718e20a0e76e1f_transcode_100230.m3u8
+
 
 上海频道,#genre#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
