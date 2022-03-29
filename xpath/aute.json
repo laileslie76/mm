@@ -1,106 +1,65 @@
 {
-	"ua": "",
-    // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "https://auete.com/",
-    // 分类节点
-	"cateNode": "//ul[@class='navbar-nav mr-auto']/li/a[contains(@href, 'index.html') and not(cotains(@href,'Music'))]",
-    // 分类名
-	"cateName": "/text()",
-    // 分类id
-	"cateId": "/@href",
-    // 分类id二次处理正则
-	"cateIdR": "/(\\w+)/index.html",
-    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
-	"cateManual": {},
-    // 首页推荐视频的节点
-	"homeVodNode": "//div[@class='threadlist']/li",
-    // 首页推荐视频的名称
-	"homeVodName": "/h2/a/@title",
-    // 二次处理正则
-    "homeVodNameR": "",
-    // 首页推荐视频的id
-	"homeVodId": "/a/@href",
-    // 二次处理正则
-	"homeVodIdR": "/(\\w+)/",
-    // 首页推荐视频的图片
-	"homeVodImg": "/a/img/@src",
-    // 二次处理正则
-    "homeVodImgR": "",
-    // 首页推荐视频的简介
-	"homeVodMark": "/a/button[class='hdtag']/text()",
-    // 二次处理正则
-    "homeVodMarkR": "",
-    // 分类页地址 {cateId} 分类id {catePg} 当前页  
-	"cateUrl": "https://auete.com/{cateId}/index{catePg}.html",
-    // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//div[@class='threadlist']/li",
-	"cateVodName": "/h2/a/@title",
-	"cateVodId": "/a/@href",
-	"cateVodIdR": "/(\\w+)/",
-	"cateVodImg": "/a/img/@src",
-	"cateVodMark": "//button[class='hdtag']/text()",
-    // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "https://auete.com/{vid}/",
-  
-    // 详情节点
-	"dtNode": "//div[@class='cover']",
-    // 视频名
-	"dtName": "/a/@title",
-	"dtNameR": "",
-    // 视频图片
-	"dtImg": "/a/@href",
-	"dtImgR": "\\S+(http\\S+)",
-    // 视频分类
-	"dtCate": "/p[contains(text(),'分类')]",
-	"dtCateR": "\\S+\\类型：(\\S+)",
-    // 视频年份
-	"dtYear": "/p[contains(text(),'年份')]",
-	"dtYearR": "\\S+\\年份：(\\S+)",
-    // 视频地区
-	"dtArea": "/p[contains(text(),'地区')]",
-	"dtAreaR": "\\S+\\地区：(\\S+)",
-    // 视频状态
-	"dtMark": "",
-	"dtMarkR": "",
-    // 主演
-	"dtActor": "/p[contains(text(),'主演')]",
-	"dtActorR": "\\S+\\主演：(\\S+)",
-    // 导演
-	"dtDirector": "/p[contains(text(),'导演')]",
-	"dtDirectorR": "\\S+\\导演：(\\S+)",
-    // 视频简介
-	"dtDesc": "/p[contains(text(),'。')]",
-	"dtDescR": "",
-    // 播放源节点
-	"dtFromNode": "//div[@class='player_list']/h2",
-    // 播放源名称
-	"dtFromName": "/text()",
-    // 二次处理正则
-	"dtFromNameR": "",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+  "homeUrl": "https://auete.com",
+  "cateManual": {
+    "电影": "Movie",
+    "国产剧": "Tv/neidi",
+    "香港剧": "Tv/tvbgj",
+    "台湾剧": "Tv/taiju",
+    "欧美剧": "Tv/oumei",
+    "日本剧": "Tv/riju",
+    "韩国剧": "Tv/hanju",
+    "综艺": "Zy",
+    "日漫": "Dm/riman",
+    "国漫": "Dm/guoman",
+    "欧美": "Dm/meiman",
+    "动漫": "Dm/donghua"
+  },
     
-    // 播放列表节点
-	"dtUrlNode": "//div[@class='player_list']/ul",
-    // 播放地址节点
-	"dtUrlSubNode": "/li/a",
-    // 播放地址
-	"dtUrlId": "/@href",
-    // 二次处理正则
-	"dtUrlIdR": "/(\\S+).html",
-    // 剧集名称
-	"dtUrlName": "/text()",
-    // 二次处理正则
-	"dtUrlNameR": "",
-    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://auete.com/{playUrl}.html",
-    // 解析webview的user-agent
-	"playUa": "",
-    // 搜索地址
-	"searchUrl": "https://auete.com/search.php?searchword={wd}",
-    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
-	"scVodNode": "//ul[contains(@class,'threadlist')]",
-	"scVodName": "//span[@class='text-danger']/text()",
-	"scVodId": "//a/@href",
-	"scVodIdR": "/(\\w+)/",
-	"scVodImg": "",
-	"scVodMark": ""
-}      
+// Home Summary ================================================  
+  "homeVodNode": "//div[contains(@class,'picture_list_container')]/ul/li",
+  "homeVodName": "/a/img/@title",
+  "homeVodId": "/h2/a/@href",
+  "homeVodImg": "/a/img/@src",
+  "homeVodMark": "/a/button/text()",
+  
+// Category Summary ================================================    
+  "cateUrl": "https://auete.com/{cateId}/index{catePg}.html",
+  "cateVodNode": "//div[contains(@class,'picture_list_container')]/ul/li",
+  "cateVodName": "/a/img/@title",
+  "cateVodId": "/h2/a/@href",
+  "cateVodImg": "/a/img/@src",
+  "cateVodMark": "/a/button/text()",
+  
+// Category Details ================================================    
+  "dtUrl": "https://auete.com/{vid}",
+  "dtNode": "//div[@class='card-body']",
+  "dtName": "//h1[contains(@class,'title break-all')]/text()",
+  "dtImg":  "//div[@class='cover']/a/@href",
+  "dtCate": "//div[@class='message break-all']/p[8]/text()",
+  "dtArea": "//div[@class='message break-all']/p[10]/text()",
+  "dtYear": "//div[@class='message break-all']/p[11]/text()",
+  "dtActor": "//div[@class='message break-all']/p[7]/text()",
+  "dtDirector": "//div[@class='message break-all']/p[5]/text()",
+  "dtMark": "//div[@class='message break-all']/p[14]/text()",
+  "dtDesc": "//div[@class='message break-all']/p[16]/text()",
+    
+// Playlist =====================================================              
+  "dtFromNode": "//div[contains(@id,'player_list')]/h2",
+  "dtFromName": "[substring-after(text(),'播')]",            // number must match
+  "dtUrlNode": "//div[contains(@id,'player_list')]/ul",      // number must match 
+  "dtUrlSubNode": "/li/a",
+  "dtUrlId": "/@href",
+  "dtUrlName": "/text()",
+  "playUrl": "https://auete.com/{playUrl}",
+  "playUa": "",
+    
+// Search Results ================================================         
+  "searchUrl": "https://auete.com/search.php?searchword={wd}",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": ""
+}
