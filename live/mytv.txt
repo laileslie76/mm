@@ -46,6 +46,14 @@
 3月30日数学,https://i3.vzan.cc/mps/20220325/d25f41cbc9424ad1a903c7f711ae0b09/922b0067287644579e2e457583958ed9_transcode_100230.m3u8
 3月30日体育,https://i3.vzan.cc/upload/video/mp4/20200326/fe338ffa5cff4346bf51d838335eaac2.mp4
 3月30日科学,https://i3.vzan.cc/mps/20220325/cfe5825867a747f2b0120e6059152482/6bcb73db24fc447c9e718e20a0e76e1f_transcode_100230.m3u8
+3月31日语文,https://i3.vzan.cc/mps/20220325/79dbab7fd87e4998b4c21e183343831e/9591d95859ae45a8a8cfc24f8c0807f3_transcode_100230.m3u8
+3月31日英语,https://i3.vzan.cc/upload/video/mp4/20220325/0479ab8f30684f7ea748e1d7e5464c20.mp4
+3月31日体育,https://i3.vzan.cc/m3u8/20200326/ea98f15844194ec0a86d400c3df1d919/v.f24306.m3u8
+3月31日信息,https://i3.vzan.cc/mps/20220325/7b0b4aac902d4c909d8a633a24df0e47/861b8637cc9e4d79a4a378f6f5f3ba77_transcode_100230.m3u8
+4月1日语文,https://i3.vzan.cc/mps/20220325/bfbde513aeee4bb68d1f4c9a45232170/3cc2d74393db420788d3e3908f3cf27d_transcode_100230.m3u8
+4月1日音乐,https://i3.vzan.cc/m3u8/20200410/f621b3d0fe5c43d5bb974ba5b2359ab7/v.f24306.m3u8
+4月1日体育,https://i3.vzan.cc/m3u8/20200326/36d61819ba064285a67bee97e2d1ab26/v.f24306.m3u8
+4月1日综合,https://i3.vzan.cc/m3u8/20200403/dc0521b18da846128092916d3b539ce4/v.f24306.m3u8
 
 
 上海频道,#genre#
