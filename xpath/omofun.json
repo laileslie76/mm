@@ -34,7 +34,7 @@
   "dtImgR": "\\S+(http\\S+)",
   "dtCate": "//a[@class='tag-link']/@title",
   "dtCateR": "",
-  "dtYear": "//a[@class='tag-link'][2]/@title",
+  "dtYear": "//a[@class='tag-link'][2]/text()",
   "dtYearR": "",
   "dtArea": "//div[@class='scroll-box']/div/a[3]/text()",
   "dtAreaR": "",
