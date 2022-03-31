@@ -54,6 +54,10 @@
 4月1日音乐,https://i3.vzan.cc/m3u8/20200410/f621b3d0fe5c43d5bb974ba5b2359ab7/v.f24306.m3u8
 4月1日体育,https://i3.vzan.cc/m3u8/20200326/36d61819ba064285a67bee97e2d1ab26/v.f24306.m3u8
 4月1日综合,https://i3.vzan.cc/m3u8/20200403/dc0521b18da846128092916d3b539ce4/v.f24306.m3u8
+4月2日语文,https://i3.vzan.cc/mps/20220331/3ee198b6999349769d1d982f81040bfd/cd2d1e61162e443881bedc2923ed4c29_transcode_100230.m3u8
+4月2日英语,https://i3.vzan.cc/mps/20220331/38616caff31748788d7e203e7872513b/4b41b1b08fe742d582d9e64f5e1607fa_transcode_100230.m3u8
+4月2日体育,https://i3.vzan.cc/mps/20220331/9a460564ac104079adf064264ba2fb72/dfa14010a68f47ee8d12c7877cdcd80e_transcode_100230.m3u8
+4月2日音乐,https://i3.vzan.cc/upload/video/mp4/20200228/b9b8374e7aa64368bcd168e17b047fd1.mp4
 
 
 上海频道,#genre#
