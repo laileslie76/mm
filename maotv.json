@@ -83,7 +83,7 @@
   "type": 1,
   "api": "https://www.bajiezy.xyz/api.php/provide/vod/from/ltnb/?ac=list",
 //  "api": "https://video.yingworld.vip/api.php/provide/vod/from/ltnb/?ac=list",
-  "playUrl":"https://json.legendwhb.cn/player?url=",
+  "playUrl":"json:https://lanmeiguojiang.com/altjx/musen.php/?url=",
 //  "playUrl":"http://xbfq.ikuwoo.cn/?url=",
 //  "playUrl":"https://lanmeiguojiang.com/ssvip/?url=",
 //  "playUrl":"https://vip.legendwhb.cn/m3u8.php?url=",
