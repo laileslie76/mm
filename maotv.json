@@ -3,8 +3,9 @@
 //"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/custom_spider1.jar",
 "spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/mo-xiao_spider.jar;md5;e9b45aaca137c83a784e05fbde87b2cc",
   "sites": [
-{"key": "type4-libvio","name": "Libvio(t4)","type": 4,"api": "https://cat.mcuke.top/sp/7d8c8213/2304188638","searchable": 1,"quickSearch": 0,"filterable": 1},
+{"key": "libvio-type4","name": "Libvio(t4)","type": 4,"api": "https://cat.mcuke.top/sp/7d8c8213/2304188638","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"wmkk_type4","name":"完美看看(t4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/1464259048","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ddrk-type4","name":"低端影视(t4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/3848126344","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_kan365", "name":"团夕影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
