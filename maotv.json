@@ -386,7 +386,6 @@
 "ext":{"flag":["qq","腾讯","youku","优酷","qiyi","爱奇艺","奇艺","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
 {"name":"线路wudu","type":1,"url":"https://jf.1080p.icu/home/api?type=dsp&uid=147565&key=adilmopuBEFJNUV067&url=","i":"手指","ext":{"flag":["wuduzy"]}},
-{"name":"线路Rx2","type":1,"url":"https://rx.kpjx.cc/Mao.php?url=","ext":{"flag":["rx"]}},
 {"name":"线路CL1","type":1,"url":"http://ys.ling00.cn/json/?url=","ext":{"flag":["CL4K"]}},
 {"name":"线路CL2","type":1,"url":"https://tv.yjhan.com/cljson3394/?url=","ext":{"flag":["CL4K"]}},
 {"name":"线路Cl3","type":1,"url":"http://ts.yjhan.com:8090/api/?key=43yVlZDaJg7dYH3DZi&url=","ext":{"flag":["CL4K"]}},
