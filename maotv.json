@@ -34,6 +34,16 @@
     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/nmys.json"
 },
 
+ {
+    "key": "csp_xpath_zxzj",
+    "name": "在线之家",
+    "type": 3,
+    "api": "csp_XPathFilter",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/zxzj.json"
+},
   {
     "key": "csp_xpath_lezhutv",
     "name": "乐猪TV(无法搜)",
@@ -255,16 +265,6 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/yanetflix.json"
-},
- {
-    "key": "csp_xpath_zxzj",
-    "name": "在线之家",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/zxzj.json"
 },
 
  {
