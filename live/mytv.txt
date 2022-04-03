@@ -245,16 +245,26 @@ CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/enco
 
 
 地方频道,#genre#
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
-北京科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
-北京东奥,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
-北京青年,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
+北京卫视,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?
+北京文艺,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
+北京科教,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?
+北京影视,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?
+北京财经,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?
+北京生活,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
+北京东奥,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
+北京青年,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?
+北京新闻,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
+北京卡酷少儿,https://223.111.24.111/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
+北京卫视,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?
+北京文艺,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?
+北京科教,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?
+北京影视,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?
+北京财经,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?
+北京生活,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
+北京东奥,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?
+北京青年,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?
+北京新闻,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
+北京卡酷少儿,https://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
 南京教科频道,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 南京少儿频道,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京生活频道,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
