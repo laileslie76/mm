@@ -1,6 +1,4 @@
 {
-//"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/gh2_spider.jar",
-//"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/custom_spider1.jar",
 "spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/mo-xiao_spider.jar;md5;e9b45aaca137c83a784e05fbde87b2cc",
   "sites": [
 //{"key": "libvio-type4","name": "Libvio(t4)","type": 4,"api": "https://cat.mcuke.top/sp/7d8c8213/2304188638","searchable": 1,"quickSearch": 0,"filterable": 1},
@@ -11,6 +9,36 @@
 {"key":"csp_appys_kan365", "name":"团夕影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
 {"key": "ppayun","name": "易看影视","type": 1,"api": "https://43.129.90.38/api.php/provide/vod/from/ppayun/?ac=list","categories": []},
 {"key": "app","name": "追剧吧影视","type": 0,"api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp/at/xml"},
+ {
+    "key": "csp_xpath_nmys",
+    "name": "农民影视",
+    "type": 3,
+    "api": "csp_XPathFilter",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/nmys.json"
+},
+ {
+    "key": "csp_xpath_zxzj",
+    "name": "在线之家",
+    "type": 3,
+    "api": "csp_XPathFilter",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/zxzj.json"
+},
+  {
+    "key": "csp_xpath_lezhutv",
+    "name": "乐猪TV",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/lezhutv.json"
+ },
 {
   "key":"guancai",
   "name":"官采资源",
@@ -24,37 +52,7 @@
   "categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]
 },
 
- {
-    "key": "csp_xpath_nmys",
-    "name": "农民影视",
-    "type": 3,
-    "api": "csp_XPathFilter",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/nmys.json"
-},
 
- {
-    "key": "csp_xpath_zxzj",
-    "name": "在线之家",
-    "type": 3,
-    "api": "csp_XPathFilter",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/zxzj.json"
-},
-  {
-    "key": "csp_xpath_lezhutv",
-    "name": "乐猪TV(无法搜)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 0,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/lezhutv.json"
- },
   {
     "key": "buka_spider",
     "name": "不卡影视(无法搜)",
@@ -202,14 +200,6 @@
     "filterable": 1,
     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/saohuotv.json"
 },
-{
-   "key": "今日影视",
-   "name": "今日影视",
-   "type": 1,
-   "api": "http://miao.apus.pub/api/vod?ac=list"
-      //"api": "http://47.244.124.231:9900/api/vod?ac=list"
-},
-
  {
    "key": "auete_spider",
    "name": "Auete影视",
