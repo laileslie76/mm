@@ -5,13 +5,13 @@
 //{"key":"wmkk_type4","name":"完美看看(t4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/1464259048","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"ddrk-type4","name":"低端影视(t4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/3848126344","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_appys_kan365", "name":"团夕影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
-{"key": "ppayun","name": "易看影视","type": 1,"api": "https://43.129.90.38/api.php/provide/vod/from/ppayun/?ac=list","categories": []},
-{"key": "app","name": "追剧吧影视","type": 0,"api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp/at/xml"},
+{"key":"csp_kmys","name":"酷猫(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_appys_kan365", "name":"看365", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
+{"key": "ppayun","name": "易看","type": 1,"api": "https://43.129.90.38/api.php/provide/vod/from/ppayun/?ac=list","categories": []},
+{"key": "app","name": "追剧吧","type": 0,"api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp/at/xml"},
  {
     "key": "csp_xpath_nmys",
-    "name": "农民影视",
+    "name": "农民",
     "type": 3,
     "api": "csp_XPathFilter",
     "searchable": 1,
@@ -55,7 +55,7 @@
 
   {
     "key": "buka_spider",
-    "name": "不卡影视(无法搜)",
+    "name": "不卡(无法搜)",
     "type": 3,
     "api": "csp_Buka",
     "searchable": 0,
