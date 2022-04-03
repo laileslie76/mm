@@ -5,7 +5,7 @@
 	"cateName": "/text()",
 	"cateId": "/@href",
 	"cateIdR": "vod-type-id-(\\d+)-pg-1.html",
-	"cateManual": {},
+	"cateManual": {"电影":"1","连续剧":"2","综艺":"3","动漫":"4"},
 	"homeVodNode": "//a[@class='b_a']",
 	"homeVodName": "/@title",
 	"homeVodNameR": "",
