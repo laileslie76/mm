@@ -47,7 +47,7 @@
 // Playlist =====================================================              
   "dtFromNode": "//div[contains(@id,'player_list')]/h2",
   "dtFromName": "[substring-after(text(),'播')]",            // number must match
-  "dtFromNameR": "(\\s+)：",  
+
   "dtUrlNode": "//div[contains(@id,'player_list')]/ul",      // number must match 
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "/@href",
