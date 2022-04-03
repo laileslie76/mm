@@ -56,10 +56,9 @@
     
 // Search Results ================================================         
   "searchUrl": "https://auete.com/search.php?searchword={wd}",
-  "scVodNode": "json:list",
-  "scVodName": "name",
-  "scVodId": "id",
+  "scVodNode": "//ul[contains(@class,'list-unstyled threadlist')]/li/div/div[1]/a",
+  "scVodName": "/span/text()",
+  "scVodId": "/@href",
   "scVodIdR": "",
-  "scVodImg": "pic",
-  "scVodMark": ""
+  "scVodImg": "pic"
 }
