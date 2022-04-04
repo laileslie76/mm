@@ -21,6 +21,7 @@
   //"playUrl":"https://lanmeiguojiang.com/ssvip/?url=",
   "categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]
 },
+{"key": "bilibili","name": "Bilibili","type": 1,"api": "https://www.qilinzyz.com/api.php/provide/vod/from/bilibili/?ac=list"},
   {
     "key": "buka_spider",
     "name": "不卡(无法搜)",
