@@ -191,6 +191,7 @@
     "ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/1090.json"
 },
 */
+{"key":"csp_appysv2_ysdr","name":"影视达人","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.ysdr.vip/api.php/v1.vod"},
 {"key":"csp_appys_v1_DC影视", "name":"DC影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
 /*
  {
