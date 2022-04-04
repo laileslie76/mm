@@ -294,7 +294,7 @@
 {"name":"线路ff2","type":1,"url":"https://json.csjcdn.cn/byte/?key=CAzffab5SGcymwxdfQ&url=",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}
 },
-{"name": "线路DC","url": "https://jf.96ym.cn/api/?key=89lC7jgdlbZV5T1nly&url=l","type": 1,"i": "DC",
+{"name": "线路DC","url": "https://jf.96ym.cn/api/?key=89IC7jgdlbZV5T1nly&url=l","type": 1,"i": "DC",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
 
