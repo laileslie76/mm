@@ -5,7 +5,7 @@
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/list/(\\d+).html",
-  "cateManual": {},
+  "cateManual": {"电影":"1","电视剧":"2","动漫":"4",},
   "homeVodNode": "//ul[@class='v_list']/li/div[@class='v_img']",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
