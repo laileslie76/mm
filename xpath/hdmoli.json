@@ -54,7 +54,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
 
-  "playUrl": "concat('https://www.hdmoli.com/js/player/dplayer/dplayer.html?videourl={playUrl},','(?<='var now=\"').*(?='\";var')'))",
+  "playUrl": "https://www.hdmoli.com/{playUrl}",
   "playUa": "",
 
   "searchUrl": "https://www.hdmoli.com/search.php?&searchword={wd}",
