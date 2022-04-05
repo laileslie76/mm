@@ -7,7 +7,7 @@
     "动画":"33",
     "综艺":"39"
     },
-  "homeVodNode": "//div[@class='myui-vodlist__box']/a",
+  "homeVodNode": "//h3/parent::*/parent::*/parent::*//div[@class='myui-vodlist__box']/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/movie/(\\S+).html",
