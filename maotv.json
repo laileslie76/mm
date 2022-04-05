@@ -9,7 +9,7 @@
 {"key": "csp_xpath_nmys","name": "农民影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/nmys.json"},
 {"key": "csp_xpath_zxzj","name": "在线之家","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/zxzj.json"},
 {"key": "csp_xpath_lezhutv","name": "乐猪TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/lezhutv.json"},
-{"key": "csp_xpath_saohuo","name": "骚火TV","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/saohuotv.json"},
+{"key": "csp_xpath_saohuo","name": "骚火TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/saohuotv.json"},
 {"key":"csp_xml_gc","name":"官采资源","type":1,  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */
   "categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]
 },
