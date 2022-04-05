@@ -117,12 +117,10 @@
   "playUrl":"json:http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=",
   "categories": ["电影","连续剧","欧美剧","日韩剧","综艺","动漫","4K"]
 },
+{"key": "auete_spider","name": "Auete影视","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/config/git/raw/master/pub/ext/auete.json"},
 
 {"key":"csp_appysv2_大熊","name":"大熊(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxys2233.com/mogai_api.php/v1.vod"},
-{"key": "auete_spider","name": "Auete影视","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/config/git/raw/master/pub/ext/auete.json"},
 {"key":"csp_appysv2_ysdr","name":"影视达人","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.ysdr.vip/api.php/v1.vod"},
-{"key":"csp_appys_v1_DC影视", "name":"DC影视", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
-
  {
     "key": "csp_xpath_Jumi",
     "name": "剧迷TV",
