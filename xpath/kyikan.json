@@ -100,11 +100,11 @@
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
-    "searchUrl": "https://www.kyikan.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
-    "scVodNode": "json:list",
-    "scVodName": "name",
-    "scVodId": "id",
-    "scVodIdR": "",
-    "scVodImg": "pic",
-    "scVodMark": ""
+    "searchUrl": "https://www.kyikan.cc/index.php?m=vod-search&wd={wd}",
+    "scVodNode": "//div[contains(@class,'index-area')]/ul/li/a[@class='link-hover']",
+    "scVodName": "/@title",
+    "scVodId": "/@href",
+    "scVodIdR": "/vodhtml/(\\w+)/",
+    "scVodImg": "/img/@data-original",
+    "scVodMark": "/p[@class='other']/i/text()"
 }      
