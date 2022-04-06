@@ -1,7 +1,7 @@
 {
     "author":"baddychen",
 	"ua": "",
-    "homeUrl": "https://www.huya.com/g/4615",
+    "homeUrl": "https://www.huya.com/l",
     "cateNode": "//ul[@class='game-list clearfix']/li/a",
 	"cateName": "/p/text()",
 	"cateId": "/@href",
