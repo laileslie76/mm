@@ -18,7 +18,7 @@
 {"key": "buka_spider","name": "真不卡","type": 3,"api": "csp_Buka","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/config/git/raw/master/pub/ext/buka.json"},
 {"key": "csp_xpath_huya","name": "虎牙直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/huya.json"},
 {"key": "csp_xpath_age","name": "AGE动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/agefans.json"},
-{"key": "csp_xpath_omofun","name": "omofun动漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/omofun.json"},
+{"key": "csp_xpath_omofun","name": "omofun动漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/omofun.json"},
 {"key": "csp_xpath_dm84","name": "动漫巴士","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/dm84.json"},
 {"key": "csp_xpath_yinghua","name": "樱花动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/yinghua.json"},
 
