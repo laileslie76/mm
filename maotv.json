@@ -193,13 +193,18 @@
 {"name": "线路77","url": "http://42.157.128.85:880/analysis/json/?uid=2100&my=gjkmqsuBLMNOWY0347&url=","type": 1,"i": "77",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
+{"name":"线路ff","type":1,"url":"https://vip.byteamone.cn/api/?key=0nca5Ltu48ziJtcFu1&url=",
+"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}
+},
 {"name":"线路ff2","type":1,"url":"https://json.csjcdn.cn/byte/?key=CAzffab5SGcymwxdfQ&url=",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}
+},
+{"name": "线路m","url": "https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=","type": 1,"i": "miao",
+"ext":{"flag":["qiyi","爱奇艺","奇艺","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
 {"name": "线路DC","url": "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=jlmsvxDFKMOQSTUY28&url=","type": 1,"i": "DC",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
-
 {"name": "线路dy","url": "https://svip.lanyingtv.com:1011/home/api?type=ys&uid=2841604&key=clmpqrvwxHNORTVY57&url=","type": 1,"i": "段友",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}
 },
@@ -209,9 +214,6 @@
 {"name":"线路300l","type":1,"url":"https://languangyingshiziyuan.1080zy.top/longteng.php/?url=","ext":{"flag":["ltnb"]}},
 {"name": "线路Dm","url": "https://app.omofun.net/m3u8/omofun.php?id=","type": 1,"ext":{"flag":["dmplay"]}},
 {"name":"线路4K","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=",
-"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}
-},
-{"name":"线路ff","type":1,"url":"https://vip.byteamone.cn/api/?key=0nca5Ltu48ziJtcFu1&url=",
 "ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}
 },
 {"name": "线路ly","url": "http://jf.96ym.cn/api/?key=c9bUhQL7YsuL7y8oFz&url=","type": 1,"i": "琅琊","ext":{"flag":["ltnb"]}
