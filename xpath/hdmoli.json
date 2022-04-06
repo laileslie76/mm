@@ -40,7 +40,7 @@
   "dtYearR": "",
   "dtMark": "//h1[@class='title text-fff']/font/text()",
   "dtMarkR": "",
-  "dtActor": "//span[contains(text(), '演员')]/following-sibling::a/text()",
+  "dtActor": "//span[contains(text(), '演员')]/following-sibling::*/text()",
   "dtActorR": "",
   "dtDirector": "//span[contains(text(), '导演')]/parent::*/text()",
   "dtDirectorR": "",
