@@ -16,7 +16,7 @@
 },
 {"key": "csp_xml_bilibili","name": "Bilibili","type": 1,"api": "https://www.qilinzyz.com/api.php/provide/vod/from/bilibili/?ac=list","categories": ["综艺","动漫","电影（B站）","电视剧（B站）","番剧（B站）","国创（B站）"]},
 {"key": "buka_spider","name": "真不卡","type": 3,"api": "csp_Buka","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/config/git/raw/master/pub/ext/buka.json"},
-
+{"key": "csp_xpath_huya","name": "虎牙直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/huya.json"},
 {
   "key": "csp_xml_ltnb",
   "name": "龙腾资源",
