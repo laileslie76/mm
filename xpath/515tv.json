@@ -30,7 +30,7 @@
 	"dtImgR": "",
     "dtCate": "",
     "dtArea": "",
-	"dtFromNode": "//li[@class='curr']/a",
+	"dtFromNode": "//div[@class='slist']/li[@class='curr']/a",
 	"dtFromName": "/text()",
 	"dtFromNameR": "",
 	"dtUrlNode": "//div[@class='btn-group']",
