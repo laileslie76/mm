@@ -30,7 +30,7 @@
 	"dtImgR": "",
     "dtCate": "",
     "dtArea": "",
-	"dtFromNode": "//div[contains(@class,'team-name')][1]/span",
+	"dtFromNode": "//li[@class='curr']/a",
 	"dtFromName": "/text()",
 	"dtFromNameR": "",
 	"dtUrlNode": "//div[@class='btn-group']",
