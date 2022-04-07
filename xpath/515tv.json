@@ -8,7 +8,7 @@
 	"cateIdR": "",
     "cateManual": {"NBA":"1","CBA":"2","英超":"8"},
 	"homeVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
-	"homeVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
+	"homeVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),' vs ',/div[@class='col-md-4 text-left']/span/text())",
 	"homeVodId": "/div[contains(@class,'pay-btn')]/a/@href",
 	"homeVodIdR": "/live/(\\d+)/play",
 	"homeVodImg": "/div[4]/img/@src",
