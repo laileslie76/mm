@@ -23,7 +23,7 @@
 	"cateVodImgR": "\\S+(http\\S+)",
 	"cateVodMark": "/div[contains(@class,'pay-btn')]/a/text()",
 	"dtUrl": "http://www.88kanqiu.com/live/{vid}/play",
-	"dtNode": "//body",
+	"dtNode": "//body[1]",
 	"dtName": "//div[contains(@class,'game-time')]/text()[2]",
 	"dtNameR": "",
 	"dtImg": "",
