@@ -32,7 +32,6 @@ CCTV-6,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/pla
 CCTV-7,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8?
 CCTV-8,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8?
 CCTV-9,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8?
-CCTV-9,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240478_1/encoder/0/playlist.m3u8?
 CCTV-10,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?
 CCTV-11,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8?
 CCTV-12,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8?
