@@ -1,5 +1,5 @@
 {
-"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/mo-xiao_spider0407.jar;md5;ba8a6c4ae2dd587c957eaf9fc89c6392",
+"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/mo-xiao_spider0408.jar;md5;7dc135014e8cd8ce016dd6d75505f787",
   "sites": [
 {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kmys","name":"酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
@@ -11,7 +11,7 @@
 {"key": "csp_xpath_lezhutv","name": "乐猪TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/lezhutv.json"},
 {"key": "csp_xpath_saohuo","name": "骚火TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/saohuotv.json"},
 {"key": "csp_xpath_ikan6","name": "爱看","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/ikan6.json"},
-
+{"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_gc","name":"官采资源","type":1,  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */
   "categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]
 },
