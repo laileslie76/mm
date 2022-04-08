@@ -1,4 +1,4 @@
-#上海频道头#
+#上海频道#
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8#
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8#
 法制天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8#
@@ -17,10 +17,10 @@
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8#
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8#
 哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
-#上海频道尾#
+##
 
 
-#央视频道头#
+#央视频道#
 CCTV-1,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?#
 CCTV-2,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?#
 CCTV-3,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?#
@@ -48,9 +48,9 @@ CGTN西班牙,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240367_1/encode
 CGTN阿拉伯,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240369_1/encoder/0/playlist.m3u8?#
 CGTN俄罗斯,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240370_1/encoder/0/playlist.m3u8?#
 CETV1,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8?
-#央视频道尾#
+##
 
-#卫视频道头# 
+#卫视频道# 
 湖南卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?#
 北京卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8?#
 江苏卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8?#
@@ -75,9 +75,9 @@ CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/enco
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8#
 兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8#
 三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8
-#卫视频道尾#
+##
 
-#地方频道头#
+#地方频道#
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?#
 北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?#
 北京科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?#
@@ -103,9 +103,9 @@ CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/enco
 浙江少儿频道,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#
 浙江留学世界,http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8#
 浙江国际频道,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#地方频道尾#
+##
 
-#港澳其他头#
+#港澳其他#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#
 凤凰香港,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8#
@@ -115,9 +115,9 @@ CNC中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8#
 CNC英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8#
 iPanda,http://117.148.179.167/PLTV/88888888/224/3221231651/index.m3u8#
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#港澳其他尾#
+##
 
-#NBA直播头#
+#NBA直播#
 NBATV,https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/chunks.m3u8#
 ABC,https://d17f1mg1q6g54e.cloudfront.net/hls/abc/chunks.m3u8#
 ESPN,https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8#
@@ -152,9 +152,9 @@ TNT,https://d17f1mg1q6g54e.cloudfront.net/hls/TNT/chunks.m3u8#
 国王,https://d17f1mg1q6g54e.cloudfront.net/hls/kings/chunks.m3u8#
 火箭,https://d17f1mg1q6g54e.cloudfront.net/hls/rockets/chunks.m3u8#
 森林狼,https://d17f1mg1q6g54e.cloudfront.net/hls/timberwolves/chunks.m3u8
-#NBA直播尾#
+##
 
-#NewTV头#
+#NewTV#
 黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8#
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#
 黑莓电竞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8#
@@ -183,16 +183,16 @@ TNT,https://d17f1mg1q6g54e.cloudfront.net/hls/TNT/chunks.m3u8#
 超级电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8#
 超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8#
 金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-#NewTV尾#
+##
 
-#求索&iHOT头#
+#求索&iHOT#
 求索科学,http://39.135.89.131:6610/000000001001/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt#
 求索记录,http://39.135.89.131:6610/000000001001/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt#
 求索动物,http://39.135.89.131:6610/000000001001/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt#
 求索生活,http://39.135.89.131:6610/000000001001/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
-#求索&iHOT尾#
+##
 
-#影视轮播头#
+#影视轮播#
 今日推荐,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8#
 喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8#
 古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8#
@@ -231,4 +231,4 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 经典贺岁片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8#
 每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8#
 武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
-#影视轮播尾#
+##
