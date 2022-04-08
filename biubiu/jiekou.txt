@@ -8,7 +8,7 @@
 {"name":"粉象视界","url":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
 {"name":"蓝风影视","url":"http://www.ruchuplus.cn/api.php/v1.vod"},   
 {"name":"秒看影视","url": "https://www.5skan.com/mogai_api.php/v1.vod"}
-]
+],
 
 "zhujiexi": "https://json.csjcdn.cn/byte/?key=CAzffab5SGcymwxdfQ&url=#http://42.157.128.85:880/analysis/json/?uid=2100&my=gjkmqsuBLMNOWY0347&url=#http://api.vip123kan.vip/?url=#https://lanmeiguojiang.com/altjx/musen.php/?url=",
 "beiyongjiexi": "https://vip.legendwhb.cn/m3u8.php?url=#http://xbfq.ikuwoo.cn/?url=",
