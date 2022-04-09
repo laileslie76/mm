@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "referer":"wkfile.com",
+  "referer":"https://fantuan.tv/",
   "homeUrl": "https://fantuan.tv",
 
   "dcVipFlag": "true",
@@ -58,7 +58,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://fantuan.tv/vodplay/{playUrl}.html",
-  "playUa": "Lavf/58.12.100",
+  "playUa": "",
   "searchUrl": "https://fantuan.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
