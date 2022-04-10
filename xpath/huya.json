@@ -30,7 +30,7 @@
 	"dtImgR": "\\S+(http\\S+)",
     "dtCate": "//span[@class='host-channel']/a[2]/text()",
     "dtArea": "//span[@class='host-channel']/a[1]/text()",
-    "dtActor":"concat('主播:',//h3[@class='host-name']/text())",
+    "dtActor":"//h3[@class='host-name']/text()",
     "dtDesc": "//div[@class='host-info']/h1/text()",    
 	"dtFromNode": "//h3[@class='host-name']",
 	"dtFromName": "/text()",
