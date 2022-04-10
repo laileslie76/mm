@@ -63,7 +63,7 @@
 "sousuoqian": "/index.php?m=vod-search&wd=",
 "sousuohou": "空",
 "sousuohouzhui": "空",
-"ssmoshi": "0",
+"ssmoshi": "1",
 "sousuoshifouercijiequ": "0",
 "jspic": "空",
 "jsname": "空",
