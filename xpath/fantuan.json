@@ -1,5 +1,6 @@
 {
-  "ua": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
+  "ua": "Lavf/58.12.100",
+  "referer":"https://fantuan.wkfile.com/",
   "homeUrl": "https://fantuan.tv",
 
   "dcVipFlag": "true",
