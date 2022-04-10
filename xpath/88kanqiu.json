@@ -17,7 +17,7 @@
 	"cateVodIdR": "/live/(\\d+)/play",
 	"cateVodImg": "/div[4]/img/@src",
 	"cateVodImgR": "\\S+(http\\S+)",
-	"cateVodMark": "concat(/div[contains(@class,'pay-btn')]/a/text(),'·',/parent::*/parent::*/parent::ul[@class='list-group']/li[1]/text(),/div[contains(@class,'category-game-time')]/text())",
+	"cateVodMark": "concat(/div[contains(@class,'pay-btn')]/a/text(),' ',/parent::*/parent::*/parent::ul[@class='list-group']/li[1]/text(),/div[contains(@class,'category-game-time')]/text())",
 	"dtUrl": "http://www.88kanqiu.com/live/{vid}/play",
 	"dtNode": "//body",
 	"dtName": "//div[contains(@class,'game-time')]/text()[2]",
