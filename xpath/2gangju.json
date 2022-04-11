@@ -21,7 +21,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "http://www.2gangju.cc/vodshow/{cateId}--------{catePg}---{year}.html",
-  "cateVodNode": "//ul[contains(@class,'stui-vodlist__box')]//li//a[contains(@class,'stui-vodlist__thumb')]",
+  "cateVodNode": "//div[@class='stui-vodlist__box']/a[contains(@class,'stui-vodlist__thumb')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "",
