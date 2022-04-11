@@ -3,7 +3,7 @@
     "author":"Jonee",
 	"ua": "Mozilla/5.0 (Linux; Android 7.1.1; Mi Note 3 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36",
     // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "http://www.ikuwoo.cn/",
+	"homeUrl": "http://www.blssv.com/",
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
     "cateManual": {"电影": "1","电视剧": "2", "综艺": "3","动漫": "4","海外": "24","4K": "27"},
     // 首页推荐视频的节点
@@ -21,7 +21,7 @@
     // 首页推荐视频的简介
 	"homeVodMark": "//div[@class='module-item-note']/text()",
     // 分类页地址 {cateId} 分类id {catePg} 当前页
-	"cateUrl": "http://www.ikuwoo.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}/page/{catePg}.html",
+	"cateUrl": "http://www.blssv.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}/page/{catePg}.html",
     // 同上面的homeVod字段 分类列表中的视频信息
 	"cateVodNode": "//a[@class='module-poster-item module-item']",
 	"cateVodName": "/@title",
@@ -30,7 +30,7 @@
 	"cateVodImg": "//div[@class='module-item-pic']/img/@data-original",
 	"cateVodMark": "//div[@class='module-item-note']/text()",
     // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "http://www.ikuwoo.cn/index.php/vod/detail/id/{vid}.html",
+	"dtUrl": "http://www.blssv.com/index.php/vod/detail/id/{vid}.html",
     // 详情节点
 	"dtNode": "//div[@class='content']",
     // 视频名
@@ -67,11 +67,11 @@
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "http://www.ikuwoo.cn//index.php/vod/play/id/{vid}/sid/{playUrl}/nid/1.html",
+	"playUrl": "http://www.blssv.com//index.php/vod/play/id/{vid}/sid/{playUrl}/nid/1.html",
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
-	"searchUrl": "http://www.ikuwoo.cn/index.php/vod/search.html?wd={wd}",
+	"searchUrl": "http://www.blssv.com/index.php/vod/search.html?wd={wd}",
     // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
  // 视频的节点
 	"scVodNode": "//a[@class='module-poster-item module-item']",
