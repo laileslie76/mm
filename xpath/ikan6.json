@@ -6,7 +6,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
    "homeUrl": "https://ikan6.vip/",
-  "cateManual":{"电影": "1", "国产剧": "2", "日韩剧": "15", "美剧": "16", "综艺": "3", "动漫": "4", "港台剧": "14", "记录片": "20"},
+  "cateManual":{"电影": "1", "国产剧": "2", "港台剧": "14","日韩剧": "15", "美剧": "16", "综艺": "3", "动漫": "4",  "记录片": "20"},
   "homeVodNode": "//div[@class='module-item']",
   "homeVodName":"//div[@class='module-item-cover']//div[@class='module-item-pic']/a/@title",
   "homeVodId": "//div[@class='module-item-cover']//div[@class='module-item-pic']/a/@href",
