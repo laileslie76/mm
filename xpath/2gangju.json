@@ -1,5 +1,10 @@
 {
-  "ua": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
+  "ua": "",
+  "dcVipFlag": "true",
+  "pCfgJs": "http://www.2gangju.cc/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
   "homeUrl": "http://www.2gangju.cc",
   "cateNode": "",
   "cateName": "",
