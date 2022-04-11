@@ -21,7 +21,7 @@
   "cateVodImg": "/@data-original",
   "cateVodImgR": "",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "dtUrl": "http://www.2gangju.cc/dianying/shuihuxiaochuan/",
+  "dtUrl": "http://www.2gangju.cc/dianshiju/fanqipaoxianlianmengyueyu/",
   "dtNode": "//body",
   "dtName": "//div[@class='stui-content__detail']/h1/text()",
   "dtNameR": "",
