@@ -35,7 +35,7 @@
     "dtActor": "",
     "dtDesc": "//span[contains(text(),'剧情')]/following-sibling::div/p[1]/text()",
     "dtFromNode": "//div[@class='module-tab-title']",
-    "dtFromName": "/text()",
+    "dtFromName": "concat('播放源',count(parent::*/preceding::*//div[@class='module-tab-title']) + 1)",
     "dtFromNameR": "",
     "dtUrlNode": "//div[@class='sort-item']",
     "dtUrlSubNode": "/a",
