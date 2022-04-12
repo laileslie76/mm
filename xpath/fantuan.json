@@ -1,5 +1,5 @@
 {
-  "ua": "Lavf/58.12.100",
+  "ua": "",
   "referer":"https://fantuan.wkfile.com/",
   "homeUrl": "https://fantuan.tv",
 
@@ -58,7 +58,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://fantuan.tv/vodplay/{playUrl}.html",
-  "playUa": "",
+  "playUa": "Dart/2.14 (dart:io)",
   "searchUrl": "https://fantuan.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
