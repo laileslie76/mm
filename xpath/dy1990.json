@@ -24,7 +24,7 @@
   "cateVodIdR": "/video/(\\d+)/",
   "cateVodImg": "/@data-original",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "dtUrl": "https://dy1990.com/v_show/{vid}.html",
+  "dtUrl": "https://dy1990.com/video/{vid}/",
   "dtNode": "//body",
   "dtName": "//div[contains(@class,'stui-content__thumb')]/a[contains(@class,'stui-vodlist__thumb')]/@title",
   "dtNameR": "",
