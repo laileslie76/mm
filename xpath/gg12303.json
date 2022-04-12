@@ -66,11 +66,11 @@
 "dtUrlId": "/@href",
 
 // 二次处理正则
-"dtUrlIdR": "",
+"dtUrlIdR": "/play/(\\S+).html",
  // 剧集名称
 "dtUrlName": "/text()",
  // 二次处理正则
-"dtUrlNameR": "/play/(\\S+).html",
+"dtUrlNameR": "",
  // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
 "playUrl": "https://dy12303.com/vplay/{playUrl}.html",
  // 解析webview的user-agent
