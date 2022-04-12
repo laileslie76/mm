@@ -25,7 +25,7 @@
   "cateVodImg": "/@data-original",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://dy1990.com/v_show/{vid}.html",
-  "dtNode": "//div[contains(@class,'col-md-wide-75')]",
+  "dtNode": "//body",
   "dtName": "//div[contains(@class,'stui-content__thumb')]/a[contains(@class,'stui-vodlist__thumb')]/@title",
   "dtNameR": "",
   "dtImg": "//div[contains(@class,'stui-content__thumb')]/a[contains(@class,'stui-vodlist__thumb')]/@data-original",
