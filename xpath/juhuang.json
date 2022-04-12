@@ -36,7 +36,7 @@
     "dtDesc": "//span[contains(text(),'剧情')]/following-sibling::div/p[1]/text()",
     "dtFromNode": "//div[@class='module-tab-title']",
     "dtFromName": "concat('播放源',count(parent::*/preceding::*//div[@class='module-tab-title']) + 1)",
-    "dtFromNameR": "",
+    "dtFromNameR": "(\\S+).0",
     "dtUrlNode": "//div[@class='sort-item']",
     "dtUrlSubNode": "/a",
     "dtUrlId": "@href",
