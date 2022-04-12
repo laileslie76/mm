@@ -19,7 +19,7 @@
 // 首页推荐视频的id
 "homeVodId": "/@href",
 // 二次处理正则
-"homeVodIdR": "/vdetail/(\\w+).html",
+"homeVodIdR": "/vdetail/(\\d+)/index.html",
   // 首页推荐视频的图
 "homeVodImg": "/@data-original",
    // 二次处理正则
@@ -29,7 +29,7 @@
   // 二次处理正则
   "homeVodMarkR": "",
   // 分类页地址 {cateId} 分类id {catePg} 当前页
-"cateUrl": "https://dy12303.com/vtype/{cateId}-{catePg}.html",
+"cateUrl": "https://dy12303.com/vtype/{cateId}/{catePg}.html",
  // 同上面的homeVod字段 分类列表中的视频信息
 "cateVodNode": "//ul[contains(@class,'stui-vodlist')]/li/a",
 "cateVodName": "/@title",
@@ -53,22 +53,22 @@
 "dtImg": "//div[contains(@class,'stui-content__thumb')]/a/img/@data-original",
 "dtImgR": "\\S+(http\\S+)",
 // 播放源节点  
-"dtFromNode": "//div[contains(@class,'stui-pannel__head')]",
+"dtFromNode": "//div[contains(@class,'stui-pannel__head')]/h3[not(contains(text(),'剧情介绍')) and not(contains(text(),'猜你喜欢'))]",
 // 播放源名称   
-"dtFromName": "/span",
+"dtFromName": "/text()",
 // 二次处理正则
 "dtFromNameR": "",
 // 播放列表节点
 "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
-
+  "dtUrlSubNode": "/li/a",
 
  // 播放地址
-"dtUrlId": "/li/a/@href",
+"dtUrlId": "/@href",
 
 // 二次处理正则
 "dtUrlIdR": "",
  // 剧集名称
-"dtUrlName": "/li/a",
+"dtUrlName": "/text()",
  // 二次处理正则
 "dtUrlNameR": "/play/(\\S+).html",
  // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
