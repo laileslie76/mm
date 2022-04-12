@@ -57,7 +57,7 @@
   "dtUrlNameR": "",
   "playUrl": "http://www.2gangju.cc{playUrl}",
   "playUa": "",
-  "searchUrl": "http://www.2gangju.cc/vodsearch/-------------.html?wd={wd}submit=",
+  "searchUrl": "http://www.2gangju.cc/vodsearch/-------------.html?wd={wd}",
   "scVodNode": "//ul[contains(@class,'stui-vodlist__media')]/li/div/a[contains(@class,'stui-vodlist__thumb')]",
   "scVodName": "/@title",
   "scVodId": "/@href",
