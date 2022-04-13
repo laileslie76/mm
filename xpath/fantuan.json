@@ -58,7 +58,7 @@
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://fantuan.tv/vodplay/{playUrl}.html",
-  "playUa": "",
+  "playUa": "User-Agent#Dart/2.14(dart:i0)&&&origin#https://ptwo.wkfile.com",
   "searchUrl": "https://fantuan.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
