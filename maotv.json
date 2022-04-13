@@ -17,7 +17,7 @@
 {"key": "csp_xpath_meijuchong","name": "美剧虫","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/meijuchong.json"},
 {"key": "csp_xpath_99ys","name": "久久影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/99ys.json"},
 {"key": "csp_N0ys","name": "90影视","type": 3,"api": "csp_N0ys","searchable": 1,"quickSearch": 0,"filterable": 0},
-{"key": "csp_xpath_ikan6","name": "爱看影视","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/ikan6v2.json"},
+{"key": "csp_xpath_ikan6","name": "爱看影视","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/ikan6.json"},
 {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xpath_juhuang","name": "剧荒","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/juhuang.json"},
 {"key":"csp_xml_gc","name":"官采资源","type":1,  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */"playUrl":"parse:自动解析","categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
