@@ -28,7 +28,7 @@
   "dtArea": "//div[@class='message break-all']/p[contains(text(),'地区')]/text()",
   "dtAreaR":"\\S+: (\\S+)",
   "dtYear": "//div[@class='message break-all']/p[contains(text(),'年份')]/text()",
-  "dtYearR":"\\S+: (\\S+)\/\\S+", 
+  "dtYearR":"\\S+: (\\S+)", 
   "dtActor": "//div[@class='message break-all']/p[contains(text(),'主演')]/text()",
   "dtActorR": "\\S+: (\\S+)",
   "dtDirector": "//div[@class='message break-all']/p[contains(text(),'导演')]/text()",
