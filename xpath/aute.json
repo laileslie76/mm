@@ -29,7 +29,7 @@
   "dtActor": "//div[@class='message break-all']/p[7]/text()",
   "dtActorR": "",
   "dtDirector": "//div[@class='message break-all']/p[5]/text()",
-  "dtDirectorR": "\\S+导演:(\\S+)",
+  "dtDirectorR": "◎影片导演:(\\w+)",
   "dtMark": "//div[@class='message break-all']/p[14]/text()",
   "dtDesc": "//div[@class='message break-all']/p[16]/text()",
   "dtFromNode": "//div[contains(@id,'player_list')]/h2",
