@@ -27,7 +27,9 @@
   "dtArea": "//div[@class='message break-all']/p[10]/text()",
   "dtYear": "//div[@class='message break-all']/p[11]/text()",
   "dtActor": "//div[@class='message break-all']/p[7]/text()",
+  "dtActorR": "",
   "dtDirector": "//div[@class='message break-all']/p[5]/text()",
+  "dtDirectorR": "\\S+导演:(\\S+)",
   "dtMark": "//div[@class='message break-all']/p[14]/text()",
   "dtDesc": "//div[@class='message break-all']/p[16]/text()",
   "dtFromNode": "//div[contains(@id,'player_list')]/h2",
@@ -39,12 +41,12 @@
   "playUrl": "https://auete.com/{playUrl}",
   "playUa": "",
   "searchUrl": "https://auete.com/search.php?searchword={wd}",
-  "scVodNode": "//li[contanis(@class,'media')",
-  "scVodName": "//div[contains(@class,'media-body')]/div[contains(@class,'subject')]/a/span/text()",
+  "scVodNode": "//div[contains(@class,'media-body')]/div[contains(@class,'subject')]/a",
+  "scVodName": "/span/text()",
   "scVodId": "/@href",
-  "scVodIdR": "\\S+(http\\S+)",
+  "scVodIdR": "",
   "scVodImg": "//a[@class='navbar-brand text-truncate']/img/@src",
-  "scVodMark": "//div[contains(@class,'media-body')]/div[contains(@class,'d-flex')]/div[contains(@class,'text-muted')]>span/text()",
+  "scVodMark": "",
 
 "filter":{
 "1": [
