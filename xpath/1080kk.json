@@ -46,7 +46,7 @@
                         "dtNode": "//body",
 
                          // 视频名
-                         "dtName":"//div[contains(@class,'myui-content__thumb')]/h1/text()",
+                         "dtName":"//div[contains(@class,'myui-content__detail')]/h1/text()",
                             "dtCate": "//span[contains(@class,'text-muted') and contains(text(),'分类')]/following-sibling::a/text()",
                             "dtYear": "//span[contains(@class,'text-muted') and contains(text(),'年份')]/following-sibling::a/text()",
                             "dtArea": "//span[contains(@class,'text-muted') and contains(text(),'地区')]/following-sibling::a/text()",
@@ -55,7 +55,7 @@
                           "dtImg": "//div[contains(@class,'myui-content__thumb')]/a/img/@data-original",
                           "dtImgR": "\\S+(http\\S+)",
                           // 播放源节点  
-                          "dtFromNode": "//a[contains(@data-toggle,'tab') and contains(@href,'playlist')]",
+                          "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
                           // 播放源名称   
                           "dtFromName": "/text()",
                           // 二次处理正则
