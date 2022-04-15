@@ -47,9 +47,7 @@
 
                          // 视频名
                          "dtName":"//div[contains(@class,'myui-content__detail')]/h1/text()",
-                         //   "dtCate": "//span[contains(@class,'text-muted') and contains(text(),'分类')]/following-sibling::a/text()",
-                         //   "dtYear": "//span[contains(@class,'text-muted') and contains(text(),'年份')]/following-sibling::a/text()",
-                         //   "dtArea": "//span[contains(@class,'text-muted') and contains(text(),'地区')]/following-sibling::a/text()",
+
                           
                           // 视频图片
                           "dtImg": "//div[contains(@class,'myui-content__thumb')]/a/img/@data-original",
