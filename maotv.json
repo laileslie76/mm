@@ -5,7 +5,7 @@
 {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kmys","name":"酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xpath_nmys","name": "农民影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/nmys.json"},
-{"key":"csp_appys_kan365", "name":"看365", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
+{"key":"csp_appys_kan365", "name":"看365", "type":3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
 {"key":"sd_spider","name":"闪电影视","api":"csp_Sd","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_ftys","name":"饭团影视","api":"csp_Ftys","type":3,"searchable":1,"filterable":1,"quickSearch":1,"ext":"https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/fantuan.json"},
 {"key": "csp_xpath_huya","name": "虎牙直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/huya.json"},
