@@ -13,7 +13,7 @@
 "zhujiexi": "https://cat.mcuke.top/sp/jx/7d8c8213/mix?url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://svip.iremind.me/api/?key=AlEFsRrD8YpgcFta4q&url=#https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#https://lanmeiguojiang.com/altjx/musen.php/?url=",
 "beiyongjiexi": "http://q.blssv.com/?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
 "dianshizhibo": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/biubiu/biubiulive.txt",
-"caijizhan": "http://293x.yhzy.xyz/mv/api.php",
+"caijizhan": "http://api.kunyu77.com/api.php",
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
