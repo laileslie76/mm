@@ -40,7 +40,7 @@
 //{"key": "csp_xml_zhuiju8","name": "追剧吧","type": 0,"api": "http://zhuiju8.vip/api.php/provide/vod/from/fuckapp/at/xml"},
 {"key": "csp_xml_ltnb","name": "龙腾资源","type": 1,"api": "https://video.yingworld.vip/api.php/provide/vod/from/ltnb/?ac=list","playUrl":"http://bfq.blssv.com/?url=","categories": ["电影","连续剧","动漫","综艺","其他"]},
 //{"key": "csp_xml_renrenmi","name": "人人迷","type": 1,"api": "https://koko.renrenmi.cc/api.php/provide/vod/?ac=list","playUrl":"https://jx.blbo.cc:4433/?url=","categories": ["国产剧","港台剧","日韩剧","欧美剧","动漫","综艺","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","恐怖片","其他剧"]},
-{"key": "csp_xml_CL4K","name": "苍蓝资源","type": 1,"api": "https://shangjihuoke.com/api.php/provide/vod/from/CL4K/vod/?ac=list","playUrl":"json:http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=","categories": ["电影","连续剧","欧美剧","日韩剧","综艺","动漫","4K"]},
+//{"key": "csp_xml_CL4K","name": "苍蓝资源","type": 1,"api": "https://shangjihuoke.com/api.php/provide/vod/from/CL4K/vod/?ac=list","playUrl":"json:http://jx.yjhan.com:8090/home/api?type=ys&uid=268886&key=afghilnyEGKPRTVY56&url=","categories": ["电影","连续剧","欧美剧","日韩剧","综艺","动漫","4K"]},
 {"key": "csp_xpath_wnvod","name": "万能影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/wnvod.json"},
 {"key": "csp_xpath_kyikan","name": "看一看","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/kyikan.json"},
 {"key":"csp_appysv2_大熊","name":"大熊","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxys2233.com/mogai_api.php/v1.vod"},
