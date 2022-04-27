@@ -46,7 +46,7 @@
   "dtDirectorR": "",
   "dtDesc": "//span[@class='sketch content']/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[contains(@class,'myui-panel__head bottom-line')]/h3[not(contains(text(),'外链数据') or not(contains(text(),'极速备用')))]",
+  "dtFromNode": "//div[contains(@class,'myui-panel__head bottom-line')]/h3",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class,'myui-content__list')]",
