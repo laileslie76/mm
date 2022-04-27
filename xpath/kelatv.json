@@ -43,9 +43,9 @@
 	"dtUrl": "https://www.kelatv.com/detail/{vid}.html",
   
     // 详情节点
-	"dtNode": "//div[@class='detail-main']",
+	"dtNode": "//body",
     // 视频名
-	"dtName": "//div[@class='detail-con-txt']/div/h1/text()",
+	"dtName": "//div[@class='txt-title']/h1/text()",
 	"dtNameR": "",
     // 视频图片
 	"dtImg": "//div[@class='detail-con-pic']/img/@src",
