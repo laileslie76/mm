@@ -68,7 +68,7 @@
     "dtUrlNameR": "",
     "playUrl": "{playUrl}",
     "playUa": "",
-    "searchUrl": "https://www.bttwoo.com/xssearch?q={wd}",
+    "searchUrl": "https://www.bttwoo.com/xssearch?q={wd}&f=_all",
     "scVodNode": "//div[contains(@class,'search_list')]/ul/li",
     "scVodName": "/h3/a/text()",
     "scVodId": "/@href",
