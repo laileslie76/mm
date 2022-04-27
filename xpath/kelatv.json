@@ -69,7 +69,7 @@
 	"dtDirector": "//div[@class='txt-list']/p[contains(text(),'导演')]/text()",
 	"dtDirectorR": "\\导演：(\\S+)",
     // 视频简介
-	"dtDesc": "",
+	"dtDesc": "//div[@class='bt-content']/p[1]/text()",
 	"dtDescR": "",
     // 播放源节点
 	"dtFromNode": "//ul[@class='layui-tab-title']/li",
