@@ -11,7 +11,7 @@
     // 分类id二次处理正则
 	"cateIdR": "",
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
-	"cateManual": {"电影": "dianying","国产剧": "guocanju", "香港剧": "xianggangju","欧美剧": "oumeiju","日本剧": "ribenju","韩国剧": "hanguoju","TV版动漫": "tvban", "剧场版动漫": "juchangban"},
+	"cateManual": {"电影": "dianying","国产剧": "guocanju", "香港剧": "xianggangju","欧美剧": "oumeiju","日本剧": "ribenju","韩国剧": "hanguoju","TV动漫": "tvban", "剧场动漫": "juchangban", "ova动漫": "tebieban"},
     // 首页推荐视频的节点
 	"homeVodNode": "//li[contains(@class,'layui-col-md2')]/a[@class='video-pic']",
     // 首页推荐视频的名称
