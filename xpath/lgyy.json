@@ -38,7 +38,7 @@
     "dtDirectorR": "",
     "dtActor": "//span[contains(text(), '主演')]/following-sibling::div/a/text()",
     "dtActorR": "",
-    "dtDesc": "//span[contains(text(), '剧情')]/following-sibling::div/span/text()",
+    "dtDesc": "//div[@class='module-info-introduction-content']/p/text()",
     "dtDescR": "",
     "dtFromNode": "//div[@id='y-playList']/div/span",
     "dtFromName": "/text()",
