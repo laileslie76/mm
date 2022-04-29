@@ -29,7 +29,7 @@
 {"key":"epang_spider","name":"阿房影视","type":3,"api":"csp_EPangApp","filterable":1,"quickSearch":1,"searchable":1},
 {"key": "csp_xpath_juhuang","name": "剧荒","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/juhuang.json"},
 {"key":"csp_xml_gc","name":"官采资源","type":1,  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",  /* 诺讯资源 */"playUrl":"parse:自动解析","categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
-{"key": "csp_xml_bilibili","name": "Bilibili","type": 1,"api": "https://www.qilinzyz.com/api.php/provide/vod/from/bilibili/?ac=list","playUrl":"1.117.152.239:39000/?url=","categories": ["综艺","动漫","电影（B站）","电视剧（B站）","番剧（B站）","国创（B站）"]},
+{"key": "csp_xml_bilibili","name": "Bilibili","type": 1,"api": "https://www.qilinzyz.com/api.php/provide/vod/from/bilibili/?ac=list","playUrl":"https://jx.parwix.com:4433/player/?url=","categories": ["综艺","动漫","电影（B站）","电视剧（B站）","番剧（B站）","国创（B站）"]},
 {"key": "csp_xpath_lmys","name": "蓝莓影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/lmys.json"},
 {"key": "buka_spider","name": "真不卡","type": 3,"api": "csp_Buka","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/config/git/raw/master/pub/ext/buka.json"},
 {"key": "csp_xpath_age","name": "AGE动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/agefans.json"},
