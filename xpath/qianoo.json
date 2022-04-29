@@ -1,106 +1,62 @@
 {
-	"ua": "",
-    // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "https://qianoo.cn/movie_bt",
-    // 分类节点
-	"cateNode": "//ul[contains(@class,'navlist')]/li/a[contains(@href, '/') and not(contains(text(), '首页'))]",
-    // 分类名
-	"cateName": "/text()",
-    // 分类id
-	"cateId": "/@href",
-    // 分类id二次处理正则
-	"cateIdR": "/(\\w+)",
-    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
-	"cateManual": {},
-    // 首页推荐视频的节点
-	"homeVodNode": "//div[contains(@class,'mrb')]/ul/li/a",
-    // 首页推荐视频的名称
-	"homeVodName": "/img/@alt",
-    // 二次处理正则
-    "homeVodNameR": "",
-    // 首页推荐视频的id
-	"homeVodId": "/@href",
-    // 二次处理正则
-	"homeVodIdR": "",
-    // 首页推荐视频的图片
-	"homeVodImg": "/img/@data-original",
-    // 二次处理正则
-    "homeVodImgR": "",
-    // 首页推荐视频的简介
-	"homeVodMark": "/div[@class='jidi']/span/text()",
-    // 二次处理正则
-    "homeVodMarkR": "",
-    // 分类页地址 {cateId} 分类id {catePg} 当前页  
-	"cateUrl": "https://qianoo.cn/{cateId}/page/{catePg}",
-    // 同上面的homeVod字段 分类列表中的视频信息
-	"cateVodNode": "//div[contains(@class,'mrb')]/ul/li/a",
-	"cateVodName": "/img/@alt",
-	"cateVodId": "/@href",
-	"cateVodIdR": "",
-	"cateVodImg": "/img/@data-original",
-	"cateVodMark": "/div[@class='jidi']/span/text()",
-    // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "{vid}",
-  
-    // 详情节点
-	"dtNode": "//body",
-    // 视频名
-	"dtName": "//div[@class='moviedteail_tt']/h1/text()",
-	"dtNameR": "",
-    // 视频图片
-	"dtImg": "//div[contains(@class,'dyimg')/img/@src",
-	"dtImgR": "\\S+(http\\S+)",
-    // 视频分类
-	"dtCate": "//ul[@class='moviedteail_list']/li[contains(text(), '类型')]/following-sibling::*/text()",
-	"dtCateR": "",
-    // 视频年份
-	"dtYear": "//ul[@class='moviedteail_list']/li[contains(text(), '年份')]/following-sibling::*/text()",
-	"dtYearR": "",
-    // 视频地区
-	"dtArea": "//ul[@class='moviedteail_list']/li[contains(text(), '地区')]/following-sibling::*/text()",
-	"dtAreaR": "",
-    // 视频状态
-	"dtMark": "",
-	"dtMarkR": "",
-    // 主演
-	"dtActor": "//ul[@class='moviedteail_list']/li[contains(text(), '主演')]/following-sibling::*/text()",
-	"dtActorR": "",
-    // 导演
-	"dtDirector": "//ul[@class='moviedteail_list']/li[contains(text(), '导演')]/following-sibling::*/text()",
-	"dtDirectorR": "",
-    // 视频简介
-	"dtDesc": "",
-	"dtDescR": "",
-    // 播放源节点
-	"dtFromNode": "//span[contains(text(),'在线观看')]",
-    // 播放源名称
-	"dtFromName": "/text()",
-    // 二次处理正则
-	"dtFromNameR": "",
-    
-    // 播放列表节点
-	"dtUrlNode": "//div[contains(@class,'paly_list_btn')",
-    // 播放地址节点
-	"dtUrlSubNode": "//a",
-    // 播放地址
-	"dtUrlId": "/@href",
-    // 二次处理正则
-	"dtUrlIdR": "",
-    // 剧集名称
-	"dtUrlName": "/text()",
-    // 二次处理正则
-	"dtUrlNameR": "",
-    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "{playUrl}",
-    // 解析webview的user-agent
-	"playUa": "",
-    // 搜索地址
-	"searchUrl": "https://qianoo.cn/xssearch?q={wd}",
-    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
-	"scVodNode": "//div[contains(@class,'search_list')/ul/li/a",
-	"scVodName": "/img/@alt",
-	"scVodId": "/@href",
-	"scVodIdR": "",
-	"scVodImg": "/img/@src",
-	"scVodMark": ""
-}      
+"ua":"",
+"homeUrl":"https://qianoo.cn",
+"cateNode":"//ul[@class='navlist hidden-md-and-down']/li[contains(@id,'menu-item') and not (contains(@id,'33'))]/a",
+"cateName":"/text()",
+"cateId":"/@href",
+"cateIdR":"(\\w+)",
+"cateManual":{   "豆瓣电影TOP250":"dbtop250","最新电影":"zuixindianying","电视剧":"dsj","国产剧":"gcj","海外剧":"movie_bt_series/hwj","美剧":"meijutt","韩剧":"hanjutv","番剧":"fanju","动漫":"dm"},
+"homeVodNode":"//div[contains(@class,'bt_img mi_ne_kd')]/ul/li/a",
+"homeVodName":"/following-sibling::h3/a/text()",
+"homeVodId":"/@href",
+"homeVodIdR":"/movie/(\\w+).html",
+"homeVodImg":"/img/@data-original",
+"homeVodImgR":"\\S+(http\\S+)",
+"homeVodMark":"/div/span/text()",
+"cateUrl":"https://qianoo.cn/{cateId}/page/{catePg}",
+"cateVodNode":"//div[@class='bt_img mi_ne_kd mrb']/ul/li/a",
+"cateVodName":"/following-sibling::h3/a/text()",
+"cateVodId":"/@href",
+"cateVodIdR":"/movie/(\\w+).html",
+"cateVodImg":"/img/@data-original",
+"cateVodImgR":"\\S+(http\\S+)",
+"cateVodMark":"/div/span/text()",
+"dtUrl":"https://qianoo.cn/movie/{vid}.html",
+"dtNode":"//div[@class='mi_ne_kd dypre']",
+"dtName":"/div[@class='dytext fl']/div/h1/text()",
+"dtNameR":"/movie/(\\w+).html",
+"dtImg":"/div[@class='dyimg fl']/img/@src",
+"dtImgR":"\\S+(http\\S+)",
+"dtCate":"/div[@class='dytext fl']/ul/li[contains(text(),'类型')]/a/text()",
+"dtCateR":"",
+"dtYear":"/div[@class='dytext fl']/ul/li[contains(text(),'年份')]/a/text()",
+"dtYearR":"",
+"dtArea":"/div[@class='dytext fl']/ul/li[contains(text(),'地区')]/a/text()",
+"dtAreaR":"",
+"dtMark":"",
+"dtMarkR":"",
+"dtActor":"/div[@class='dytext fl']/ul/li[contains(text(),'主演')]/a/text()",
+"dtActorR":"",
+"dtDirector":"/div[@class='dytext fl']/ul/li[contains(text(),'导演')/a/text()",
+"dtDirectorR":"",
+"dtDesc":"",
+"dtDescR":"",
+"dtFromNode":"//div[@class='mi_paly_box']/div[@class='mi_ne_kd']",
+"dtFromName":"/div[@class='ypxingq_t']/text()",
+"dtFromNameR":"",
+"dtUrlNode":"//div[@class='paly_list_btn']",
+"dtUrlSubNode":"/a",
+"dtUrlId":"@href",
+"dtUrlIdR":"/v_play/(\\S+).html",
+"dtUrlName":"/text()",
+"dtUrlNameR":"",
+"playUrl":"https://qianoo.cn/v_play/{playUrl}.html",
+"playUa":"",
+"searchUrl":"https://qianoo.cn/xssearch?q={wd}",
+"scVodNode":"//div[@class='bt_img mi_ne_kd search_list']/ul/li/a",
+"scVodName":"/img/@alt",
+"scVodId":"/@href",
+"scVodIdR":"/movie/(\\w+).html",
+"scVodImg":"/img/@src",
+"scVodMark":"/div[@class='jidi']/span/text()"
+}
