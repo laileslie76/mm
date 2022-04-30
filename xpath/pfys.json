@@ -19,7 +19,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/div[@class='module-item-cover']/div[@class='module-item-note']/text()",
  "cateUrl": "https://pfys.me/vodshow/{cateId}--------{catePg}---.html",
-  "cateVodNode": "//div[contains(@class,'module-items  module-poster-items-base')]/a",
+  "cateVodNode": "//div[contains(@class,'module-items module-poster-items-base')]/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/voddetail/(\\d+).html",
