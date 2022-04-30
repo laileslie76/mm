@@ -6,11 +6,8 @@
 	"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
 	"dcShow2Vip": {},
 	"dcPlayUrl": "true",
-	"cateNode": "//ul[contains(@class,'stui-header__menu type-slide')]/li/a[contains(@href, 'vodtype')]",
-	"cateName": "/text()",
-	"cateId": "/@href",
-	"cateIdR": "/vodtype/(\\w+).html",
-	"cateManual": {},
+
+	"cateManual": {"电影":"1","电视剧":"2","综艺":"3","动漫":"4"},
 	"homeVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div[contains(@class,'myui-vodlist__box')]/a",
 	"homeVodName": "/@title",
 	"homeVodId": "/@href",
