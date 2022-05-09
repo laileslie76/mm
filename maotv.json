@@ -1,5 +1,5 @@
 {
-"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/sprider0508.jar;md5;f56f44fb0d671353106400fc5b2e60d2",
+"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/backup/20220506.txt",
 //"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/t3_spider414.jar;md5;77f10dd5ece345547056e55892d670bb",
 "sites": [
 {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
