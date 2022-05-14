@@ -49,9 +49,9 @@
 "dtImg": "//a[@class='vod-detail-thumb']/img/@src",
 "dtImgR": "\\S+(http\\S+)",
 // 播放源节点  
-"dtFromNode": "//ul[contains(@id,'con_playlist')']",
+"dtFromNode": "//div[contains(@class,'details-play-title')]/ul/li",
 // 播放源名称   
-"dtFromName": "concat('播放源',count(parent::*/preceding::*//ul[contains(@id,'con_playlist')']) + 1)",
+"dtFromName": "/a/text()",
 // 二次处理正则
  "dtFromNameR": "",
 // 播放列表节点
