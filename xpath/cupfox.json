@@ -49,9 +49,9 @@
 "dtImg": "//div[contains(@class,'vod-detail-pic col-md-wide-25 col-xs-wide-35 p-xs-0')]/a/img/@src",
 "dtImgR": "\\S+(http\\S+)",
 // 播放源节点  
-"dtFromNode": "//div[contains(@class,'details-play-list clearfix p-sm-5 p-xs-5')]/ul",
+"dtFromNode": "//div[@class='details-play-title clearfix']/ul[contains(@class,'details-play-nav clearfix')]/li/a",
 // 播放源名称   
-"dtFromName": "concat('播放源',count(parent::*/preceding::*//div[contains(@class,'details-play-list clearfix p-sm-5 p-xs-5')]/ul) + 1)",
+"dtFromName": "/text()",
 // 二次处理正则
  "dtFromNameR": "",
 // 播放列表节点
