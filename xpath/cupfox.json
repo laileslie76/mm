@@ -55,8 +55,8 @@
 // 二次处理正则
  "dtFromNameR": "",
 // 播放列表节点
-"dtUrlNode": "//div[contains(@class,'details-play-list clearfix p-sm-5 p-xs-5')]",
-"dtUrlSubNode": "/ul/li/a",
+"dtUrlNode": "//ul[@class='play-list fade-in clearfix']",
+"dtUrlSubNode": "/li/a",
 // 播放地址
 "dtUrlId": "/@href",
 // 二次处理正则
