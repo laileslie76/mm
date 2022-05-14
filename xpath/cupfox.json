@@ -49,9 +49,9 @@
 "dtImg": "//div[contains(@class,'vod-detail-pic col-md-wide-25 col-xs-wide-35 p-xs-0')]/a/img/@src",
 "dtImgR": "\\S+(http\\S+)",
 // 播放源节点  
-"dtFromNode": "//ul[@id='Tab']/li",
+"dtFromNode": "//ul[@class='play-list fade-in clearfix']",
 // 播放源名称   
-"dtFromName": "/a/text()",
+"dtFromName": "concat('播放源',count(parent::*/preceding::*//ul[@class='play-list fade-in clearfix']) + 1)",
 // 二次处理正则
  "dtFromNameR": "",
 // 播放列表节点
