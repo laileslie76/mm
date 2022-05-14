@@ -49,9 +49,9 @@
 "dtImg": "//div[contains(@class,'vod-detail-pic col-md-wide-25 col-xs-wide-35 p-xs-0')]/a/img/@src",
 "dtImgR": "\\S+(http\\S+)",
 // 播放源节点  
-"dtFromNode": "//a[contains(@id,'playlist') and contains(@class,'gico')]",
+"dtFromNode": "//ul[@id='tab']",
 // 播放源名称   
-"dtFromName": "/text()",
+"dtFromName": "/li/a/text()",
 // 二次处理正则
  "dtFromNameR": "",
 // 播放列表节点
