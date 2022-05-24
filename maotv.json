@@ -18,10 +18,11 @@
 {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe","name":"纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPanSou","name":"喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"csp_GitCafe","name":"纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"csp_AliPanSou","name":"喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_xpath_lezhutv","name": "乐猪TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/lezhutv.json"},
 {"key": "csp_xpath_saohuo","name": "骚火TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/saohuotv.json"},
+{"key": "csp_xpath_kelatv","name": "克拉TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/kelatv.json"},
 //{"key": "csp_xpath_zxzj","name": "在线之家","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/zxzj.json"},
 {"key": "csp_xpath_xiaoxiong","name": "小熊影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/xiaoxiong.json"},
 {"key": "csp_xpath_2BT","name": "两个BT","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/2BT.json"},
