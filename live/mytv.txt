@@ -85,6 +85,7 @@ CCTV-4k,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2000266303.m3u8
 CCTV怀旧剧场,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2012511203.m3u8
 CCTV高尔夫网球,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2012512503.m3u8
 CCTV世界地理,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2012513303.m3u8
+CCTV世界地理,https://180.96.55.114/tlivectfree-cdn.ysp.cctv.cn/2012513303.m3u8
 CCTV兵器科技,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2012513403.m3u8
 CCTV卫生健康,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2012513503.m3u8
 CCTV风云剧场,https://36.99.66.166/tlivectfree-cdn.ysp.cctv.cn/2012513603.m3u8
